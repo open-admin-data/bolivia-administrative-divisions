@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BO010701",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camargo",
+      "en": "Camargo",
+      "slug": "camargo-bo010701"
+    },
+    "code": {
+      "id": "BO010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0107",
+      "level": 2,
+      "name": {
+        "local": "Nor Cinti",
+        "en": "Nor Cinti",
+        "slug": "nor-cinti-bo0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0107",
+        "level": 2,
+        "name": {
+          "local": "Nor Cinti",
+          "en": "Nor Cinti",
+          "slug": "nor-cinti-bo0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.603",
+      "lon": "-65.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010703",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Incahuasi",
+      "en": "Incahuasi",
+      "slug": "incahuasi-bo010703"
+    },
+    "code": {
+      "id": "BO010703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0107",
+      "level": 2,
+      "name": {
+        "local": "Nor Cinti",
+        "en": "Nor Cinti",
+        "slug": "nor-cinti-bo0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0107",
+        "level": 2,
+        "name": {
+          "local": "Nor Cinti",
+          "en": "Nor Cinti",
+          "slug": "nor-cinti-bo0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.615",
+      "lon": "-64.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010702",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lucas",
+      "en": "San Lucas",
+      "slug": "san-lucas-bo010702"
+    },
+    "code": {
+      "id": "BO010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0107",
+      "level": 2,
+      "name": {
+        "local": "Nor Cinti",
+        "en": "Nor Cinti",
+        "slug": "nor-cinti-bo0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0107",
+        "level": 2,
+        "name": {
+          "local": "Nor Cinti",
+          "en": "Nor Cinti",
+          "slug": "nor-cinti-bo0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.151",
+      "lon": "-64.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010704",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Charcas",
+      "en": "Villa Charcas",
+      "slug": "villa-charcas-bo010704"
+    },
+    "code": {
+      "id": "BO010704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0107",
+      "level": 2,
+      "name": {
+        "local": "Nor Cinti",
+        "en": "Nor Cinti",
+        "slug": "nor-cinti-bo0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0107",
+        "level": 2,
+        "name": {
+          "local": "Nor Cinti",
+          "en": "Nor Cinti",
+          "slug": "nor-cinti-bo0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.584",
+      "lon": "-64.829"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

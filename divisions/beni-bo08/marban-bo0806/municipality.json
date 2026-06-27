@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO080601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Loreto",
+      "en": "Loreto",
+      "slug": "loreto-bo080601"
+    },
+    "code": {
+      "id": "BO080601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0806",
+      "level": 2,
+      "name": {
+        "local": "Marbán",
+        "en": "Marban",
+        "slug": "marban-bo0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0806",
+        "level": 2,
+        "name": {
+          "local": "Marbán",
+          "en": "Marban",
+          "slug": "marban-bo0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.683",
+      "lon": "-64.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080602",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Andrés",
+      "en": "San Andres",
+      "slug": "san-andres-bo080602"
+    },
+    "code": {
+      "id": "BO080602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0806",
+      "level": 2,
+      "name": {
+        "local": "Marbán",
+        "en": "Marban",
+        "slug": "marban-bo0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0806",
+        "level": 2,
+        "name": {
+          "local": "Marbán",
+          "en": "Marban",
+          "slug": "marban-bo0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.306",
+      "lon": "-64.214"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

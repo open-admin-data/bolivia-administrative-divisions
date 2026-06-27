@@ -1,0 +1,47 @@
+{
+  "id": "BO0215",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Abel Iturralde",
+    "en": "Abel Iturralde",
+    "slug": "abel-iturralde-bo0215"
+  },
+  "code": {
+    "id": "BO0215",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO02",
+    "level": 1,
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-bo02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.223",
+    "lon": "-68.061"
+  },
+  "metadata": {},
+  "source": {}
+}

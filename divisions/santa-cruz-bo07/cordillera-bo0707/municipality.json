@@ -1,0 +1,380 @@
+[
+  {
+    "id": "BO070707",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boyuibe",
+      "en": "Boyuibe",
+      "slug": "boyuibe-bo070707"
+    },
+    "code": {
+      "id": "BO070707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0707",
+      "level": 2,
+      "name": {
+        "local": "Cordillera",
+        "en": "Cordillera",
+        "slug": "cordillera-bo0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0707",
+        "level": 2,
+        "name": {
+          "local": "Cordillera",
+          "en": "Cordillera",
+          "slug": "cordillera-bo0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.308",
+      "lon": "-63.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070703",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabezas",
+      "en": "Cabezas",
+      "slug": "cabezas-bo070703"
+    },
+    "code": {
+      "id": "BO070703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0707",
+      "level": 2,
+      "name": {
+        "local": "Cordillera",
+        "en": "Cordillera",
+        "slug": "cordillera-bo0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0707",
+        "level": 2,
+        "name": {
+          "local": "Cordillera",
+          "en": "Cordillera",
+          "slug": "cordillera-bo0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.476",
+      "lon": "-63.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070706",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camiri",
+      "en": "Camiri",
+      "slug": "camiri-bo070706"
+    },
+    "code": {
+      "id": "BO070706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0707",
+      "level": 2,
+      "name": {
+        "local": "Cordillera",
+        "en": "Cordillera",
+        "slug": "cordillera-bo0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0707",
+        "level": 2,
+        "name": {
+          "local": "Cordillera",
+          "en": "Cordillera",
+          "slug": "cordillera-bo0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.045",
+      "lon": "-63.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070702",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Charagua",
+      "en": "Charagua",
+      "slug": "charagua-bo070702"
+    },
+    "code": {
+      "id": "BO070702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0707",
+      "level": 2,
+      "name": {
+        "local": "Cordillera",
+        "en": "Cordillera",
+        "slug": "cordillera-bo0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0707",
+        "level": 2,
+        "name": {
+          "local": "Cordillera",
+          "en": "Cordillera",
+          "slug": "cordillera-bo0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.236",
+      "lon": "-61.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070704",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuevo",
+      "en": "Cuevo",
+      "slug": "cuevo-bo070704"
+    },
+    "code": {
+      "id": "BO070704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0707",
+      "level": 2,
+      "name": {
+        "local": "Cordillera",
+        "en": "Cordillera",
+        "slug": "cordillera-bo0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0707",
+        "level": 2,
+        "name": {
+          "local": "Cordillera",
+          "en": "Cordillera",
+          "slug": "cordillera-bo0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.329",
+      "lon": "-63.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070705",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gutiérrez",
+      "en": "Gutierrez",
+      "slug": "gutierrez-bo070705"
+    },
+    "code": {
+      "id": "BO070705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0707",
+      "level": 2,
+      "name": {
+        "local": "Cordillera",
+        "en": "Cordillera",
+        "slug": "cordillera-bo0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0707",
+        "level": 2,
+        "name": {
+          "local": "Cordillera",
+          "en": "Cordillera",
+          "slug": "cordillera-bo0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.402",
+      "lon": "-63.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070701",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagunillas",
+      "en": "Lagunillas",
+      "slug": "lagunillas-bo070701"
+    },
+    "code": {
+      "id": "BO070701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0707",
+      "level": 2,
+      "name": {
+        "local": "Cordillera",
+        "en": "Cordillera",
+        "slug": "cordillera-bo0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0707",
+        "level": 2,
+        "name": {
+          "local": "Cordillera",
+          "en": "Cordillera",
+          "slug": "cordillera-bo0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.769",
+      "lon": "-63.626"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

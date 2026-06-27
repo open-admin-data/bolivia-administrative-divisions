@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO040401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Curahuara de Carangas",
+      "en": "Curahuara de Carangas",
+      "slug": "curahuara-de-carangas-bo040401"
+    },
+    "code": {
+      "id": "BO040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0404",
+      "level": 2,
+      "name": {
+        "local": "Sajama",
+        "en": "Sajama",
+        "slug": "sajama-bo0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0404",
+        "level": 2,
+        "name": {
+          "local": "Sajama",
+          "en": "Sajama",
+          "slug": "sajama-bo0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.939",
+      "lon": "-68.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Turco",
+      "en": "Turco",
+      "slug": "turco-bo040402"
+    },
+    "code": {
+      "id": "BO040402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0404",
+      "level": 2,
+      "name": {
+        "local": "Sajama",
+        "en": "Sajama",
+        "slug": "sajama-bo0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0404",
+        "level": 2,
+        "name": {
+          "local": "Sajama",
+          "en": "Sajama",
+          "slug": "sajama-bo0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.314",
+      "lon": "-68.532"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

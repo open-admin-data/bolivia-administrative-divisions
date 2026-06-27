@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO031002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colomi",
+      "en": "Colomi",
+      "slug": "colomi-bo031002"
+    },
+    "code": {
+      "id": "BO031002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0310",
+      "level": 2,
+      "name": {
+        "local": "Chapare",
+        "en": "Chapare",
+        "slug": "chapare-bo0310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0310",
+        "level": 2,
+        "name": {
+          "local": "Chapare",
+          "en": "Chapare",
+          "slug": "chapare-bo0310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.213",
+      "lon": "-65.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sacaba",
+      "en": "Sacaba",
+      "slug": "sacaba-bo031001"
+    },
+    "code": {
+      "id": "BO031001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0310",
+      "level": 2,
+      "name": {
+        "local": "Chapare",
+        "en": "Chapare",
+        "slug": "chapare-bo0310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0310",
+        "level": 2,
+        "name": {
+          "local": "Chapare",
+          "en": "Chapare",
+          "slug": "chapare-bo0310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.32",
+      "lon": "-66.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Tunari",
+      "en": "Villa Tunari",
+      "slug": "villa-tunari-bo031003"
+    },
+    "code": {
+      "id": "BO031003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0310",
+      "level": 2,
+      "name": {
+        "local": "Chapare",
+        "en": "Chapare",
+        "slug": "chapare-bo0310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0310",
+        "level": 2,
+        "name": {
+          "local": "Chapare",
+          "en": "Chapare",
+          "slug": "chapare-bo0310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.557",
+      "lon": "-65.569"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

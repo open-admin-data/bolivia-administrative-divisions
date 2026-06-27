@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO030601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arque",
+      "en": "Arque",
+      "slug": "arque-bo030601"
+    },
+    "code": {
+      "id": "BO030601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0306",
+      "level": 2,
+      "name": {
+        "local": "Arque",
+        "en": "Arque",
+        "slug": "arque-bo0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0306",
+        "level": 2,
+        "name": {
+          "local": "Arque",
+          "en": "Arque",
+          "slug": "arque-bo0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.815",
+      "lon": "-66.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030602",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacopaya",
+      "en": "Tacopaya",
+      "slug": "tacopaya-bo030602"
+    },
+    "code": {
+      "id": "BO030602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0306",
+      "level": 2,
+      "name": {
+        "local": "Arque",
+        "en": "Arque",
+        "slug": "arque-bo0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0306",
+        "level": 2,
+        "name": {
+          "local": "Arque",
+          "en": "Arque",
+          "slug": "arque-bo0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.819",
+      "lon": "-66.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

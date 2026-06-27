@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO050702",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caripuyo",
+      "en": "Caripuyo",
+      "slug": "caripuyo-bo050702"
+    },
+    "code": {
+      "id": "BO050702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0507",
+      "level": 2,
+      "name": {
+        "local": "Alonso de Ibáñez",
+        "en": "Alonso de Ibanez",
+        "slug": "alonso-de-ibanez-bo0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0507",
+        "level": 2,
+        "name": {
+          "local": "Alonso de Ibáñez",
+          "en": "Alonso de Ibanez",
+          "slug": "alonso-de-ibanez-bo0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.176",
+      "lon": "-66.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050701",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sacaca",
+      "en": "Sacaca",
+      "slug": "sacaca-bo050701"
+    },
+    "code": {
+      "id": "BO050701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0507",
+      "level": 2,
+      "name": {
+        "local": "Alonso de Ibáñez",
+        "en": "Alonso de Ibanez",
+        "slug": "alonso-de-ibanez-bo0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0507",
+        "level": 2,
+        "name": {
+          "local": "Alonso de Ibáñez",
+          "en": "Alonso de Ibanez",
+          "slug": "alonso-de-ibanez-bo0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.166",
+      "lon": "-66.325"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

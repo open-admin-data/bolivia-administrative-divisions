@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO060302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caraparí",
+      "en": "Carapari",
+      "slug": "carapari-bo060302"
+    },
+    "code": {
+      "id": "BO060302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0603",
+      "level": 2,
+      "name": {
+        "local": "Gran Chaco",
+        "en": "Gran Chaco",
+        "slug": "gran-chaco-bo0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0603",
+        "level": 2,
+        "name": {
+          "local": "Gran Chaco",
+          "en": "Gran Chaco",
+          "slug": "gran-chaco-bo0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.825",
+      "lon": "-63.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO060303",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Montes",
+      "en": "Villa Montes",
+      "slug": "villa-montes-bo060303"
+    },
+    "code": {
+      "id": "BO060303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0603",
+      "level": 2,
+      "name": {
+        "local": "Gran Chaco",
+        "en": "Gran Chaco",
+        "slug": "gran-chaco-bo0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0603",
+        "level": 2,
+        "name": {
+          "local": "Gran Chaco",
+          "en": "Gran Chaco",
+          "slug": "gran-chaco-bo0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.61",
+      "lon": "-62.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO060301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yacuiba",
+      "en": "Yacuiba",
+      "slug": "yacuiba-bo060301"
+    },
+    "code": {
+      "id": "BO060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0603",
+      "level": 2,
+      "name": {
+        "local": "Gran Chaco",
+        "en": "Gran Chaco",
+        "slug": "gran-chaco-bo0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0603",
+        "level": 2,
+        "name": {
+          "local": "Gran Chaco",
+          "en": "Gran Chaco",
+          "slug": "gran-chaco-bo0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.792",
+      "lon": "-63.28"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

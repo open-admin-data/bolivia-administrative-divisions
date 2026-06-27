@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO050802",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atocha",
+      "en": "Atocha",
+      "slug": "atocha-bo050802"
+    },
+    "code": {
+      "id": "BO050802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0508",
+      "level": 2,
+      "name": {
+        "local": "Sur Chichas",
+        "en": "Sur Chichas",
+        "slug": "sur-chichas-bo0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0508",
+        "level": 2,
+        "name": {
+          "local": "Sur Chichas",
+          "en": "Sur Chichas",
+          "slug": "sur-chichas-bo0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.047",
+      "lon": "-66.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050801",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tupiza",
+      "en": "Tupiza",
+      "slug": "tupiza-bo050801"
+    },
+    "code": {
+      "id": "BO050801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0508",
+      "level": 2,
+      "name": {
+        "local": "Sur Chichas",
+        "en": "Sur Chichas",
+        "slug": "sur-chichas-bo0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0508",
+        "level": 2,
+        "name": {
+          "local": "Sur Chichas",
+          "en": "Sur Chichas",
+          "slug": "sur-chichas-bo0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.469",
+      "lon": "-65.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

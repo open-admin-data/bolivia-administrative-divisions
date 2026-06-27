@@ -1,0 +1,942 @@
+[
+  {
+    "id": "BO0215",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Abel Iturralde",
+      "en": "Abel Iturralde",
+      "slug": "abel-iturralde-bo0215"
+    },
+    "code": {
+      "id": "BO0215",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.223",
+      "lon": "-68.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0213",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Aroma",
+      "en": "Aroma",
+      "slug": "aroma-bo0213"
+    },
+    "code": {
+      "id": "BO0213",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.173",
+      "lon": "-67.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0216",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bautista Saavedra",
+      "en": "Bautista Saavedra",
+      "slug": "bautista-saavedra-bo0216"
+    },
+    "code": {
+      "id": "BO0216",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.066",
+      "lon": "-68.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0204",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Camacho",
+      "en": "Camacho",
+      "slug": "camacho-bo0204"
+    },
+    "code": {
+      "id": "BO0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.574",
+      "lon": "-69.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0220",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Caranavi",
+      "en": "Caranavi",
+      "slug": "caranavi-bo0220"
+    },
+    "code": {
+      "id": "BO0220",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.696",
+      "lon": "-67.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0207",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Franz Tamayo",
+      "en": "Franz Tamayo",
+      "slug": "franz-tamayo-bo0207"
+    },
+    "code": {
+      "id": "BO0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.641",
+      "lon": "-68.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0219",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "General José Manuel Pando",
+      "en": "General Jose Manuel Pando",
+      "slug": "general-jose-manuel-pando-bo0219"
+    },
+    "code": {
+      "id": "BO0219",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.226",
+      "lon": "-69.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0218",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Gualberto Villarroel",
+      "en": "Gualberto Villarroel",
+      "slug": "gualberto-villarroel-bo0218"
+    },
+    "code": {
+      "id": "BO0218",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.647",
+      "lon": "-67.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0208",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ingavi",
+      "en": "Ingavi",
+      "slug": "ingavi-bo0208"
+    },
+    "code": {
+      "id": "BO0208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.762",
+      "lon": "-68.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0210",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Inquisivi",
+      "en": "Inquisivi",
+      "slug": "inquisivi-bo0210"
+    },
+    "code": {
+      "id": "BO0210",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.939",
+      "lon": "-67.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0206",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Larecaja",
+      "en": "Larecaja",
+      "slug": "larecaja-bo0206"
+    },
+    "code": {
+      "id": "BO0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.614",
+      "lon": "-68.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0209",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Loayza",
+      "en": "Loayza",
+      "slug": "loayza-bo0209"
+    },
+    "code": {
+      "id": "BO0209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.041",
+      "lon": "-67.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0212",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Los Andes",
+      "en": "Los Andes",
+      "slug": "los-andes-bo0212"
+    },
+    "code": {
+      "id": "BO0212",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.372",
+      "lon": "-68.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0217",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Manco Kapac",
+      "en": "Manco Kapac",
+      "slug": "manco-kapac-bo0217"
+    },
+    "code": {
+      "id": "BO0217",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.164",
+      "lon": "-69.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0205",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Muñecas",
+      "en": "Munecas",
+      "slug": "munecas-bo0205"
+    },
+    "code": {
+      "id": "BO0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.464",
+      "lon": "-68.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0201",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Murillo",
+      "en": "Murillo",
+      "slug": "murillo-bo0201"
+    },
+    "code": {
+      "id": "BO0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.304",
+      "lon": "-68.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0214",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nor Yungas",
+      "en": "Nor Yungas",
+      "slug": "nor-yungas-bo0214"
+    },
+    "code": {
+      "id": "BO0214",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.201",
+      "lon": "-67.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0202",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Omasuyos",
+      "en": "Omasuyos",
+      "slug": "omasuyos-bo0202"
+    },
+    "code": {
+      "id": "BO0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.005",
+      "lon": "-68.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0203",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Pacajes",
+      "en": "Pacajes",
+      "slug": "pacajes-bo0203"
+    },
+    "code": {
+      "id": "BO0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.414",
+      "lon": "-68.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0211",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sud Yungas",
+      "en": "Sud Yungas",
+      "slug": "sud-yungas-bo0211"
+    },
+    "code": {
+      "id": "BO0211",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.833",
+      "lon": "-67.073"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

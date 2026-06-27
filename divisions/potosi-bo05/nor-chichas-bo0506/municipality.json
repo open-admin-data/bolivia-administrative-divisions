@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO050601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cotagaita",
+      "en": "Cotagaita",
+      "slug": "cotagaita-bo050601"
+    },
+    "code": {
+      "id": "BO050601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0506",
+      "level": 2,
+      "name": {
+        "local": "Nor Chichas",
+        "en": "Nor Chichas",
+        "slug": "nor-chichas-bo0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0506",
+        "level": 2,
+        "name": {
+          "local": "Nor Chichas",
+          "en": "Nor Chichas",
+          "slug": "nor-chichas-bo0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.57",
+      "lon": "-65.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050602",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vitiche",
+      "en": "Vitiche",
+      "slug": "vitiche-bo050602"
+    },
+    "code": {
+      "id": "BO050602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0506",
+      "level": 2,
+      "name": {
+        "local": "Nor Chichas",
+        "en": "Nor Chichas",
+        "slug": "nor-chichas-bo0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0506",
+        "level": 2,
+        "name": {
+          "local": "Nor Chichas",
+          "en": "Nor Chichas",
+          "slug": "nor-chichas-bo0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.335",
+      "lon": "-65.394"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

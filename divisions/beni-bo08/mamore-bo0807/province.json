@@ -1,0 +1,47 @@
+{
+  "id": "BO0807",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Mamoré",
+    "en": "Mamore",
+    "slug": "mamore-bo0807"
+  },
+  "code": {
+    "id": "BO0807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO08",
+    "level": 1,
+    "name": {
+      "local": "Beni",
+      "en": "Beni",
+      "slug": "beni-bo08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.036",
+    "lon": "-64.644"
+  },
+  "metadata": {},
+  "source": {}
+}

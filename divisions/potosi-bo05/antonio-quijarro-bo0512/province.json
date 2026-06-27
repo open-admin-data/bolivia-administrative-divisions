@@ -1,0 +1,47 @@
+{
+  "id": "BO0512",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Antonio Quijarro",
+    "en": "Antonio Quijarro",
+    "slug": "antonio-quijarro-bo0512"
+  },
+  "code": {
+    "id": "BO0512",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO05",
+    "level": 1,
+    "name": {
+      "local": "Potosí",
+      "en": "Potosi",
+      "slug": "potosi-bo05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.158",
+    "lon": "-66.531"
+  },
+  "metadata": {},
+  "source": {}
+}

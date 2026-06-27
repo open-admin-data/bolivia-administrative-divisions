@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO040201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Challapata",
+      "en": "Challapata",
+      "slug": "challapata-bo040201"
+    },
+    "code": {
+      "id": "BO040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0402",
+      "level": 2,
+      "name": {
+        "local": "Abaroa",
+        "en": "Abaroa",
+        "slug": "abaroa-bo0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0402",
+        "level": 2,
+        "name": {
+          "local": "Abaroa",
+          "en": "Abaroa",
+          "slug": "abaroa-bo0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.864",
+      "lon": "-66.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santuario de Quillacas",
+      "en": "Santuario de Quillacas",
+      "slug": "santuario-de-quillacas-bo040202"
+    },
+    "code": {
+      "id": "BO040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0402",
+      "level": 2,
+      "name": {
+        "local": "Abaroa",
+        "en": "Abaroa",
+        "slug": "abaroa-bo0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0402",
+        "level": 2,
+        "name": {
+          "local": "Abaroa",
+          "en": "Abaroa",
+          "slug": "abaroa-bo0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.297",
+      "lon": "-66.863"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

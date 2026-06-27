@@ -1,0 +1,47 @@
+{
+  "id": "BO0506",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Nor Chichas",
+    "en": "Nor Chichas",
+    "slug": "nor-chichas-bo0506"
+  },
+  "code": {
+    "id": "BO0506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO05",
+    "level": 1,
+    "name": {
+      "local": "Potosí",
+      "en": "Potosi",
+      "slug": "potosi-bo05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.57",
+    "lon": "-65.787"
+  },
+  "metadata": {},
+  "source": {}
+}

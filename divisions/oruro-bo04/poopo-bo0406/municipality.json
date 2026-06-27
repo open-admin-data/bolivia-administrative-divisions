@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO040603",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Antequera",
+      "en": "Antequera",
+      "slug": "antequera-bo040603"
+    },
+    "code": {
+      "id": "BO040603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0406",
+      "level": 2,
+      "name": {
+        "local": "Poopó",
+        "en": "Poopo",
+        "slug": "poopo-bo0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0406",
+        "level": 2,
+        "name": {
+          "local": "Poopó",
+          "en": "Poopo",
+          "slug": "poopo-bo0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.535",
+      "lon": "-66.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040602",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pazña",
+      "en": "Pazna",
+      "slug": "pazna-bo040602"
+    },
+    "code": {
+      "id": "BO040602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0406",
+      "level": 2,
+      "name": {
+        "local": "Poopó",
+        "en": "Poopo",
+        "slug": "poopo-bo0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0406",
+        "level": 2,
+        "name": {
+          "local": "Poopó",
+          "en": "Poopo",
+          "slug": "poopo-bo0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.634",
+      "lon": "-66.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poopó",
+      "en": "Poopo",
+      "slug": "poopo-bo040601"
+    },
+    "code": {
+      "id": "BO040601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0406",
+      "level": 2,
+      "name": {
+        "local": "Poopó",
+        "en": "Poopo",
+        "slug": "poopo-bo0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0406",
+        "level": 2,
+        "name": {
+          "local": "Poopó",
+          "en": "Poopo",
+          "slug": "poopo-bo0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.381",
+      "lon": "-66.912"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

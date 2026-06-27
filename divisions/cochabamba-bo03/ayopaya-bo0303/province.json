@@ -1,0 +1,47 @@
+{
+  "id": "BO0303",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ayopaya",
+    "en": "Ayopaya",
+    "slug": "ayopaya-bo0303"
+  },
+  "code": {
+    "id": "BO0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO03",
+    "level": 1,
+    "name": {
+      "local": "Cochabamba",
+      "en": "Cochabamba",
+      "slug": "cochabamba-bo03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.614",
+    "lon": "-66.461"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BO0601",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cercado",
+    "en": "Cercado",
+    "slug": "cercado-bo0601"
+  },
+  "code": {
+    "id": "BO0601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO06",
+    "level": 1,
+    "name": {
+      "local": "Tarija",
+      "en": "Tarija",
+      "slug": "tarija-bo06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO06",
+      "level": 1,
+      "name": {
+        "local": "Tarija",
+        "en": "Tarija",
+        "slug": "tarija-bo06"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.552",
+    "lon": "-64.57"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO021701",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Copacabana",
+      "en": "Copacabana",
+      "slug": "copacabana-bo021701"
+    },
+    "code": {
+      "id": "BO021701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0217",
+      "level": 2,
+      "name": {
+        "local": "Manco Kapac",
+        "en": "Manco Kapac",
+        "slug": "manco-kapac-bo0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0217",
+        "level": 2,
+        "name": {
+          "local": "Manco Kapac",
+          "en": "Manco Kapac",
+          "slug": "manco-kapac-bo0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.141",
+      "lon": "-69.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021702",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro de Tiquina",
+      "en": "San Pedro de Tiquina",
+      "slug": "san-pedro-de-tiquina-bo021702"
+    },
+    "code": {
+      "id": "BO021702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0217",
+      "level": 2,
+      "name": {
+        "local": "Manco Kapac",
+        "en": "Manco Kapac",
+        "slug": "manco-kapac-bo0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0217",
+        "level": 2,
+        "name": {
+          "local": "Manco Kapac",
+          "en": "Manco Kapac",
+          "slug": "manco-kapac-bo0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.23",
+      "lon": "-68.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021703",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tito Yupanqui",
+      "en": "Tito Yupanqui",
+      "slug": "tito-yupanqui-bo021703"
+    },
+    "code": {
+      "id": "BO021703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0217",
+      "level": 2,
+      "name": {
+        "local": "Manco Kapac",
+        "en": "Manco Kapac",
+        "slug": "manco-kapac-bo0217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0217",
+        "level": 2,
+        "name": {
+          "local": "Manco Kapac",
+          "en": "Manco Kapac",
+          "slug": "manco-kapac-bo0217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.176",
+      "lon": "-68.966"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

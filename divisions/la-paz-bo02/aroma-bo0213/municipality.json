@@ -1,0 +1,380 @@
+[
+  {
+    "id": "BO021303",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ayo Ayo",
+      "en": "Ayo Ayo",
+      "slug": "ayo-ayo-bo021303"
+    },
+    "code": {
+      "id": "BO021303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0213",
+      "level": 2,
+      "name": {
+        "local": "Aroma",
+        "en": "Aroma",
+        "slug": "aroma-bo0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0213",
+        "level": 2,
+        "name": {
+          "local": "Aroma",
+          "en": "Aroma",
+          "slug": "aroma-bo0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.072",
+      "lon": "-68.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021304",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calamarca",
+      "en": "Calamarca",
+      "slug": "calamarca-bo021304"
+    },
+    "code": {
+      "id": "BO021304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0213",
+      "level": 2,
+      "name": {
+        "local": "Aroma",
+        "en": "Aroma",
+        "slug": "aroma-bo0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0213",
+        "level": 2,
+        "name": {
+          "local": "Aroma",
+          "en": "Aroma",
+          "slug": "aroma-bo0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.893",
+      "lon": "-68.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021307",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Collana",
+      "en": "Collana",
+      "slug": "collana-bo021307"
+    },
+    "code": {
+      "id": "BO021307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0213",
+      "level": 2,
+      "name": {
+        "local": "Aroma",
+        "en": "Aroma",
+        "slug": "aroma-bo0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0213",
+        "level": 2,
+        "name": {
+          "local": "Aroma",
+          "en": "Aroma",
+          "slug": "aroma-bo0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.896",
+      "lon": "-68.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021306",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colquencha",
+      "en": "Colquencha",
+      "slug": "colquencha-bo021306"
+    },
+    "code": {
+      "id": "BO021306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0213",
+      "level": 2,
+      "name": {
+        "local": "Aroma",
+        "en": "Aroma",
+        "slug": "aroma-bo0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0213",
+        "level": 2,
+        "name": {
+          "local": "Aroma",
+          "en": "Aroma",
+          "slug": "aroma-bo0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.975",
+      "lon": "-68.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021305",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Patacamaya",
+      "en": "Patacamaya",
+      "slug": "patacamaya-bo021305"
+    },
+    "code": {
+      "id": "BO021305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0213",
+      "level": 2,
+      "name": {
+        "local": "Aroma",
+        "en": "Aroma",
+        "slug": "aroma-bo0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0213",
+        "level": 2,
+        "name": {
+          "local": "Aroma",
+          "en": "Aroma",
+          "slug": "aroma-bo0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.203",
+      "lon": "-67.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sicasica",
+      "en": "Sicasica",
+      "slug": "sicasica-bo021301"
+    },
+    "code": {
+      "id": "BO021301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0213",
+      "level": 2,
+      "name": {
+        "local": "Aroma",
+        "en": "Aroma",
+        "slug": "aroma-bo0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0213",
+        "level": 2,
+        "name": {
+          "local": "Aroma",
+          "en": "Aroma",
+          "slug": "aroma-bo0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.345",
+      "lon": "-67.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Umala",
+      "en": "Umala",
+      "slug": "umala-bo021302"
+    },
+    "code": {
+      "id": "BO021302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0213",
+      "level": 2,
+      "name": {
+        "local": "Aroma",
+        "en": "Aroma",
+        "slug": "aroma-bo0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0213",
+        "level": 2,
+        "name": {
+          "local": "Aroma",
+          "en": "Aroma",
+          "slug": "aroma-bo0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.4",
+      "lon": "-68.01"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

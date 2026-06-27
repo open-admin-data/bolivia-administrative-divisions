@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO041601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huayllamarca",
+      "en": "Huayllamarca",
+      "slug": "huayllamarca-bo041601"
+    },
+    "code": {
+      "id": "BO041601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0416",
+      "level": 2,
+      "name": {
+        "local": "Nor Carangas",
+        "en": "Nor Carangas",
+        "slug": "nor-carangas-bo0416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0416",
+        "level": 2,
+        "name": {
+          "local": "Nor Carangas",
+          "en": "Nor Carangas",
+          "slug": "nor-carangas-bo0416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.91",
+      "lon": "-67.837"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

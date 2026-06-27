@@ -1,0 +1,47 @@
+{
+  "id": "BO0515",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Modesto Omiste",
+    "en": "Modesto Omiste",
+    "slug": "modesto-omiste-bo0515"
+  },
+  "code": {
+    "id": "BO0515",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO05",
+    "level": 1,
+    "name": {
+      "local": "Potosí",
+      "en": "Potosi",
+      "slug": "potosi-bo05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.888",
+    "lon": "-65.73"
+  },
+  "metadata": {},
+  "source": {}
+}

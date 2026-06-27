@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO040701",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huanuni",
+      "en": "Huanuni",
+      "slug": "huanuni-bo040701"
+    },
+    "code": {
+      "id": "BO040701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0407",
+      "level": 2,
+      "name": {
+        "local": "Pantaleón Dalence",
+        "en": "Pantaleon Dalence",
+        "slug": "pantaleon-dalence-bo0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0407",
+        "level": 2,
+        "name": {
+          "local": "Pantaleón Dalence",
+          "en": "Pantaleon Dalence",
+          "slug": "pantaleon-dalence-bo0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.276",
+      "lon": "-66.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040702",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Machacamarca",
+      "en": "Machacamarca",
+      "slug": "machacamarca-bo040702"
+    },
+    "code": {
+      "id": "BO040702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0407",
+      "level": 2,
+      "name": {
+        "local": "Pantaleón Dalence",
+        "en": "Pantaleon Dalence",
+        "slug": "pantaleon-dalence-bo0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0407",
+        "level": 2,
+        "name": {
+          "local": "Pantaleón Dalence",
+          "en": "Pantaleon Dalence",
+          "slug": "pantaleon-dalence-bo0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.147",
+      "lon": "-66.969"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

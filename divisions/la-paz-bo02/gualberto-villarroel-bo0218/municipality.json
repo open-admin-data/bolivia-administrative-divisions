@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO021803",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chacarilla",
+      "en": "Chacarilla",
+      "slug": "chacarilla-bo021803"
+    },
+    "code": {
+      "id": "BO021803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0218",
+      "level": 2,
+      "name": {
+        "local": "Gualberto Villarroel",
+        "en": "Gualberto Villarroel",
+        "slug": "gualberto-villarroel-bo0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0218",
+        "level": 2,
+        "name": {
+          "local": "Gualberto Villarroel",
+          "en": "Gualberto Villarroel",
+          "slug": "gualberto-villarroel-bo0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.542",
+      "lon": "-68.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021802",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Papel Pampa",
+      "en": "Papel Pampa",
+      "slug": "papel-pampa-bo021802"
+    },
+    "code": {
+      "id": "BO021802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0218",
+      "level": 2,
+      "name": {
+        "local": "Gualberto Villarroel",
+        "en": "Gualberto Villarroel",
+        "slug": "gualberto-villarroel-bo0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0218",
+        "level": 2,
+        "name": {
+          "local": "Gualberto Villarroel",
+          "en": "Gualberto Villarroel",
+          "slug": "gualberto-villarroel-bo0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.712",
+      "lon": "-67.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021801",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro de Curahuara",
+      "en": "San Pedro de Curahuara",
+      "slug": "san-pedro-de-curahuara-bo021801"
+    },
+    "code": {
+      "id": "BO021801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0218",
+      "level": 2,
+      "name": {
+        "local": "Gualberto Villarroel",
+        "en": "Gualberto Villarroel",
+        "slug": "gualberto-villarroel-bo0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0218",
+        "level": 2,
+        "name": {
+          "local": "Gualberto Villarroel",
+          "en": "Gualberto Villarroel",
+          "slug": "gualberto-villarroel-bo0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.639",
+      "lon": "-67.993"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

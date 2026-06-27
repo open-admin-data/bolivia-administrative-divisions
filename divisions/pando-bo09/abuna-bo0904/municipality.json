@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO090402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ingavi",
+      "en": "Ingavi",
+      "slug": "ingavi-bo090402"
+    },
+    "code": {
+      "id": "BO090402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0904",
+      "level": 2,
+      "name": {
+        "local": "Abuná",
+        "en": "Abuna",
+        "slug": "abuna-bo0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0904",
+        "level": 2,
+        "name": {
+          "local": "Abuná",
+          "en": "Abuna",
+          "slug": "abuna-bo0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.402",
+      "lon": "-66.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO090401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rosa",
+      "en": "Santa Rosa",
+      "slug": "santa-rosa-bo090401"
+    },
+    "code": {
+      "id": "BO090401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0904",
+      "level": 2,
+      "name": {
+        "local": "Abuná",
+        "en": "Abuna",
+        "slug": "abuna-bo0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0904",
+        "level": 2,
+        "name": {
+          "local": "Abuná",
+          "en": "Abuna",
+          "slug": "abuna-bo0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.668",
+      "lon": "-67.285"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

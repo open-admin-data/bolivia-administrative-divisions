@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO031602",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Shinahota",
+      "en": "Shinahota",
+      "slug": "shinahota-bo031602"
+    },
+    "code": {
+      "id": "BO031602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0316",
+      "level": 2,
+      "name": {
+        "local": "Tiraque",
+        "en": "Tiraque",
+        "slug": "tiraque-bo0316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0316",
+        "level": 2,
+        "name": {
+          "local": "Tiraque",
+          "en": "Tiraque",
+          "slug": "tiraque-bo0316"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.04",
+      "lon": "-65.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tiraque",
+      "en": "Tiraque",
+      "slug": "tiraque-bo031601"
+    },
+    "code": {
+      "id": "BO031601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0316",
+      "level": 2,
+      "name": {
+        "local": "Tiraque",
+        "en": "Tiraque",
+        "slug": "tiraque-bo0316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0316",
+        "level": 2,
+        "name": {
+          "local": "Tiraque",
+          "en": "Tiraque",
+          "slug": "tiraque-bo0316"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.316",
+      "lon": "-65.492"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

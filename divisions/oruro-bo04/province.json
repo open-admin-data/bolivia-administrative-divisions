@@ -1,0 +1,754 @@
+[
+  {
+    "id": "BO0402",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Abaroa",
+      "en": "Abaroa",
+      "slug": "abaroa-bo0402"
+    },
+    "code": {
+      "id": "BO0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.865",
+      "lon": "-66.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0403",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Carangas",
+      "en": "Carangas",
+      "slug": "carangas-bo0403"
+    },
+    "code": {
+      "id": "BO0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.375",
+      "lon": "-67.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0401",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cercado",
+      "en": "Cercado",
+      "slug": "cercado-bo0401"
+    },
+    "code": {
+      "id": "BO0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.95",
+      "lon": "-67.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0408",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ladislao Cabrera",
+      "en": "Ladislao Cabrera",
+      "slug": "ladislao-cabrera-bo0408"
+    },
+    "code": {
+      "id": "BO0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.468",
+      "lon": "-67.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0405",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Litoral",
+      "en": "Litoral",
+      "slug": "litoral-bo0405"
+    },
+    "code": {
+      "id": "BO0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.756",
+      "lon": "-68.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0415",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mejillones",
+      "en": "Mejillones",
+      "slug": "mejillones-bo0415"
+    },
+    "code": {
+      "id": "BO0415",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19",
+      "lon": "-68.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0416",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nor Carangas",
+      "en": "Nor Carangas",
+      "slug": "nor-carangas-bo0416"
+    },
+    "code": {
+      "id": "BO0416",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.91",
+      "lon": "-67.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0407",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Pantaleón Dalence",
+      "en": "Pantaleon Dalence",
+      "slug": "pantaleon-dalence-bo0407"
+    },
+    "code": {
+      "id": "BO0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.269",
+      "lon": "-66.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0406",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Poopó",
+      "en": "Poopo",
+      "slug": "poopo-bo0406"
+    },
+    "code": {
+      "id": "BO0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.501",
+      "lon": "-66.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0409",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sabaya",
+      "en": "Sabaya",
+      "slug": "sabaya-bo0409"
+    },
+    "code": {
+      "id": "BO0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.071",
+      "lon": "-68.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0404",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sajama",
+      "en": "Sajama",
+      "slug": "sajama-bo0404"
+    },
+    "code": {
+      "id": "BO0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.105",
+      "lon": "-68.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0413",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "San Pedro de Totora",
+      "en": "San Pedro de Totora",
+      "slug": "san-pedro-de-totora-bo0413"
+    },
+    "code": {
+      "id": "BO0413",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.843",
+      "lon": "-68.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0410",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Saucarí",
+      "en": "Saucari",
+      "slug": "saucari-bo0410"
+    },
+    "code": {
+      "id": "BO0410",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.261",
+      "lon": "-67.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0414",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sebastián Pagador",
+      "en": "Sebastian Pagador",
+      "slug": "sebastian-pagador-bo0414"
+    },
+    "code": {
+      "id": "BO0414",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.161",
+      "lon": "-66.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0412",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sur Carangas",
+      "en": "Sur Carangas",
+      "slug": "sur-carangas-bo0412"
+    },
+    "code": {
+      "id": "BO0412",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.852",
+      "lon": "-67.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0411",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tomás Barrón",
+      "en": "Tomas Barron",
+      "slug": "tomas-barron-bo0411"
+    },
+    "code": {
+      "id": "BO0411",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.629",
+      "lon": "-67.422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "BO0315",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bolivar",
+    "en": "Bolivar",
+    "slug": "bolivar-bo0315"
+  },
+  "code": {
+    "id": "BO0315",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO03",
+    "level": 1,
+    "name": {
+      "local": "Cochabamba",
+      "en": "Cochabamba",
+      "slug": "cochabamba-bo03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.012",
+    "lon": "-66.646"
+  },
+  "metadata": {},
+  "source": {}
+}

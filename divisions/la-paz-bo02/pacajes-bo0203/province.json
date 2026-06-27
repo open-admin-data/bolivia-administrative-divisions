@@ -1,0 +1,47 @@
+{
+  "id": "BO0203",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Pacajes",
+    "en": "Pacajes",
+    "slug": "pacajes-bo0203"
+  },
+  "code": {
+    "id": "BO0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO02",
+    "level": 1,
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-bo02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.414",
+    "lon": "-68.732"
+  },
+  "metadata": {},
+  "source": {}
+}

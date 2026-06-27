@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO020503",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aucapata",
+      "en": "Aucapata",
+      "slug": "aucapata-bo020503"
+    },
+    "code": {
+      "id": "BO020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0205",
+      "level": 2,
+      "name": {
+        "local": "Muñecas",
+        "en": "Munecas",
+        "slug": "munecas-bo0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0205",
+        "level": 2,
+        "name": {
+          "local": "Muñecas",
+          "en": "Munecas",
+          "slug": "munecas-bo0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.44",
+      "lon": "-68.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020502",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ayata",
+      "en": "Ayata",
+      "slug": "ayata-bo020502"
+    },
+    "code": {
+      "id": "BO020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0205",
+      "level": 2,
+      "name": {
+        "local": "Muñecas",
+        "en": "Munecas",
+        "slug": "munecas-bo0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0205",
+        "level": 2,
+        "name": {
+          "local": "Muñecas",
+          "en": "Munecas",
+          "slug": "munecas-bo0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.353",
+      "lon": "-68.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chuma",
+      "en": "Chuma",
+      "slug": "chuma-bo020501"
+    },
+    "code": {
+      "id": "BO020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0205",
+      "level": 2,
+      "name": {
+        "local": "Muñecas",
+        "en": "Munecas",
+        "slug": "munecas-bo0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0205",
+        "level": 2,
+        "name": {
+          "local": "Muñecas",
+          "en": "Munecas",
+          "slug": "munecas-bo0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.567",
+      "lon": "-68.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

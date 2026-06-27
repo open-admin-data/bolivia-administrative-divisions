@@ -1,0 +1,249 @@
+# Potosi — Bolivia Administrative Divisions
+
+> 16 provinces, 40 municipalitys
+> Code: BO05
+> Coordinates: -20.357, -66.965
+> Last updated: 2026-06-27. License: CC-BY-4.0.
+
+## Provinces
+
+### Alonso de Ibáñez (Alonso de Ibanez)
+
+Code: BO0507, Coordinates: -18.165, -66.484
+Municipalitys: 2
+
+#### Caripuyo
+
+Code: BO050702, Coordinates: -18.176, -66.6
+
+#### Sacaca
+
+Code: BO050701, Coordinates: -18.166, -66.325
+
+### Antonio Quijarro
+
+Code: BO0512, Coordinates: -20.158, -66.531
+Municipalitys: 3
+
+#### Porco
+
+Code: BO051203, Coordinates: -19.822, -65.983
+
+#### Tomave
+
+Code: BO051202, Coordinates: -20.113, -66.296
+
+#### Uyuni
+
+Code: BO051201, Coordinates: -20.158, -66.972
+
+### Chárcas (Charcas)
+
+Code: BO0505, Coordinates: -18.294, -65.877
+Municipalitys: 2
+
+#### San Pedro
+
+Code: BO050501, Coordinates: -18.343, -65.982
+
+#### Toro Toro
+
+Code: BO050502, Coordinates: -18.204, -65.717
+
+### Chayanta
+
+Code: BO0504, Coordinates: -18.777, -65.885
+Municipalitys: 4
+
+#### Colquechaca
+
+Code: BO050401, Coordinates: -18.78, -66.002
+
+#### Ocurí (Ocuri)
+
+Code: BO050404, Coordinates: -18.894, -65.772
+
+#### Pocoata
+
+Code: BO050403, Coordinates: -18.64, -66.179
+
+#### Ravelo
+
+Code: BO050402, Coordinates: -18.756, -65.572
+
+### Cornelio Saavedra
+
+Code: BO0503, Coordinates: -19.365, -65.36
+Municipalitys: 3
+
+#### Betanzos
+
+Code: BO050301, Coordinates: -19.437, -65.19
+
+#### Chaquí (Chaqui)
+
+Code: BO050302, Coordinates: -19.603, -65.551
+
+#### Tacobamba
+
+Code: BO050303, Coordinates: -19.21, -65.547
+
+### Daniel Campos
+
+Code: BO0514, Coordinates: -20.075, -68.198
+Municipalitys: 2
+
+#### Llica
+
+Code: BO051401, Coordinates: -20.039, -68.38
+
+#### Tahua
+
+Code: BO051402, Coordinates: -20.47, -67.952
+
+### Enrique Baldivieso
+
+Code: BO0516, Coordinates: -21.468, -67.496
+Municipalitys: 1
+
+#### San Agustín (San Agustin)
+
+Code: BO051601, Coordinates: -21.468, -67.496
+
+### General Bilbao
+
+Code: BO0513, Coordinates: -17.991, -66.091
+Municipalitys: 2
+
+#### Acasio
+
+Code: BO051302, Coordinates: -18.049, -66.045
+
+#### Arampampa
+
+Code: BO051301, Coordinates: -17.944, -66.125
+
+### José María Linares (Jose Maria Linares)
+
+Code: BO0511, Coordinates: -19.881, -65.417
+Municipalitys: 3
+
+#### Caiza &#34;D&#34;
+
+Code: BO051102, Coordinates: -20.025, -65.645
+
+#### Ckochas
+
+Code: BO051103, Coordinates: -19.743, -64.988
+
+#### Puna
+
+Code: BO051101, Coordinates: -19.926, -65.342
+
+### Modesto Omiste
+
+Code: BO0515, Coordinates: -21.888, -65.73
+Municipalitys: 1
+
+#### Villazón (Villazon)
+
+Code: BO051501, Coordinates: -21.888, -65.73
+
+### Nor Chichas
+
+Code: BO0506, Coordinates: -20.57, -65.787
+Municipalitys: 2
+
+#### Cotagaita
+
+Code: BO050601, Coordinates: -20.57, -65.921
+
+#### Vitiche
+
+Code: BO050602, Coordinates: -20.335, -65.394
+
+### Nor Lipez
+
+Code: BO0509, Coordinates: -20.857, -67.623
+Municipalitys: 2
+
+#### Colcha &#34;K&#34;
+
+Code: BO050901, Coordinates: -21.2, -66.932
+
+#### San Pedro de Quemes
+
+Code: BO050902, Coordinates: -21.131, -68.113
+
+### Rafael Bustillo
+
+Code: BO0502, Coordinates: -18.496, -66.431
+Municipalitys: 4
+
+#### Chayanta
+
+Code: BO050202, Coordinates: -18.386, -66.368
+
+#### Chuquihuta Ayllu Jucumani
+
+Code: BO050204, Coordinates: -18.629, -66.354
+
+#### Llallagua
+
+Code: BO050203, Coordinates: -18.368, -66.585
+
+#### Uncía (Uncia)
+
+Code: BO050201, Coordinates: -18.613, -66.524
+
+### Sur Chichas
+
+Code: BO0508, Coordinates: -21.32, -65.854
+Municipalitys: 2
+
+#### Atocha
+
+Code: BO050802, Coordinates: -21.047, -66.152
+
+#### Tupiza
+
+Code: BO050801, Coordinates: -21.469, -65.842
+
+### Sur Lipez
+
+Code: BO0510, Coordinates: -22.101, -67.135
+Municipalitys: 3
+
+#### Mojinete
+
+Code: BO051002, Coordinates: -21.819, -66.355
+
+#### San Antonio de Esmoruco
+
+Code: BO051003, Coordinates: -22.11, -66.604
+
+#### San Pablo
+
+Code: BO051001, Coordinates: -22.097, -67.403
+
+### Tomás Frías (Tomas Frias)
+
+Code: BO0501, Coordinates: -19.4, -65.937
+Municipalitys: 4
+
+#### Potosí (Potosi)
+
+Code: BO050101, Coordinates: -19.558, -65.715
+
+#### Tinguipaya
+
+Code: BO050102, Coordinates: -19.177, -65.904
+
+#### Urmiri
+
+Code: BO050104, Coordinates: -19.47, -66.189
+
+#### Yocalla
+
+Code: BO050103, Coordinates: -19.487, -65.926
+

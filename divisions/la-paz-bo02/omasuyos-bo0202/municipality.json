@@ -1,0 +1,326 @@
+[
+  {
+    "id": "BO020201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Achacachi",
+      "en": "Achacachi",
+      "slug": "achacachi-bo020201"
+    },
+    "code": {
+      "id": "BO020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0202",
+      "level": 2,
+      "name": {
+        "local": "Omasuyos",
+        "en": "Omasuyos",
+        "slug": "omasuyos-bo0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0202",
+        "level": 2,
+        "name": {
+          "local": "Omasuyos",
+          "en": "Omasuyos",
+          "slug": "omasuyos-bo0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.027",
+      "lon": "-68.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020206",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chua Cocani",
+      "en": "Chua Cocani",
+      "slug": "chua-cocani-bo020206"
+    },
+    "code": {
+      "id": "BO020206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0202",
+      "level": 2,
+      "name": {
+        "local": "Omasuyos",
+        "en": "Omasuyos",
+        "slug": "omasuyos-bo0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0202",
+        "level": 2,
+        "name": {
+          "local": "Omasuyos",
+          "en": "Omasuyos",
+          "slug": "omasuyos-bo0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.159",
+      "lon": "-68.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020203",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huarina",
+      "en": "Huarina",
+      "slug": "huarina-bo020203"
+    },
+    "code": {
+      "id": "BO020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0202",
+      "level": 2,
+      "name": {
+        "local": "Omasuyos",
+        "en": "Omasuyos",
+        "slug": "omasuyos-bo0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0202",
+        "level": 2,
+        "name": {
+          "local": "Omasuyos",
+          "en": "Omasuyos",
+          "slug": "omasuyos-bo0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.169",
+      "lon": "-68.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020205",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huatajata",
+      "en": "Huatajata",
+      "slug": "huatajata-bo020205"
+    },
+    "code": {
+      "id": "BO020205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0202",
+      "level": 2,
+      "name": {
+        "local": "Omasuyos",
+        "en": "Omasuyos",
+        "slug": "omasuyos-bo0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0202",
+        "level": 2,
+        "name": {
+          "local": "Omasuyos",
+          "en": "Omasuyos",
+          "slug": "omasuyos-bo0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.195",
+      "lon": "-68.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020204",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago de Huata",
+      "en": "Santiago de Huata",
+      "slug": "santiago-de-huata-bo020204"
+    },
+    "code": {
+      "id": "BO020204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0202",
+      "level": 2,
+      "name": {
+        "local": "Omasuyos",
+        "en": "Omasuyos",
+        "slug": "omasuyos-bo0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0202",
+        "level": 2,
+        "name": {
+          "local": "Omasuyos",
+          "en": "Omasuyos",
+          "slug": "omasuyos-bo0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.076",
+      "lon": "-68.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Ancoraimes",
+      "en": "Villa Ancoraimes",
+      "slug": "villa-ancoraimes-bo020202"
+    },
+    "code": {
+      "id": "BO020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0202",
+      "level": 2,
+      "name": {
+        "local": "Omasuyos",
+        "en": "Omasuyos",
+        "slug": "omasuyos-bo0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0202",
+        "level": 2,
+        "name": {
+          "local": "Omasuyos",
+          "en": "Omasuyos",
+          "slug": "omasuyos-bo0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.855",
+      "lon": "-68.881"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

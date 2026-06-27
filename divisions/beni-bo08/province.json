@@ -1,0 +1,378 @@
+[
+  {
+    "id": "BO0801",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cercado",
+      "en": "Cercado",
+      "slug": "cercado-bo0801"
+    },
+    "code": {
+      "id": "BO0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.531",
+      "lon": "-64.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0803",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "General José Ballivián",
+      "en": "General Jose Ballivian",
+      "slug": "general-jose-ballivian-bo0803"
+    },
+    "code": {
+      "id": "BO0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.904",
+      "lon": "-67.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0808",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Iténez",
+      "en": "Itenez",
+      "slug": "itenez-bo0808"
+    },
+    "code": {
+      "id": "BO0808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.372",
+      "lon": "-63.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0807",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mamoré",
+      "en": "Mamore",
+      "slug": "mamore-bo0807"
+    },
+    "code": {
+      "id": "BO0807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.036",
+      "lon": "-64.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0806",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Marbán",
+      "en": "Marban",
+      "slug": "marban-bo0806"
+    },
+    "code": {
+      "id": "BO0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.565",
+      "lon": "-64.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0805",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Moxos",
+      "en": "Moxos",
+      "slug": "moxos-bo0805"
+    },
+    "code": {
+      "id": "BO0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.323",
+      "lon": "-65.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0802",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Vaca Diez",
+      "en": "Vaca Diez",
+      "slug": "vaca-diez-bo0802"
+    },
+    "code": {
+      "id": "BO0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.194",
+      "lon": "-65.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0804",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Yacuma",
+      "en": "Yacuma",
+      "slug": "yacuma-bo0804"
+    },
+    "code": {
+      "id": "BO0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.783",
+      "lon": "-65.896"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

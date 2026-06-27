@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO031101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tapacarí",
+      "en": "Tapacari",
+      "slug": "tapacari-bo031101"
+    },
+    "code": {
+      "id": "BO031101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0311",
+      "level": 2,
+      "name": {
+        "local": "Tapacarí",
+        "en": "Tapacari",
+        "slug": "tapacari-bo0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0311",
+        "level": 2,
+        "name": {
+          "local": "Tapacarí",
+          "en": "Tapacari",
+          "slug": "tapacari-bo0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.576",
+      "lon": "-66.668"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

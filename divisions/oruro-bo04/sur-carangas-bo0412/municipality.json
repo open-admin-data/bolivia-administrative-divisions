@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO041201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Andamarca",
+      "en": "Andamarca",
+      "slug": "andamarca-bo041201"
+    },
+    "code": {
+      "id": "BO041201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0412",
+      "level": 2,
+      "name": {
+        "local": "Sur Carangas",
+        "en": "Sur Carangas",
+        "slug": "sur-carangas-bo0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0412",
+        "level": 2,
+        "name": {
+          "local": "Sur Carangas",
+          "en": "Sur Carangas",
+          "slug": "sur-carangas-bo0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.853",
+      "lon": "-67.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO041202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belén de Andamarca",
+      "en": "Belen de Andamarca",
+      "slug": "belen-de-andamarca-bo041202"
+    },
+    "code": {
+      "id": "BO041202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0412",
+      "level": 2,
+      "name": {
+        "local": "Sur Carangas",
+        "en": "Sur Carangas",
+        "slug": "sur-carangas-bo0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0412",
+        "level": 2,
+        "name": {
+          "local": "Sur Carangas",
+          "en": "Sur Carangas",
+          "slug": "sur-carangas-bo0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.895",
+      "lon": "-67.772"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

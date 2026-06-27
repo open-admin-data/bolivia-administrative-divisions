@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO051102",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caiza \"D\"",
+      "en": "Caiza \"D\"",
+      "slug": "caiza-d-bo051102"
+    },
+    "code": {
+      "id": "BO051102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0511",
+      "level": 2,
+      "name": {
+        "local": "José María Linares",
+        "en": "Jose Maria Linares",
+        "slug": "jose-maria-linares-bo0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0511",
+        "level": 2,
+        "name": {
+          "local": "José María Linares",
+          "en": "Jose Maria Linares",
+          "slug": "jose-maria-linares-bo0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.025",
+      "lon": "-65.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO051103",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ckochas",
+      "en": "Ckochas",
+      "slug": "ckochas-bo051103"
+    },
+    "code": {
+      "id": "BO051103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0511",
+      "level": 2,
+      "name": {
+        "local": "José María Linares",
+        "en": "Jose Maria Linares",
+        "slug": "jose-maria-linares-bo0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0511",
+        "level": 2,
+        "name": {
+          "local": "José María Linares",
+          "en": "Jose Maria Linares",
+          "slug": "jose-maria-linares-bo0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.743",
+      "lon": "-64.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO051101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puna",
+      "en": "Puna",
+      "slug": "puna-bo051101"
+    },
+    "code": {
+      "id": "BO051101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0511",
+      "level": 2,
+      "name": {
+        "local": "José María Linares",
+        "en": "Jose Maria Linares",
+        "slug": "jose-maria-linares-bo0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0511",
+        "level": 2,
+        "name": {
+          "local": "José María Linares",
+          "en": "Jose Maria Linares",
+          "slug": "jose-maria-linares-bo0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.926",
+      "lon": "-65.342"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

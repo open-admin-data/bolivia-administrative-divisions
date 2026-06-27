@@ -1,0 +1,47 @@
+{
+  "id": "BO0201",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Murillo",
+    "en": "Murillo",
+    "slug": "murillo-bo0201"
+  },
+  "code": {
+    "id": "BO0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO02",
+    "level": 1,
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-bo02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.304",
+    "lon": "-68.071"
+  },
+  "metadata": {},
+  "source": {}
+}

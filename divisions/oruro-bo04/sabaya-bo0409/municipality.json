@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO040903",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chipaya",
+      "en": "Chipaya",
+      "slug": "chipaya-bo040903"
+    },
+    "code": {
+      "id": "BO040903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0409",
+      "level": 2,
+      "name": {
+        "local": "Sabaya",
+        "en": "Sabaya",
+        "slug": "sabaya-bo0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0409",
+        "level": 2,
+        "name": {
+          "local": "Sabaya",
+          "en": "Sabaya",
+          "slug": "sabaya-bo0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.067",
+      "lon": "-68.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040902",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coipasa",
+      "en": "Coipasa",
+      "slug": "coipasa-bo040902"
+    },
+    "code": {
+      "id": "BO040902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0409",
+      "level": 2,
+      "name": {
+        "local": "Sabaya",
+        "en": "Sabaya",
+        "slug": "sabaya-bo0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0409",
+        "level": 2,
+        "name": {
+          "local": "Sabaya",
+          "en": "Sabaya",
+          "slug": "sabaya-bo0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.332",
+      "lon": "-68.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040901",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sabaya",
+      "en": "Sabaya",
+      "slug": "sabaya-bo040901"
+    },
+    "code": {
+      "id": "BO040901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0409",
+      "level": 2,
+      "name": {
+        "local": "Sabaya",
+        "en": "Sabaya",
+        "slug": "sabaya-bo0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0409",
+        "level": 2,
+        "name": {
+          "local": "Sabaya",
+          "en": "Sabaya",
+          "slug": "sabaya-bo0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.938",
+      "lon": "-68.826"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

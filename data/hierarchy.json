@@ -1,0 +1,5767 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/bo/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/bolivia-administrative-divisions",
+  "data": [
+    {
+      "id": "BO08",
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      },
+      "code": {
+        "id": "BO08",
+        "iso": null
+      },
+      "province": [
+        {
+          "id": "BO0801",
+          "name": {
+            "local": "Cercado",
+            "en": "Cercado",
+            "slug": "cercado-bo0801"
+          },
+          "code": {
+            "id": "BO0801",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO080102",
+              "name": {
+                "local": "San Javier",
+                "en": "San Javier",
+                "slug": "san-javier-bo080102"
+              },
+              "code": {
+                "id": "BO080102",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080101",
+              "name": {
+                "local": "Trinidad",
+                "en": "Trinidad",
+                "slug": "trinidad-bo080101"
+              },
+              "code": {
+                "id": "BO080101",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0803",
+          "name": {
+            "local": "General José Ballivián",
+            "en": "General Jose Ballivian",
+            "slug": "general-jose-ballivian-bo0803"
+          },
+          "code": {
+            "id": "BO0803",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO080304",
+              "name": {
+                "local": "Puerto Menor de Rurrenabaque",
+                "en": "Puerto Menor de Rurrenabaque",
+                "slug": "puerto-menor-de-rurrenabaque-bo080304"
+              },
+              "code": {
+                "id": "BO080304",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080301",
+              "name": {
+                "local": "Reyes",
+                "en": "Reyes",
+                "slug": "reyes-bo080301"
+              },
+              "code": {
+                "id": "BO080301",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080302",
+              "name": {
+                "local": "San Borja",
+                "en": "San Borja",
+                "slug": "san-borja-bo080302"
+              },
+              "code": {
+                "id": "BO080302",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080303",
+              "name": {
+                "local": "Santa Rosa",
+                "en": "Santa Rosa",
+                "slug": "santa-rosa-bo080303"
+              },
+              "code": {
+                "id": "BO080303",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0808",
+          "name": {
+            "local": "Iténez",
+            "en": "Itenez",
+            "slug": "itenez-bo0808"
+          },
+          "code": {
+            "id": "BO0808",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO080802",
+              "name": {
+                "local": "Baures",
+                "en": "Baures",
+                "slug": "baures-bo080802"
+              },
+              "code": {
+                "id": "BO080802",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080803",
+              "name": {
+                "local": "Huacaraje",
+                "en": "Huacaraje",
+                "slug": "huacaraje-bo080803"
+              },
+              "code": {
+                "id": "BO080803",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080801",
+              "name": {
+                "local": "Magdalena",
+                "en": "Magdalena",
+                "slug": "magdalena-bo080801"
+              },
+              "code": {
+                "id": "BO080801",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0807",
+          "name": {
+            "local": "Mamoré",
+            "en": "Mamore",
+            "slug": "mamore-bo0807"
+          },
+          "code": {
+            "id": "BO0807",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO080703",
+              "name": {
+                "local": "Puerto Siles",
+                "en": "Puerto Siles",
+                "slug": "puerto-siles-bo080703"
+              },
+              "code": {
+                "id": "BO080703",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080701",
+              "name": {
+                "local": "San Joaquín",
+                "en": "San Joaquin",
+                "slug": "san-joaquin-bo080701"
+              },
+              "code": {
+                "id": "BO080701",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080702",
+              "name": {
+                "local": "San Ramón",
+                "en": "San Ramon",
+                "slug": "san-ramon-bo080702"
+              },
+              "code": {
+                "id": "BO080702",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0806",
+          "name": {
+            "local": "Marbán",
+            "en": "Marban",
+            "slug": "marban-bo0806"
+          },
+          "code": {
+            "id": "BO0806",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO080601",
+              "name": {
+                "local": "Loreto",
+                "en": "Loreto",
+                "slug": "loreto-bo080601"
+              },
+              "code": {
+                "id": "BO080601",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080602",
+              "name": {
+                "local": "San Andrés",
+                "en": "San Andres",
+                "slug": "san-andres-bo080602"
+              },
+              "code": {
+                "id": "BO080602",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0805",
+          "name": {
+            "local": "Moxos",
+            "en": "Moxos",
+            "slug": "moxos-bo0805"
+          },
+          "code": {
+            "id": "BO0805",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO080501",
+              "name": {
+                "local": "San Ignacio",
+                "en": "San Ignacio",
+                "slug": "san-ignacio-bo080501"
+              },
+              "code": {
+                "id": "BO080501",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0802",
+          "name": {
+            "local": "Vaca Diez",
+            "en": "Vaca Diez",
+            "slug": "vaca-diez-bo0802"
+          },
+          "code": {
+            "id": "BO0802",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO080202",
+              "name": {
+                "local": "Guayaramerín",
+                "en": "Guayaramerin",
+                "slug": "guayaramerin-bo080202"
+              },
+              "code": {
+                "id": "BO080202",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080201",
+              "name": {
+                "local": "Riberalta",
+                "en": "Riberalta",
+                "slug": "riberalta-bo080201"
+              },
+              "code": {
+                "id": "BO080201",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0804",
+          "name": {
+            "local": "Yacuma",
+            "en": "Yacuma",
+            "slug": "yacuma-bo0804"
+          },
+          "code": {
+            "id": "BO0804",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO080402",
+              "name": {
+                "local": "Exaltación",
+                "en": "Exaltacion",
+                "slug": "exaltacion-bo080402"
+              },
+              "code": {
+                "id": "BO080402",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO080401",
+              "name": {
+                "local": "Santa Ana",
+                "en": "Santa Ana",
+                "slug": "santa-ana-bo080401"
+              },
+              "code": {
+                "id": "BO080401",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BO01",
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      },
+      "code": {
+        "id": "BO01",
+        "iso": null
+      },
+      "province": [
+        {
+          "id": "BO0102",
+          "name": {
+            "local": "Azurduy",
+            "en": "Azurduy",
+            "slug": "azurduy-bo0102"
+          },
+          "code": {
+            "id": "BO0102",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO010201",
+              "name": {
+                "local": "Azurduy",
+                "en": "Azurduy",
+                "slug": "azurduy-bo010201"
+              },
+              "code": {
+                "id": "BO010201",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010202",
+              "name": {
+                "local": "Tarvita",
+                "en": "Tarvita",
+                "slug": "tarvita-bo010202"
+              },
+              "code": {
+                "id": "BO010202",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0108",
+          "name": {
+            "local": "Belisario Boeto",
+            "en": "Belisario Boeto",
+            "slug": "belisario-boeto-bo0108"
+          },
+          "code": {
+            "id": "BO0108",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO010801",
+              "name": {
+                "local": "Villa Serrano",
+                "en": "Villa Serrano",
+                "slug": "villa-serrano-bo010801"
+              },
+              "code": {
+                "id": "BO010801",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0105",
+          "name": {
+            "local": "Hernando Siles",
+            "en": "Hernando Siles",
+            "slug": "hernando-siles-bo0105"
+          },
+          "code": {
+            "id": "BO0105",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO010502",
+              "name": {
+                "local": "Huacareta",
+                "en": "Huacareta",
+                "slug": "huacareta-bo010502"
+              },
+              "code": {
+                "id": "BO010502",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010501",
+              "name": {
+                "local": "Monteagudo",
+                "en": "Monteagudo",
+                "slug": "monteagudo-bo010501"
+              },
+              "code": {
+                "id": "BO010501",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0110",
+          "name": {
+            "local": "Luis Calvo",
+            "en": "Luis Calvo",
+            "slug": "luis-calvo-bo0110"
+          },
+          "code": {
+            "id": "BO0110",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO011002",
+              "name": {
+                "local": "Huacaya",
+                "en": "Huacaya",
+                "slug": "huacaya-bo011002"
+              },
+              "code": {
+                "id": "BO011002",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO011003",
+              "name": {
+                "local": "Macharetí",
+                "en": "Machareti",
+                "slug": "machareti-bo011003"
+              },
+              "code": {
+                "id": "BO011003",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO011001",
+              "name": {
+                "local": "Villa Vaca Guzmán",
+                "en": "Villa Vaca Guzman",
+                "slug": "villa-vaca-guzman-bo011001"
+              },
+              "code": {
+                "id": "BO011001",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0107",
+          "name": {
+            "local": "Nor Cinti",
+            "en": "Nor Cinti",
+            "slug": "nor-cinti-bo0107"
+          },
+          "code": {
+            "id": "BO0107",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO010701",
+              "name": {
+                "local": "Camargo",
+                "en": "Camargo",
+                "slug": "camargo-bo010701"
+              },
+              "code": {
+                "id": "BO010701",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010703",
+              "name": {
+                "local": "Incahuasi",
+                "en": "Incahuasi",
+                "slug": "incahuasi-bo010703"
+              },
+              "code": {
+                "id": "BO010703",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010702",
+              "name": {
+                "local": "San Lucas",
+                "en": "San Lucas",
+                "slug": "san-lucas-bo010702"
+              },
+              "code": {
+                "id": "BO010702",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010704",
+              "name": {
+                "local": "Villa Charcas",
+                "en": "Villa Charcas",
+                "slug": "villa-charcas-bo010704"
+              },
+              "code": {
+                "id": "BO010704",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0101",
+          "name": {
+            "local": "Oropeza",
+            "en": "Oropeza",
+            "slug": "oropeza-bo0101"
+          },
+          "code": {
+            "id": "BO0101",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO010103",
+              "name": {
+                "local": "Poroma",
+                "en": "Poroma",
+                "slug": "poroma-bo010103"
+              },
+              "code": {
+                "id": "BO010103",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010101",
+              "name": {
+                "local": "Sucre",
+                "en": "Sucre",
+                "slug": "sucre-bo010101"
+              },
+              "code": {
+                "id": "BO010101",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010102",
+              "name": {
+                "local": "Yotala",
+                "en": "Yotala",
+                "slug": "yotala-bo010102"
+              },
+              "code": {
+                "id": "BO010102",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0109",
+          "name": {
+            "local": "Sur Cinti",
+            "en": "Sur Cinti",
+            "slug": "sur-cinti-bo0109"
+          },
+          "code": {
+            "id": "BO0109",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO010902",
+              "name": {
+                "local": "Culpina",
+                "en": "Culpina",
+                "slug": "culpina-bo010902"
+              },
+              "code": {
+                "id": "BO010902",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010903",
+              "name": {
+                "local": "Las Carreras",
+                "en": "Las Carreras",
+                "slug": "las-carreras-bo010903"
+              },
+              "code": {
+                "id": "BO010903",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010901",
+              "name": {
+                "local": "Villa Abecia",
+                "en": "Villa Abecia",
+                "slug": "villa-abecia-bo010901"
+              },
+              "code": {
+                "id": "BO010901",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0104",
+          "name": {
+            "local": "Tomina",
+            "en": "Tomina",
+            "slug": "tomina-bo0104"
+          },
+          "code": {
+            "id": "BO0104",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO010404",
+              "name": {
+                "local": "Alcalá",
+                "en": "Alcala",
+                "slug": "alcala-bo010404"
+              },
+              "code": {
+                "id": "BO010404",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010405",
+              "name": {
+                "local": "El Villar",
+                "en": "El Villar",
+                "slug": "el-villar-bo010405"
+              },
+              "code": {
+                "id": "BO010405",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010401",
+              "name": {
+                "local": "Padilla",
+                "en": "Padilla",
+                "slug": "padilla-bo010401"
+              },
+              "code": {
+                "id": "BO010401",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010403",
+              "name": {
+                "local": "Sopachui",
+                "en": "Sopachui",
+                "slug": "sopachui-bo010403"
+              },
+              "code": {
+                "id": "BO010403",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010402",
+              "name": {
+                "local": "Tomina",
+                "en": "Tomina",
+                "slug": "tomina-bo010402"
+              },
+              "code": {
+                "id": "BO010402",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0106",
+          "name": {
+            "local": "Yamparáez",
+            "en": "Yamparaez",
+            "slug": "yamparaez-bo0106"
+          },
+          "code": {
+            "id": "BO0106",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO010601",
+              "name": {
+                "local": "Tarabuco",
+                "en": "Tarabuco",
+                "slug": "tarabuco-bo010601"
+              },
+              "code": {
+                "id": "BO010601",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010602",
+              "name": {
+                "local": "Yamparáez",
+                "en": "Yamparaez",
+                "slug": "yamparaez-bo010602"
+              },
+              "code": {
+                "id": "BO010602",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0103",
+          "name": {
+            "local": "Zudáñez",
+            "en": "Zudanez",
+            "slug": "zudanez-bo0103"
+          },
+          "code": {
+            "id": "BO0103",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO010303",
+              "name": {
+                "local": "Mojocoya",
+                "en": "Mojocoya",
+                "slug": "mojocoya-bo010303"
+              },
+              "code": {
+                "id": "BO010303",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010302",
+              "name": {
+                "local": "Presto",
+                "en": "Presto",
+                "slug": "presto-bo010302"
+              },
+              "code": {
+                "id": "BO010302",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010304",
+              "name": {
+                "local": "Villa Ricardo Mugia - Icla",
+                "en": "Villa Ricardo Mugia - Icla",
+                "slug": "villa-ricardo-mugia-icla-bo010304"
+              },
+              "code": {
+                "id": "BO010304",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO010301",
+              "name": {
+                "local": "Zudañez",
+                "en": "Zudanez",
+                "slug": "zudanez-bo010301"
+              },
+              "code": {
+                "id": "BO010301",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BO03",
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      },
+      "code": {
+        "id": "BO03",
+        "iso": null
+      },
+      "province": [
+        {
+          "id": "BO0305",
+          "name": {
+            "local": "Arani",
+            "en": "Arani",
+            "slug": "arani-bo0305"
+          },
+          "code": {
+            "id": "BO0305",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO030501",
+              "name": {
+                "local": "Arani",
+                "en": "Arani",
+                "slug": "arani-bo030501"
+              },
+              "code": {
+                "id": "BO030501",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030502",
+              "name": {
+                "local": "Vacas",
+                "en": "Vacas",
+                "slug": "vacas-bo030502"
+              },
+              "code": {
+                "id": "BO030502",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0306",
+          "name": {
+            "local": "Arque",
+            "en": "Arque",
+            "slug": "arque-bo0306"
+          },
+          "code": {
+            "id": "BO0306",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO030601",
+              "name": {
+                "local": "Arque",
+                "en": "Arque",
+                "slug": "arque-bo030601"
+              },
+              "code": {
+                "id": "BO030601",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030602",
+              "name": {
+                "local": "Tacopaya",
+                "en": "Tacopaya",
+                "slug": "tacopaya-bo030602"
+              },
+              "code": {
+                "id": "BO030602",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0303",
+          "name": {
+            "local": "Ayopaya",
+            "en": "Ayopaya",
+            "slug": "ayopaya-bo0303"
+          },
+          "code": {
+            "id": "BO0303",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO030301",
+              "name": {
+                "local": "Ayopaya",
+                "en": "Ayopaya",
+                "slug": "ayopaya-bo030301"
+              },
+              "code": {
+                "id": "BO030301",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030303",
+              "name": {
+                "local": "Cocapata",
+                "en": "Cocapata",
+                "slug": "cocapata-bo030303"
+              },
+              "code": {
+                "id": "BO030303",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030302",
+              "name": {
+                "local": "Morochata",
+                "en": "Morochata",
+                "slug": "morochata-bo030302"
+              },
+              "code": {
+                "id": "BO030302",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0315",
+          "name": {
+            "local": "Bolivar",
+            "en": "Bolivar",
+            "slug": "bolivar-bo0315"
+          },
+          "code": {
+            "id": "BO0315",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO031501",
+              "name": {
+                "local": "Bolivar",
+                "en": "Bolivar",
+                "slug": "bolivar-bo031501"
+              },
+              "code": {
+                "id": "BO031501",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0302",
+          "name": {
+            "local": "Campero",
+            "en": "Campero",
+            "slug": "campero-bo0302"
+          },
+          "code": {
+            "id": "BO0302",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO030201",
+              "name": {
+                "local": "Aiquile",
+                "en": "Aiquile",
+                "slug": "aiquile-bo030201"
+              },
+              "code": {
+                "id": "BO030201",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030203",
+              "name": {
+                "local": "Omereque",
+                "en": "Omereque",
+                "slug": "omereque-bo030203"
+              },
+              "code": {
+                "id": "BO030203",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030202",
+              "name": {
+                "local": "Pasorapa",
+                "en": "Pasorapa",
+                "slug": "pasorapa-bo030202"
+              },
+              "code": {
+                "id": "BO030202",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0307",
+          "name": {
+            "local": "Capinota",
+            "en": "Capinota",
+            "slug": "capinota-bo0307"
+          },
+          "code": {
+            "id": "BO0307",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO030701",
+              "name": {
+                "local": "Capinota",
+                "en": "Capinota",
+                "slug": "capinota-bo030701"
+              },
+              "code": {
+                "id": "BO030701",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030702",
+              "name": {
+                "local": "Santivañez",
+                "en": "Santivanez",
+                "slug": "santivanez-bo030702"
+              },
+              "code": {
+                "id": "BO030702",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030703",
+              "name": {
+                "local": "Sicaya",
+                "en": "Sicaya",
+                "slug": "sicaya-bo030703"
+              },
+              "code": {
+                "id": "BO030703",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0312",
+          "name": {
+            "local": "Carrasco",
+            "en": "Carrasco",
+            "slug": "carrasco-bo0312"
+          },
+          "code": {
+            "id": "BO0312",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO031204",
+              "name": {
+                "local": "Chimoré",
+                "en": "Chimore",
+                "slug": "chimore-bo031204"
+              },
+              "code": {
+                "id": "BO031204",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031206",
+              "name": {
+                "local": "Entre Ríos",
+                "en": "Entre Rios",
+                "slug": "entre-rios-bo031206"
+              },
+              "code": {
+                "id": "BO031206",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031203",
+              "name": {
+                "local": "Pocona",
+                "en": "Pocona",
+                "slug": "pocona-bo031203"
+              },
+              "code": {
+                "id": "BO031203",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031202",
+              "name": {
+                "local": "Pojo",
+                "en": "Pojo",
+                "slug": "pojo-bo031202"
+              },
+              "code": {
+                "id": "BO031202",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031205",
+              "name": {
+                "local": "Puerto Villarroel",
+                "en": "Puerto Villarroel",
+                "slug": "puerto-villarroel-bo031205"
+              },
+              "code": {
+                "id": "BO031205",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031201",
+              "name": {
+                "local": "Totora",
+                "en": "Totora",
+                "slug": "totora-bo031201"
+              },
+              "code": {
+                "id": "BO031201",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0301",
+          "name": {
+            "local": "Cercado",
+            "en": "Cercado",
+            "slug": "cercado-bo0301"
+          },
+          "code": {
+            "id": "BO0301",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO030101",
+              "name": {
+                "local": "Cochabamba",
+                "en": "Cochabamba",
+                "slug": "cochabamba-bo030101"
+              },
+              "code": {
+                "id": "BO030101",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0310",
+          "name": {
+            "local": "Chapare",
+            "en": "Chapare",
+            "slug": "chapare-bo0310"
+          },
+          "code": {
+            "id": "BO0310",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO031002",
+              "name": {
+                "local": "Colomi",
+                "en": "Colomi",
+                "slug": "colomi-bo031002"
+              },
+              "code": {
+                "id": "BO031002",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031001",
+              "name": {
+                "local": "Sacaba",
+                "en": "Sacaba",
+                "slug": "sacaba-bo031001"
+              },
+              "code": {
+                "id": "BO031001",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031003",
+              "name": {
+                "local": "Villa Tunari",
+                "en": "Villa Tunari",
+                "slug": "villa-tunari-bo031003"
+              },
+              "code": {
+                "id": "BO031003",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0304",
+          "name": {
+            "local": "Esteban Arze",
+            "en": "Esteban Arze",
+            "slug": "esteban-arze-bo0304"
+          },
+          "code": {
+            "id": "BO0304",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO030402",
+              "name": {
+                "local": "Anzaldo",
+                "en": "Anzaldo",
+                "slug": "anzaldo-bo030402"
+              },
+              "code": {
+                "id": "BO030402",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030403",
+              "name": {
+                "local": "Arbieto",
+                "en": "Arbieto",
+                "slug": "arbieto-bo030403"
+              },
+              "code": {
+                "id": "BO030403",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030404",
+              "name": {
+                "local": "Sacabamba",
+                "en": "Sacabamba",
+                "slug": "sacabamba-bo030404"
+              },
+              "code": {
+                "id": "BO030404",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030401",
+              "name": {
+                "local": "Tarata",
+                "en": "Tarata",
+                "slug": "tarata-bo030401"
+              },
+              "code": {
+                "id": "BO030401",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0308",
+          "name": {
+            "local": "Germán Jordán",
+            "en": "German Jordan",
+            "slug": "german-jordan-bo0308"
+          },
+          "code": {
+            "id": "BO0308",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO030801",
+              "name": {
+                "local": "Cliza",
+                "en": "Cliza",
+                "slug": "cliza-bo030801"
+              },
+              "code": {
+                "id": "BO030801",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030802",
+              "name": {
+                "local": "Toco",
+                "en": "Toco",
+                "slug": "toco-bo030802"
+              },
+              "code": {
+                "id": "BO030802",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030803",
+              "name": {
+                "local": "Tolata",
+                "en": "Tolata",
+                "slug": "tolata-bo030803"
+              },
+              "code": {
+                "id": "BO030803",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0313",
+          "name": {
+            "local": "Mizque",
+            "en": "Mizque",
+            "slug": "mizque-bo0313"
+          },
+          "code": {
+            "id": "BO0313",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO031303",
+              "name": {
+                "local": "Alalay",
+                "en": "Alalay",
+                "slug": "alalay-bo031303"
+              },
+              "code": {
+                "id": "BO031303",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031301",
+              "name": {
+                "local": "Mizque",
+                "en": "Mizque",
+                "slug": "mizque-bo031301"
+              },
+              "code": {
+                "id": "BO031301",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031302",
+              "name": {
+                "local": "Vila Vila",
+                "en": "Vila Vila",
+                "slug": "vila-vila-bo031302"
+              },
+              "code": {
+                "id": "BO031302",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0314",
+          "name": {
+            "local": "Punata",
+            "en": "Punata",
+            "slug": "punata-bo0314"
+          },
+          "code": {
+            "id": "BO0314",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO031401",
+              "name": {
+                "local": "Punata",
+                "en": "Punata",
+                "slug": "punata-bo031401"
+              },
+              "code": {
+                "id": "BO031401",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031403",
+              "name": {
+                "local": "San Benito",
+                "en": "San Benito",
+                "slug": "san-benito-bo031403"
+              },
+              "code": {
+                "id": "BO031403",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031404",
+              "name": {
+                "local": "Tacachi",
+                "en": "Tacachi",
+                "slug": "tacachi-bo031404"
+              },
+              "code": {
+                "id": "BO031404",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031405",
+              "name": {
+                "local": "Villa Gualberto Villarroel",
+                "en": "Villa Gualberto Villarroel",
+                "slug": "villa-gualberto-villarroel-bo031405"
+              },
+              "code": {
+                "id": "BO031405",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031402",
+              "name": {
+                "local": "Villa Rivero",
+                "en": "Villa Rivero",
+                "slug": "villa-rivero-bo031402"
+              },
+              "code": {
+                "id": "BO031402",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0309",
+          "name": {
+            "local": "Quillacollo",
+            "en": "Quillacollo",
+            "slug": "quillacollo-bo0309"
+          },
+          "code": {
+            "id": "BO0309",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO030905",
+              "name": {
+                "local": "Colcapirhua",
+                "en": "Colcapirhua",
+                "slug": "colcapirhua-bo030905"
+              },
+              "code": {
+                "id": "BO030905",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030901",
+              "name": {
+                "local": "Quillacollo",
+                "en": "Quillacollo",
+                "slug": "quillacollo-bo030901"
+              },
+              "code": {
+                "id": "BO030901",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030902",
+              "name": {
+                "local": "Sipesipe",
+                "en": "Sipesipe",
+                "slug": "sipesipe-bo030902"
+              },
+              "code": {
+                "id": "BO030902",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030903",
+              "name": {
+                "local": "Tiquipaya",
+                "en": "Tiquipaya",
+                "slug": "tiquipaya-bo030903"
+              },
+              "code": {
+                "id": "BO030903",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO030904",
+              "name": {
+                "local": "Vinto",
+                "en": "Vinto",
+                "slug": "vinto-bo030904"
+              },
+              "code": {
+                "id": "BO030904",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0311",
+          "name": {
+            "local": "Tapacarí",
+            "en": "Tapacari",
+            "slug": "tapacari-bo0311"
+          },
+          "code": {
+            "id": "BO0311",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO031101",
+              "name": {
+                "local": "Tapacarí",
+                "en": "Tapacari",
+                "slug": "tapacari-bo031101"
+              },
+              "code": {
+                "id": "BO031101",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0316",
+          "name": {
+            "local": "Tiraque",
+            "en": "Tiraque",
+            "slug": "tiraque-bo0316"
+          },
+          "code": {
+            "id": "BO0316",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO031602",
+              "name": {
+                "local": "Shinahota",
+                "en": "Shinahota",
+                "slug": "shinahota-bo031602"
+              },
+              "code": {
+                "id": "BO031602",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO031601",
+              "name": {
+                "local": "Tiraque",
+                "en": "Tiraque",
+                "slug": "tiraque-bo031601"
+              },
+              "code": {
+                "id": "BO031601",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BO02",
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      },
+      "code": {
+        "id": "BO02",
+        "iso": null
+      },
+      "province": [
+        {
+          "id": "BO0215",
+          "name": {
+            "local": "Abel Iturralde",
+            "en": "Abel Iturralde",
+            "slug": "abel-iturralde-bo0215"
+          },
+          "code": {
+            "id": "BO0215",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO021501",
+              "name": {
+                "local": "Ixiamas",
+                "en": "Ixiamas",
+                "slug": "ixiamas-bo021501"
+              },
+              "code": {
+                "id": "BO021501",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021502",
+              "name": {
+                "local": "San Buenaventura",
+                "en": "San Buenaventura",
+                "slug": "san-buenaventura-bo021502"
+              },
+              "code": {
+                "id": "BO021502",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0213",
+          "name": {
+            "local": "Aroma",
+            "en": "Aroma",
+            "slug": "aroma-bo0213"
+          },
+          "code": {
+            "id": "BO0213",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO021303",
+              "name": {
+                "local": "Ayo Ayo",
+                "en": "Ayo Ayo",
+                "slug": "ayo-ayo-bo021303"
+              },
+              "code": {
+                "id": "BO021303",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021304",
+              "name": {
+                "local": "Calamarca",
+                "en": "Calamarca",
+                "slug": "calamarca-bo021304"
+              },
+              "code": {
+                "id": "BO021304",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021307",
+              "name": {
+                "local": "Collana",
+                "en": "Collana",
+                "slug": "collana-bo021307"
+              },
+              "code": {
+                "id": "BO021307",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021306",
+              "name": {
+                "local": "Colquencha",
+                "en": "Colquencha",
+                "slug": "colquencha-bo021306"
+              },
+              "code": {
+                "id": "BO021306",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021305",
+              "name": {
+                "local": "Patacamaya",
+                "en": "Patacamaya",
+                "slug": "patacamaya-bo021305"
+              },
+              "code": {
+                "id": "BO021305",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021301",
+              "name": {
+                "local": "Sicasica",
+                "en": "Sicasica",
+                "slug": "sicasica-bo021301"
+              },
+              "code": {
+                "id": "BO021301",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021302",
+              "name": {
+                "local": "Umala",
+                "en": "Umala",
+                "slug": "umala-bo021302"
+              },
+              "code": {
+                "id": "BO021302",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0216",
+          "name": {
+            "local": "Bautista Saavedra",
+            "en": "Bautista Saavedra",
+            "slug": "bautista-saavedra-bo0216"
+          },
+          "code": {
+            "id": "BO0216",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO021601",
+              "name": {
+                "local": "Charazani",
+                "en": "Charazani",
+                "slug": "charazani-bo021601"
+              },
+              "code": {
+                "id": "BO021601",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021602",
+              "name": {
+                "local": "Curva",
+                "en": "Curva",
+                "slug": "curva-bo021602"
+              },
+              "code": {
+                "id": "BO021602",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0204",
+          "name": {
+            "local": "Camacho",
+            "en": "Camacho",
+            "slug": "camacho-bo0204"
+          },
+          "code": {
+            "id": "BO0204",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO020405",
+              "name": {
+                "local": "Escoma",
+                "en": "Escoma",
+                "slug": "escoma-bo020405"
+              },
+              "code": {
+                "id": "BO020405",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020404",
+              "name": {
+                "local": "Humanata",
+                "en": "Humanata",
+                "slug": "humanata-bo020404"
+              },
+              "code": {
+                "id": "BO020404",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020402",
+              "name": {
+                "local": "Mocomoco",
+                "en": "Mocomoco",
+                "slug": "mocomoco-bo020402"
+              },
+              "code": {
+                "id": "BO020402",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020401",
+              "name": {
+                "local": "Puerto Acosta",
+                "en": "Puerto Acosta",
+                "slug": "puerto-acosta-bo020401"
+              },
+              "code": {
+                "id": "BO020401",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020403",
+              "name": {
+                "local": "Puerto Mayor de Carabuco",
+                "en": "Puerto Mayor de Carabuco",
+                "slug": "puerto-mayor-de-carabuco-bo020403"
+              },
+              "code": {
+                "id": "BO020403",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0220",
+          "name": {
+            "local": "Caranavi",
+            "en": "Caranavi",
+            "slug": "caranavi-bo0220"
+          },
+          "code": {
+            "id": "BO0220",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO022002",
+              "name": {
+                "local": "Alto Beni",
+                "en": "Alto Beni",
+                "slug": "alto-beni-bo022002"
+              },
+              "code": {
+                "id": "BO022002",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO022001",
+              "name": {
+                "local": "Caranavi",
+                "en": "Caranavi",
+                "slug": "caranavi-bo022001"
+              },
+              "code": {
+                "id": "BO022001",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0207",
+          "name": {
+            "local": "Franz Tamayo",
+            "en": "Franz Tamayo",
+            "slug": "franz-tamayo-bo0207"
+          },
+          "code": {
+            "id": "BO0207",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO020701",
+              "name": {
+                "local": "Apolo",
+                "en": "Apolo",
+                "slug": "apolo-bo020701"
+              },
+              "code": {
+                "id": "BO020701",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020702",
+              "name": {
+                "local": "Pelechuco",
+                "en": "Pelechuco",
+                "slug": "pelechuco-bo020702"
+              },
+              "code": {
+                "id": "BO020702",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0219",
+          "name": {
+            "local": "General José Manuel Pando",
+            "en": "General Jose Manuel Pando",
+            "slug": "general-jose-manuel-pando-bo0219"
+          },
+          "code": {
+            "id": "BO0219",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO021902",
+              "name": {
+                "local": "Catacora",
+                "en": "Catacora",
+                "slug": "catacora-bo021902"
+              },
+              "code": {
+                "id": "BO021902",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021901",
+              "name": {
+                "local": "Santiago de Machaca",
+                "en": "Santiago de Machaca",
+                "slug": "santiago-de-machaca-bo021901"
+              },
+              "code": {
+                "id": "BO021901",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0218",
+          "name": {
+            "local": "Gualberto Villarroel",
+            "en": "Gualberto Villarroel",
+            "slug": "gualberto-villarroel-bo0218"
+          },
+          "code": {
+            "id": "BO0218",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO021803",
+              "name": {
+                "local": "Chacarilla",
+                "en": "Chacarilla",
+                "slug": "chacarilla-bo021803"
+              },
+              "code": {
+                "id": "BO021803",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021802",
+              "name": {
+                "local": "Papel Pampa",
+                "en": "Papel Pampa",
+                "slug": "papel-pampa-bo021802"
+              },
+              "code": {
+                "id": "BO021802",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021801",
+              "name": {
+                "local": "San Pedro de Curahuara",
+                "en": "San Pedro de Curahuara",
+                "slug": "san-pedro-de-curahuara-bo021801"
+              },
+              "code": {
+                "id": "BO021801",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0208",
+          "name": {
+            "local": "Ingavi",
+            "en": "Ingavi",
+            "slug": "ingavi-bo0208"
+          },
+          "code": {
+            "id": "BO0208",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO020804",
+              "name": {
+                "local": "Desaguadero",
+                "en": "Desaguadero",
+                "slug": "desaguadero-bo020804"
+              },
+              "code": {
+                "id": "BO020804",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020806",
+              "name": {
+                "local": "Jesús de Machaka",
+                "en": "Jesus de Machaka",
+                "slug": "jesus-de-machaka-bo020806"
+              },
+              "code": {
+                "id": "BO020806",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020805",
+              "name": {
+                "local": "La (Marka) San Andrés de Machaca",
+                "en": "La (Marka) San Andres de Machaca",
+                "slug": "la-marka-san-andres-de-machaca-bo020805"
+              },
+              "code": {
+                "id": "BO020805",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020802",
+              "name": {
+                "local": "Puerto Mayor de Guaqui",
+                "en": "Puerto Mayor de Guaqui",
+                "slug": "puerto-mayor-de-guaqui-bo020802"
+              },
+              "code": {
+                "id": "BO020802",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020807",
+              "name": {
+                "local": "Taraco",
+                "en": "Taraco",
+                "slug": "taraco-bo020807"
+              },
+              "code": {
+                "id": "BO020807",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020803",
+              "name": {
+                "local": "Tiahuanacu",
+                "en": "Tiahuanacu",
+                "slug": "tiahuanacu-bo020803"
+              },
+              "code": {
+                "id": "BO020803",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020801",
+              "name": {
+                "local": "Viacha",
+                "en": "Viacha",
+                "slug": "viacha-bo020801"
+              },
+              "code": {
+                "id": "BO020801",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0210",
+          "name": {
+            "local": "Inquisivi",
+            "en": "Inquisivi",
+            "slug": "inquisivi-bo0210"
+          },
+          "code": {
+            "id": "BO0210",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO021003",
+              "name": {
+                "local": "Cajuata",
+                "en": "Cajuata",
+                "slug": "cajuata-bo021003"
+              },
+              "code": {
+                "id": "BO021003",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021004",
+              "name": {
+                "local": "Colquiri",
+                "en": "Colquiri",
+                "slug": "colquiri-bo021004"
+              },
+              "code": {
+                "id": "BO021004",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021005",
+              "name": {
+                "local": "Ichoca",
+                "en": "Ichoca",
+                "slug": "ichoca-bo021005"
+              },
+              "code": {
+                "id": "BO021005",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021001",
+              "name": {
+                "local": "Inquisivi",
+                "en": "Inquisivi",
+                "slug": "inquisivi-bo021001"
+              },
+              "code": {
+                "id": "BO021001",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021002",
+              "name": {
+                "local": "Quime",
+                "en": "Quime",
+                "slug": "quime-bo021002"
+              },
+              "code": {
+                "id": "BO021002",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021006",
+              "name": {
+                "local": "Villa Libertad Licoma",
+                "en": "Villa Libertad Licoma",
+                "slug": "villa-libertad-licoma-bo021006"
+              },
+              "code": {
+                "id": "BO021006",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0206",
+          "name": {
+            "local": "Larecaja",
+            "en": "Larecaja",
+            "slug": "larecaja-bo0206"
+          },
+          "code": {
+            "id": "BO0206",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO020605",
+              "name": {
+                "local": "Combaya",
+                "en": "Combaya",
+                "slug": "combaya-bo020605"
+              },
+              "code": {
+                "id": "BO020605",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020602",
+              "name": {
+                "local": "Guanay",
+                "en": "Guanay",
+                "slug": "guanay-bo020602"
+              },
+              "code": {
+                "id": "BO020602",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020607",
+              "name": {
+                "local": "Mapiri",
+                "en": "Mapiri",
+                "slug": "mapiri-bo020607"
+              },
+              "code": {
+                "id": "BO020607",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020604",
+              "name": {
+                "local": "Quiabaya",
+                "en": "Quiabaya",
+                "slug": "quiabaya-bo020604"
+              },
+              "code": {
+                "id": "BO020604",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020601",
+              "name": {
+                "local": "Sorata",
+                "en": "Sorata",
+                "slug": "sorata-bo020601"
+              },
+              "code": {
+                "id": "BO020601",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020603",
+              "name": {
+                "local": "Tacacoma",
+                "en": "Tacacoma",
+                "slug": "tacacoma-bo020603"
+              },
+              "code": {
+                "id": "BO020603",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020608",
+              "name": {
+                "local": "Teoponte",
+                "en": "Teoponte",
+                "slug": "teoponte-bo020608"
+              },
+              "code": {
+                "id": "BO020608",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020606",
+              "name": {
+                "local": "Tipuani",
+                "en": "Tipuani",
+                "slug": "tipuani-bo020606"
+              },
+              "code": {
+                "id": "BO020606",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0209",
+          "name": {
+            "local": "Loayza",
+            "en": "Loayza",
+            "slug": "loayza-bo0209"
+          },
+          "code": {
+            "id": "BO0209",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO020905",
+              "name": {
+                "local": "Cairoma",
+                "en": "Cairoma",
+                "slug": "cairoma-bo020905"
+              },
+              "code": {
+                "id": "BO020905",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020901",
+              "name": {
+                "local": "Luribay",
+                "en": "Luribay",
+                "slug": "luribay-bo020901"
+              },
+              "code": {
+                "id": "BO020901",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020904",
+              "name": {
+                "local": "Malla",
+                "en": "Malla",
+                "slug": "malla-bo020904"
+              },
+              "code": {
+                "id": "BO020904",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020902",
+              "name": {
+                "local": "Sapahaqui",
+                "en": "Sapahaqui",
+                "slug": "sapahaqui-bo020902"
+              },
+              "code": {
+                "id": "BO020902",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020903",
+              "name": {
+                "local": "Yaco",
+                "en": "Yaco",
+                "slug": "yaco-bo020903"
+              },
+              "code": {
+                "id": "BO020903",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0212",
+          "name": {
+            "local": "Los Andes",
+            "en": "Los Andes",
+            "slug": "los-andes-bo0212"
+          },
+          "code": {
+            "id": "BO0212",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO021203",
+              "name": {
+                "local": "Batallas",
+                "en": "Batallas",
+                "slug": "batallas-bo021203"
+              },
+              "code": {
+                "id": "BO021203",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021202",
+              "name": {
+                "local": "Laja",
+                "en": "Laja",
+                "slug": "laja-bo021202"
+              },
+              "code": {
+                "id": "BO021202",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021201",
+              "name": {
+                "local": "Pucarani",
+                "en": "Pucarani",
+                "slug": "pucarani-bo021201"
+              },
+              "code": {
+                "id": "BO021201",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021204",
+              "name": {
+                "local": "Puerto Pérez",
+                "en": "Puerto Perez",
+                "slug": "puerto-perez-bo021204"
+              },
+              "code": {
+                "id": "BO021204",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0217",
+          "name": {
+            "local": "Manco Kapac",
+            "en": "Manco Kapac",
+            "slug": "manco-kapac-bo0217"
+          },
+          "code": {
+            "id": "BO0217",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO021701",
+              "name": {
+                "local": "Copacabana",
+                "en": "Copacabana",
+                "slug": "copacabana-bo021701"
+              },
+              "code": {
+                "id": "BO021701",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021702",
+              "name": {
+                "local": "San Pedro de Tiquina",
+                "en": "San Pedro de Tiquina",
+                "slug": "san-pedro-de-tiquina-bo021702"
+              },
+              "code": {
+                "id": "BO021702",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021703",
+              "name": {
+                "local": "Tito Yupanqui",
+                "en": "Tito Yupanqui",
+                "slug": "tito-yupanqui-bo021703"
+              },
+              "code": {
+                "id": "BO021703",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0205",
+          "name": {
+            "local": "Muñecas",
+            "en": "Munecas",
+            "slug": "munecas-bo0205"
+          },
+          "code": {
+            "id": "BO0205",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO020503",
+              "name": {
+                "local": "Aucapata",
+                "en": "Aucapata",
+                "slug": "aucapata-bo020503"
+              },
+              "code": {
+                "id": "BO020503",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020502",
+              "name": {
+                "local": "Ayata",
+                "en": "Ayata",
+                "slug": "ayata-bo020502"
+              },
+              "code": {
+                "id": "BO020502",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020501",
+              "name": {
+                "local": "Chuma",
+                "en": "Chuma",
+                "slug": "chuma-bo020501"
+              },
+              "code": {
+                "id": "BO020501",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0201",
+          "name": {
+            "local": "Murillo",
+            "en": "Murillo",
+            "slug": "murillo-bo0201"
+          },
+          "code": {
+            "id": "BO0201",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO020104",
+              "name": {
+                "local": "Achocalla",
+                "en": "Achocalla",
+                "slug": "achocalla-bo020104"
+              },
+              "code": {
+                "id": "BO020104",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020105",
+              "name": {
+                "local": "El Alto",
+                "en": "El Alto",
+                "slug": "el-alto-bo020105"
+              },
+              "code": {
+                "id": "BO020105",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020103",
+              "name": {
+                "local": "Mecapaca",
+                "en": "Mecapaca",
+                "slug": "mecapaca-bo020103"
+              },
+              "code": {
+                "id": "BO020103",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020101",
+              "name": {
+                "local": "Nuestra Señora de La Paz",
+                "en": "Nuestra Senora de La Paz",
+                "slug": "nuestra-senora-de-la-paz-bo020101"
+              },
+              "code": {
+                "id": "BO020101",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020102",
+              "name": {
+                "local": "Palca",
+                "en": "Palca",
+                "slug": "palca-bo020102"
+              },
+              "code": {
+                "id": "BO020102",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0214",
+          "name": {
+            "local": "Nor Yungas",
+            "en": "Nor Yungas",
+            "slug": "nor-yungas-bo0214"
+          },
+          "code": {
+            "id": "BO0214",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO021402",
+              "name": {
+                "local": "Coripata",
+                "en": "Coripata",
+                "slug": "coripata-bo021402"
+              },
+              "code": {
+                "id": "BO021402",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021401",
+              "name": {
+                "local": "Coroico",
+                "en": "Coroico",
+                "slug": "coroico-bo021401"
+              },
+              "code": {
+                "id": "BO021401",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0202",
+          "name": {
+            "local": "Omasuyos",
+            "en": "Omasuyos",
+            "slug": "omasuyos-bo0202"
+          },
+          "code": {
+            "id": "BO0202",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO020201",
+              "name": {
+                "local": "Achacachi",
+                "en": "Achacachi",
+                "slug": "achacachi-bo020201"
+              },
+              "code": {
+                "id": "BO020201",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020206",
+              "name": {
+                "local": "Chua Cocani",
+                "en": "Chua Cocani",
+                "slug": "chua-cocani-bo020206"
+              },
+              "code": {
+                "id": "BO020206",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020203",
+              "name": {
+                "local": "Huarina",
+                "en": "Huarina",
+                "slug": "huarina-bo020203"
+              },
+              "code": {
+                "id": "BO020203",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020205",
+              "name": {
+                "local": "Huatajata",
+                "en": "Huatajata",
+                "slug": "huatajata-bo020205"
+              },
+              "code": {
+                "id": "BO020205",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020204",
+              "name": {
+                "local": "Santiago de Huata",
+                "en": "Santiago de Huata",
+                "slug": "santiago-de-huata-bo020204"
+              },
+              "code": {
+                "id": "BO020204",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020202",
+              "name": {
+                "local": "Villa Ancoraimes",
+                "en": "Villa Ancoraimes",
+                "slug": "villa-ancoraimes-bo020202"
+              },
+              "code": {
+                "id": "BO020202",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0203",
+          "name": {
+            "local": "Pacajes",
+            "en": "Pacajes",
+            "slug": "pacajes-bo0203"
+          },
+          "code": {
+            "id": "BO0203",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO020303",
+              "name": {
+                "local": "Calacoto",
+                "en": "Calacoto",
+                "slug": "calacoto-bo020303"
+              },
+              "code": {
+                "id": "BO020303",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020302",
+              "name": {
+                "local": "Caquiaviri",
+                "en": "Caquiaviri",
+                "slug": "caquiaviri-bo020302"
+              },
+              "code": {
+                "id": "BO020302",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020305",
+              "name": {
+                "local": "Charaña",
+                "en": "Charana",
+                "slug": "charana-bo020305"
+              },
+              "code": {
+                "id": "BO020305",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020304",
+              "name": {
+                "local": "Comanche",
+                "en": "Comanche",
+                "slug": "comanche-bo020304"
+              },
+              "code": {
+                "id": "BO020304",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020301",
+              "name": {
+                "local": "Corocoro",
+                "en": "Corocoro",
+                "slug": "corocoro-bo020301"
+              },
+              "code": {
+                "id": "BO020301",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020307",
+              "name": {
+                "local": "Nazacara de Pacajes",
+                "en": "Nazacara de Pacajes",
+                "slug": "nazacara-de-pacajes-bo020307"
+              },
+              "code": {
+                "id": "BO020307",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020308",
+              "name": {
+                "local": "Santiago de Callapa",
+                "en": "Santiago de Callapa",
+                "slug": "santiago-de-callapa-bo020308"
+              },
+              "code": {
+                "id": "BO020308",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO020306",
+              "name": {
+                "local": "Waldo Ballivian",
+                "en": "Waldo Ballivian",
+                "slug": "waldo-ballivian-bo020306"
+              },
+              "code": {
+                "id": "BO020306",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0211",
+          "name": {
+            "local": "Sud Yungas",
+            "en": "Sud Yungas",
+            "slug": "sud-yungas-bo0211"
+          },
+          "code": {
+            "id": "BO0211",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO021101",
+              "name": {
+                "local": "Chulumani",
+                "en": "Chulumani",
+                "slug": "chulumani-bo021101"
+              },
+              "code": {
+                "id": "BO021101",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021102",
+              "name": {
+                "local": "Irupana",
+                "en": "Irupana",
+                "slug": "irupana-bo021102"
+              },
+              "code": {
+                "id": "BO021102",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021105",
+              "name": {
+                "local": "La Asunta",
+                "en": "La Asunta",
+                "slug": "la-asunta-bo021105"
+              },
+              "code": {
+                "id": "BO021105",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021104",
+              "name": {
+                "local": "Palos Blancos",
+                "en": "Palos Blancos",
+                "slug": "palos-blancos-bo021104"
+              },
+              "code": {
+                "id": "BO021104",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO021103",
+              "name": {
+                "local": "Yanacachi",
+                "en": "Yanacachi",
+                "slug": "yanacachi-bo021103"
+              },
+              "code": {
+                "id": "BO021103",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BO04",
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      },
+      "code": {
+        "id": "BO04",
+        "iso": null
+      },
+      "province": [
+        {
+          "id": "BO0402",
+          "name": {
+            "local": "Abaroa",
+            "en": "Abaroa",
+            "slug": "abaroa-bo0402"
+          },
+          "code": {
+            "id": "BO0402",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO040201",
+              "name": {
+                "local": "Challapata",
+                "en": "Challapata",
+                "slug": "challapata-bo040201"
+              },
+              "code": {
+                "id": "BO040201",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040202",
+              "name": {
+                "local": "Santuario de Quillacas",
+                "en": "Santuario de Quillacas",
+                "slug": "santuario-de-quillacas-bo040202"
+              },
+              "code": {
+                "id": "BO040202",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0403",
+          "name": {
+            "local": "Carangas",
+            "en": "Carangas",
+            "slug": "carangas-bo0403"
+          },
+          "code": {
+            "id": "BO0403",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO040302",
+              "name": {
+                "local": "Choquecota",
+                "en": "Choquecota",
+                "slug": "choquecota-bo040302"
+              },
+              "code": {
+                "id": "BO040302",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040301",
+              "name": {
+                "local": "Corque",
+                "en": "Corque",
+                "slug": "corque-bo040301"
+              },
+              "code": {
+                "id": "BO040301",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0401",
+          "name": {
+            "local": "Cercado",
+            "en": "Cercado",
+            "slug": "cercado-bo0401"
+          },
+          "code": {
+            "id": "BO0401",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO040102",
+              "name": {
+                "local": "Caracollo",
+                "en": "Caracollo",
+                "slug": "caracollo-bo040102"
+              },
+              "code": {
+                "id": "BO040102",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040103",
+              "name": {
+                "local": "El Choro",
+                "en": "El Choro",
+                "slug": "el-choro-bo040103"
+              },
+              "code": {
+                "id": "BO040103",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040101",
+              "name": {
+                "local": "Oruro",
+                "en": "Oruro",
+                "slug": "oruro-bo040101"
+              },
+              "code": {
+                "id": "BO040101",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040104",
+              "name": {
+                "local": "Paria",
+                "en": "Paria",
+                "slug": "paria-bo040104"
+              },
+              "code": {
+                "id": "BO040104",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0408",
+          "name": {
+            "local": "Ladislao Cabrera",
+            "en": "Ladislao Cabrera",
+            "slug": "ladislao-cabrera-bo0408"
+          },
+          "code": {
+            "id": "BO0408",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO040802",
+              "name": {
+                "local": "Pampa Aullagas",
+                "en": "Pampa Aullagas",
+                "slug": "pampa-aullagas-bo040802"
+              },
+              "code": {
+                "id": "BO040802",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040801",
+              "name": {
+                "local": "Salinas de Garcí Mendoza",
+                "en": "Salinas de Garci Mendoza",
+                "slug": "salinas-de-garci-mendoza-bo040801"
+              },
+              "code": {
+                "id": "BO040801",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0405",
+          "name": {
+            "local": "Litoral",
+            "en": "Litoral",
+            "slug": "litoral-bo0405"
+          },
+          "code": {
+            "id": "BO0405",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO040503",
+              "name": {
+                "local": "Cruz de Machacamarca",
+                "en": "Cruz de Machacamarca",
+                "slug": "cruz-de-machacamarca-bo040503"
+              },
+              "code": {
+                "id": "BO040503",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040502",
+              "name": {
+                "local": "Escara",
+                "en": "Escara",
+                "slug": "escara-bo040502"
+              },
+              "code": {
+                "id": "BO040502",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040505",
+              "name": {
+                "local": "Esmeralda",
+                "en": "Esmeralda",
+                "slug": "esmeralda-bo040505"
+              },
+              "code": {
+                "id": "BO040505",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040501",
+              "name": {
+                "local": "Huachacalla",
+                "en": "Huachacalla",
+                "slug": "huachacalla-bo040501"
+              },
+              "code": {
+                "id": "BO040501",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040504",
+              "name": {
+                "local": "Yunguyo del Litoral",
+                "en": "Yunguyo del Litoral",
+                "slug": "yunguyo-del-litoral-bo040504"
+              },
+              "code": {
+                "id": "BO040504",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0415",
+          "name": {
+            "local": "Mejillones",
+            "en": "Mejillones",
+            "slug": "mejillones-bo0415"
+          },
+          "code": {
+            "id": "BO0415",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO041503",
+              "name": {
+                "local": "Carangas",
+                "en": "Carangas",
+                "slug": "carangas-bo041503"
+              },
+              "code": {
+                "id": "BO041503",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO041501",
+              "name": {
+                "local": "La Rivera",
+                "en": "La Rivera",
+                "slug": "la-rivera-bo041501"
+              },
+              "code": {
+                "id": "BO041501",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO041502",
+              "name": {
+                "local": "Todos Santos",
+                "en": "Todos Santos",
+                "slug": "todos-santos-bo041502"
+              },
+              "code": {
+                "id": "BO041502",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0416",
+          "name": {
+            "local": "Nor Carangas",
+            "en": "Nor Carangas",
+            "slug": "nor-carangas-bo0416"
+          },
+          "code": {
+            "id": "BO0416",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO041601",
+              "name": {
+                "local": "Huayllamarca",
+                "en": "Huayllamarca",
+                "slug": "huayllamarca-bo041601"
+              },
+              "code": {
+                "id": "BO041601",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0407",
+          "name": {
+            "local": "Pantaleón Dalence",
+            "en": "Pantaleon Dalence",
+            "slug": "pantaleon-dalence-bo0407"
+          },
+          "code": {
+            "id": "BO0407",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO040701",
+              "name": {
+                "local": "Huanuni",
+                "en": "Huanuni",
+                "slug": "huanuni-bo040701"
+              },
+              "code": {
+                "id": "BO040701",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040702",
+              "name": {
+                "local": "Machacamarca",
+                "en": "Machacamarca",
+                "slug": "machacamarca-bo040702"
+              },
+              "code": {
+                "id": "BO040702",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0406",
+          "name": {
+            "local": "Poopó",
+            "en": "Poopo",
+            "slug": "poopo-bo0406"
+          },
+          "code": {
+            "id": "BO0406",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO040603",
+              "name": {
+                "local": "Antequera",
+                "en": "Antequera",
+                "slug": "antequera-bo040603"
+              },
+              "code": {
+                "id": "BO040603",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040602",
+              "name": {
+                "local": "Pazña",
+                "en": "Pazna",
+                "slug": "pazna-bo040602"
+              },
+              "code": {
+                "id": "BO040602",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040601",
+              "name": {
+                "local": "Poopó",
+                "en": "Poopo",
+                "slug": "poopo-bo040601"
+              },
+              "code": {
+                "id": "BO040601",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0409",
+          "name": {
+            "local": "Sabaya",
+            "en": "Sabaya",
+            "slug": "sabaya-bo0409"
+          },
+          "code": {
+            "id": "BO0409",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO040903",
+              "name": {
+                "local": "Chipaya",
+                "en": "Chipaya",
+                "slug": "chipaya-bo040903"
+              },
+              "code": {
+                "id": "BO040903",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040902",
+              "name": {
+                "local": "Coipasa",
+                "en": "Coipasa",
+                "slug": "coipasa-bo040902"
+              },
+              "code": {
+                "id": "BO040902",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040901",
+              "name": {
+                "local": "Sabaya",
+                "en": "Sabaya",
+                "slug": "sabaya-bo040901"
+              },
+              "code": {
+                "id": "BO040901",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0404",
+          "name": {
+            "local": "Sajama",
+            "en": "Sajama",
+            "slug": "sajama-bo0404"
+          },
+          "code": {
+            "id": "BO0404",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO040401",
+              "name": {
+                "local": "Curahuara de Carangas",
+                "en": "Curahuara de Carangas",
+                "slug": "curahuara-de-carangas-bo040401"
+              },
+              "code": {
+                "id": "BO040401",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO040402",
+              "name": {
+                "local": "Turco",
+                "en": "Turco",
+                "slug": "turco-bo040402"
+              },
+              "code": {
+                "id": "BO040402",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0413",
+          "name": {
+            "local": "San Pedro de Totora",
+            "en": "San Pedro de Totora",
+            "slug": "san-pedro-de-totora-bo0413"
+          },
+          "code": {
+            "id": "BO0413",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO041301",
+              "name": {
+                "local": "Totora",
+                "en": "Totora",
+                "slug": "totora-bo041301"
+              },
+              "code": {
+                "id": "BO041301",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0410",
+          "name": {
+            "local": "Saucarí",
+            "en": "Saucari",
+            "slug": "saucari-bo0410"
+          },
+          "code": {
+            "id": "BO0410",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO041001",
+              "name": {
+                "local": "Toledo",
+                "en": "Toledo",
+                "slug": "toledo-bo041001"
+              },
+              "code": {
+                "id": "BO041001",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0414",
+          "name": {
+            "local": "Sebastián Pagador",
+            "en": "Sebastian Pagador",
+            "slug": "sebastian-pagador-bo0414"
+          },
+          "code": {
+            "id": "BO0414",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO041401",
+              "name": {
+                "local": "Santiago de Huari",
+                "en": "Santiago de Huari",
+                "slug": "santiago-de-huari-bo041401"
+              },
+              "code": {
+                "id": "BO041401",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0412",
+          "name": {
+            "local": "Sur Carangas",
+            "en": "Sur Carangas",
+            "slug": "sur-carangas-bo0412"
+          },
+          "code": {
+            "id": "BO0412",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO041201",
+              "name": {
+                "local": "Andamarca",
+                "en": "Andamarca",
+                "slug": "andamarca-bo041201"
+              },
+              "code": {
+                "id": "BO041201",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO041202",
+              "name": {
+                "local": "Belén de Andamarca",
+                "en": "Belen de Andamarca",
+                "slug": "belen-de-andamarca-bo041202"
+              },
+              "code": {
+                "id": "BO041202",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0411",
+          "name": {
+            "local": "Tomás Barrón",
+            "en": "Tomas Barron",
+            "slug": "tomas-barron-bo0411"
+          },
+          "code": {
+            "id": "BO0411",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO041101",
+              "name": {
+                "local": "Eucaliptus",
+                "en": "Eucaliptus",
+                "slug": "eucaliptus-bo041101"
+              },
+              "code": {
+                "id": "BO041101",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BO09",
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      },
+      "code": {
+        "id": "BO09",
+        "iso": null
+      },
+      "province": [
+        {
+          "id": "BO0904",
+          "name": {
+            "local": "Abuná",
+            "en": "Abuna",
+            "slug": "abuna-bo0904"
+          },
+          "code": {
+            "id": "BO0904",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO090402",
+              "name": {
+                "local": "Ingavi",
+                "en": "Ingavi",
+                "slug": "ingavi-bo090402"
+              },
+              "code": {
+                "id": "BO090402",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO090401",
+              "name": {
+                "local": "Santa Rosa",
+                "en": "Santa Rosa",
+                "slug": "santa-rosa-bo090401"
+              },
+              "code": {
+                "id": "BO090401",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0905",
+          "name": {
+            "local": "Federico Román",
+            "en": "Federico Roman",
+            "slug": "federico-roman-bo0905"
+          },
+          "code": {
+            "id": "BO0905",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO090501",
+              "name": {
+                "local": "Nueva Esperanza",
+                "en": "Nueva Esperanza",
+                "slug": "nueva-esperanza-bo090501"
+              },
+              "code": {
+                "id": "BO090501",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO090503",
+              "name": {
+                "local": "Santos Mercado",
+                "en": "Santos Mercado",
+                "slug": "santos-mercado-bo090503"
+              },
+              "code": {
+                "id": "BO090503",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO090502",
+              "name": {
+                "local": "Villa Nueva",
+                "en": "Villa Nueva",
+                "slug": "villa-nueva-bo090502"
+              },
+              "code": {
+                "id": "BO090502",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0903",
+          "name": {
+            "local": "Madre de Dios",
+            "en": "Madre de Dios",
+            "slug": "madre-de-dios-bo0903"
+          },
+          "code": {
+            "id": "BO0903",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO090301",
+              "name": {
+                "local": "Puerto Gonzalo Moreno",
+                "en": "Puerto Gonzalo Moreno",
+                "slug": "puerto-gonzalo-moreno-bo090301"
+              },
+              "code": {
+                "id": "BO090301",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO090302",
+              "name": {
+                "local": "San Lorenzo",
+                "en": "San Lorenzo",
+                "slug": "san-lorenzo-bo090302"
+              },
+              "code": {
+                "id": "BO090302",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO090303",
+              "name": {
+                "local": "Sena",
+                "en": "Sena",
+                "slug": "sena-bo090303"
+              },
+              "code": {
+                "id": "BO090303",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0902",
+          "name": {
+            "local": "Manuripi",
+            "en": "Manuripi",
+            "slug": "manuripi-bo0902"
+          },
+          "code": {
+            "id": "BO0902",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO090203",
+              "name": {
+                "local": "Filadelfia",
+                "en": "Filadelfia",
+                "slug": "filadelfia-bo090203"
+              },
+              "code": {
+                "id": "BO090203",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO090201",
+              "name": {
+                "local": "Puerto Rico",
+                "en": "Puerto Rico",
+                "slug": "puerto-rico-bo090201"
+              },
+              "code": {
+                "id": "BO090201",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO090202",
+              "name": {
+                "local": "San Pedro",
+                "en": "San Pedro",
+                "slug": "san-pedro-bo090202"
+              },
+              "code": {
+                "id": "BO090202",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0901",
+          "name": {
+            "local": "Nicolás Suárez",
+            "en": "Nicolas Suarez",
+            "slug": "nicolas-suarez-bo0901"
+          },
+          "code": {
+            "id": "BO0901",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO090104",
+              "name": {
+                "local": "Bella Flor",
+                "en": "Bella Flor",
+                "slug": "bella-flor-bo090104"
+              },
+              "code": {
+                "id": "BO090104",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO090103",
+              "name": {
+                "local": "Bolpebra",
+                "en": "Bolpebra",
+                "slug": "bolpebra-bo090103"
+              },
+              "code": {
+                "id": "BO090103",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO090101",
+              "name": {
+                "local": "Cobija",
+                "en": "Cobija",
+                "slug": "cobija-bo090101"
+              },
+              "code": {
+                "id": "BO090101",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO090102",
+              "name": {
+                "local": "Porvenir",
+                "en": "Porvenir",
+                "slug": "porvenir-bo090102"
+              },
+              "code": {
+                "id": "BO090102",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BO05",
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      },
+      "code": {
+        "id": "BO05",
+        "iso": null
+      },
+      "province": [
+        {
+          "id": "BO0507",
+          "name": {
+            "local": "Alonso de Ibáñez",
+            "en": "Alonso de Ibanez",
+            "slug": "alonso-de-ibanez-bo0507"
+          },
+          "code": {
+            "id": "BO0507",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO050702",
+              "name": {
+                "local": "Caripuyo",
+                "en": "Caripuyo",
+                "slug": "caripuyo-bo050702"
+              },
+              "code": {
+                "id": "BO050702",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050701",
+              "name": {
+                "local": "Sacaca",
+                "en": "Sacaca",
+                "slug": "sacaca-bo050701"
+              },
+              "code": {
+                "id": "BO050701",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0512",
+          "name": {
+            "local": "Antonio Quijarro",
+            "en": "Antonio Quijarro",
+            "slug": "antonio-quijarro-bo0512"
+          },
+          "code": {
+            "id": "BO0512",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO051203",
+              "name": {
+                "local": "Porco",
+                "en": "Porco",
+                "slug": "porco-bo051203"
+              },
+              "code": {
+                "id": "BO051203",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO051202",
+              "name": {
+                "local": "Tomave",
+                "en": "Tomave",
+                "slug": "tomave-bo051202"
+              },
+              "code": {
+                "id": "BO051202",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO051201",
+              "name": {
+                "local": "Uyuni",
+                "en": "Uyuni",
+                "slug": "uyuni-bo051201"
+              },
+              "code": {
+                "id": "BO051201",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0505",
+          "name": {
+            "local": "Chárcas",
+            "en": "Charcas",
+            "slug": "charcas-bo0505"
+          },
+          "code": {
+            "id": "BO0505",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO050501",
+              "name": {
+                "local": "San Pedro",
+                "en": "San Pedro",
+                "slug": "san-pedro-bo050501"
+              },
+              "code": {
+                "id": "BO050501",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050502",
+              "name": {
+                "local": "Toro Toro",
+                "en": "Toro Toro",
+                "slug": "toro-toro-bo050502"
+              },
+              "code": {
+                "id": "BO050502",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0504",
+          "name": {
+            "local": "Chayanta",
+            "en": "Chayanta",
+            "slug": "chayanta-bo0504"
+          },
+          "code": {
+            "id": "BO0504",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO050401",
+              "name": {
+                "local": "Colquechaca",
+                "en": "Colquechaca",
+                "slug": "colquechaca-bo050401"
+              },
+              "code": {
+                "id": "BO050401",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050404",
+              "name": {
+                "local": "Ocurí",
+                "en": "Ocuri",
+                "slug": "ocuri-bo050404"
+              },
+              "code": {
+                "id": "BO050404",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050403",
+              "name": {
+                "local": "Pocoata",
+                "en": "Pocoata",
+                "slug": "pocoata-bo050403"
+              },
+              "code": {
+                "id": "BO050403",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050402",
+              "name": {
+                "local": "Ravelo",
+                "en": "Ravelo",
+                "slug": "ravelo-bo050402"
+              },
+              "code": {
+                "id": "BO050402",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0503",
+          "name": {
+            "local": "Cornelio Saavedra",
+            "en": "Cornelio Saavedra",
+            "slug": "cornelio-saavedra-bo0503"
+          },
+          "code": {
+            "id": "BO0503",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO050301",
+              "name": {
+                "local": "Betanzos",
+                "en": "Betanzos",
+                "slug": "betanzos-bo050301"
+              },
+              "code": {
+                "id": "BO050301",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050302",
+              "name": {
+                "local": "Chaquí",
+                "en": "Chaqui",
+                "slug": "chaqui-bo050302"
+              },
+              "code": {
+                "id": "BO050302",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050303",
+              "name": {
+                "local": "Tacobamba",
+                "en": "Tacobamba",
+                "slug": "tacobamba-bo050303"
+              },
+              "code": {
+                "id": "BO050303",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0514",
+          "name": {
+            "local": "Daniel Campos",
+            "en": "Daniel Campos",
+            "slug": "daniel-campos-bo0514"
+          },
+          "code": {
+            "id": "BO0514",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO051401",
+              "name": {
+                "local": "Llica",
+                "en": "Llica",
+                "slug": "llica-bo051401"
+              },
+              "code": {
+                "id": "BO051401",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO051402",
+              "name": {
+                "local": "Tahua",
+                "en": "Tahua",
+                "slug": "tahua-bo051402"
+              },
+              "code": {
+                "id": "BO051402",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0516",
+          "name": {
+            "local": "Enrique Baldivieso",
+            "en": "Enrique Baldivieso",
+            "slug": "enrique-baldivieso-bo0516"
+          },
+          "code": {
+            "id": "BO0516",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO051601",
+              "name": {
+                "local": "San Agustín",
+                "en": "San Agustin",
+                "slug": "san-agustin-bo051601"
+              },
+              "code": {
+                "id": "BO051601",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0513",
+          "name": {
+            "local": "General Bilbao",
+            "en": "General Bilbao",
+            "slug": "general-bilbao-bo0513"
+          },
+          "code": {
+            "id": "BO0513",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO051302",
+              "name": {
+                "local": "Acasio",
+                "en": "Acasio",
+                "slug": "acasio-bo051302"
+              },
+              "code": {
+                "id": "BO051302",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO051301",
+              "name": {
+                "local": "Arampampa",
+                "en": "Arampampa",
+                "slug": "arampampa-bo051301"
+              },
+              "code": {
+                "id": "BO051301",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0511",
+          "name": {
+            "local": "José María Linares",
+            "en": "Jose Maria Linares",
+            "slug": "jose-maria-linares-bo0511"
+          },
+          "code": {
+            "id": "BO0511",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO051102",
+              "name": {
+                "local": "Caiza \"D\"",
+                "en": "Caiza \"D\"",
+                "slug": "caiza-d-bo051102"
+              },
+              "code": {
+                "id": "BO051102",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO051103",
+              "name": {
+                "local": "Ckochas",
+                "en": "Ckochas",
+                "slug": "ckochas-bo051103"
+              },
+              "code": {
+                "id": "BO051103",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO051101",
+              "name": {
+                "local": "Puna",
+                "en": "Puna",
+                "slug": "puna-bo051101"
+              },
+              "code": {
+                "id": "BO051101",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0515",
+          "name": {
+            "local": "Modesto Omiste",
+            "en": "Modesto Omiste",
+            "slug": "modesto-omiste-bo0515"
+          },
+          "code": {
+            "id": "BO0515",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO051501",
+              "name": {
+                "local": "Villazón",
+                "en": "Villazon",
+                "slug": "villazon-bo051501"
+              },
+              "code": {
+                "id": "BO051501",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0506",
+          "name": {
+            "local": "Nor Chichas",
+            "en": "Nor Chichas",
+            "slug": "nor-chichas-bo0506"
+          },
+          "code": {
+            "id": "BO0506",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO050601",
+              "name": {
+                "local": "Cotagaita",
+                "en": "Cotagaita",
+                "slug": "cotagaita-bo050601"
+              },
+              "code": {
+                "id": "BO050601",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050602",
+              "name": {
+                "local": "Vitiche",
+                "en": "Vitiche",
+                "slug": "vitiche-bo050602"
+              },
+              "code": {
+                "id": "BO050602",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0509",
+          "name": {
+            "local": "Nor Lipez",
+            "en": "Nor Lipez",
+            "slug": "nor-lipez-bo0509"
+          },
+          "code": {
+            "id": "BO0509",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO050901",
+              "name": {
+                "local": "Colcha \"K\"",
+                "en": "Colcha \"K\"",
+                "slug": "colcha-k-bo050901"
+              },
+              "code": {
+                "id": "BO050901",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050902",
+              "name": {
+                "local": "San Pedro de Quemes",
+                "en": "San Pedro de Quemes",
+                "slug": "san-pedro-de-quemes-bo050902"
+              },
+              "code": {
+                "id": "BO050902",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0502",
+          "name": {
+            "local": "Rafael Bustillo",
+            "en": "Rafael Bustillo",
+            "slug": "rafael-bustillo-bo0502"
+          },
+          "code": {
+            "id": "BO0502",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO050202",
+              "name": {
+                "local": "Chayanta",
+                "en": "Chayanta",
+                "slug": "chayanta-bo050202"
+              },
+              "code": {
+                "id": "BO050202",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050204",
+              "name": {
+                "local": "Chuquihuta Ayllu Jucumani",
+                "en": "Chuquihuta Ayllu Jucumani",
+                "slug": "chuquihuta-ayllu-jucumani-bo050204"
+              },
+              "code": {
+                "id": "BO050204",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050203",
+              "name": {
+                "local": "Llallagua",
+                "en": "Llallagua",
+                "slug": "llallagua-bo050203"
+              },
+              "code": {
+                "id": "BO050203",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050201",
+              "name": {
+                "local": "Uncía",
+                "en": "Uncia",
+                "slug": "uncia-bo050201"
+              },
+              "code": {
+                "id": "BO050201",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0508",
+          "name": {
+            "local": "Sur Chichas",
+            "en": "Sur Chichas",
+            "slug": "sur-chichas-bo0508"
+          },
+          "code": {
+            "id": "BO0508",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO050802",
+              "name": {
+                "local": "Atocha",
+                "en": "Atocha",
+                "slug": "atocha-bo050802"
+              },
+              "code": {
+                "id": "BO050802",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050801",
+              "name": {
+                "local": "Tupiza",
+                "en": "Tupiza",
+                "slug": "tupiza-bo050801"
+              },
+              "code": {
+                "id": "BO050801",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0510",
+          "name": {
+            "local": "Sur Lipez",
+            "en": "Sur Lipez",
+            "slug": "sur-lipez-bo0510"
+          },
+          "code": {
+            "id": "BO0510",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO051002",
+              "name": {
+                "local": "Mojinete",
+                "en": "Mojinete",
+                "slug": "mojinete-bo051002"
+              },
+              "code": {
+                "id": "BO051002",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO051003",
+              "name": {
+                "local": "San Antonio de Esmoruco",
+                "en": "San Antonio de Esmoruco",
+                "slug": "san-antonio-de-esmoruco-bo051003"
+              },
+              "code": {
+                "id": "BO051003",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO051001",
+              "name": {
+                "local": "San Pablo",
+                "en": "San Pablo",
+                "slug": "san-pablo-bo051001"
+              },
+              "code": {
+                "id": "BO051001",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0501",
+          "name": {
+            "local": "Tomás Frías",
+            "en": "Tomas Frias",
+            "slug": "tomas-frias-bo0501"
+          },
+          "code": {
+            "id": "BO0501",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO050101",
+              "name": {
+                "local": "Potosí",
+                "en": "Potosi",
+                "slug": "potosi-bo050101"
+              },
+              "code": {
+                "id": "BO050101",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050102",
+              "name": {
+                "local": "Tinguipaya",
+                "en": "Tinguipaya",
+                "slug": "tinguipaya-bo050102"
+              },
+              "code": {
+                "id": "BO050102",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050104",
+              "name": {
+                "local": "Urmiri",
+                "en": "Urmiri",
+                "slug": "urmiri-bo050104"
+              },
+              "code": {
+                "id": "BO050104",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO050103",
+              "name": {
+                "local": "Yocalla",
+                "en": "Yocalla",
+                "slug": "yocalla-bo050103"
+              },
+              "code": {
+                "id": "BO050103",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BO07",
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      },
+      "code": {
+        "id": "BO07",
+        "iso": null
+      },
+      "province": [
+        {
+          "id": "BO0701",
+          "name": {
+            "local": "Andrés Ibáñez",
+            "en": "Andres Ibanez",
+            "slug": "andres-ibanez-bo0701"
+          },
+          "code": {
+            "id": "BO0701",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO070102",
+              "name": {
+                "local": "Cotoca",
+                "en": "Cotoca",
+                "slug": "cotoca-bo070102"
+              },
+              "code": {
+                "id": "BO070102",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070105",
+              "name": {
+                "local": "El Torno",
+                "en": "El Torno",
+                "slug": "el-torno-bo070105"
+              },
+              "code": {
+                "id": "BO070105",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070104",
+              "name": {
+                "local": "La Guardia",
+                "en": "La Guardia",
+                "slug": "la-guardia-bo070104"
+              },
+              "code": {
+                "id": "BO070104",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070103",
+              "name": {
+                "local": "Porongo",
+                "en": "Porongo",
+                "slug": "porongo-bo070103"
+              },
+              "code": {
+                "id": "BO070103",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070101",
+              "name": {
+                "local": "Santa Cruz de la Sierra",
+                "en": "Santa Cruz de la Sierra",
+                "slug": "santa-cruz-de-la-sierra-bo070101"
+              },
+              "code": {
+                "id": "BO070101",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0712",
+          "name": {
+            "local": "Angel Sandoval",
+            "en": "Angel Sandoval",
+            "slug": "angel-sandoval-bo0712"
+          },
+          "code": {
+            "id": "BO0712",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO071201",
+              "name": {
+                "local": "San Matías",
+                "en": "San Matias",
+                "slug": "san-matias-bo071201"
+              },
+              "code": {
+                "id": "BO071201",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0705",
+          "name": {
+            "local": "Chiquitos",
+            "en": "Chiquitos",
+            "slug": "chiquitos-bo0705"
+          },
+          "code": {
+            "id": "BO0705",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO070502",
+              "name": {
+                "local": "Pailón",
+                "en": "Pailon",
+                "slug": "pailon-bo070502"
+              },
+              "code": {
+                "id": "BO070502",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070503",
+              "name": {
+                "local": "Roboré",
+                "en": "Robore",
+                "slug": "robore-bo070503"
+              },
+              "code": {
+                "id": "BO070503",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070501",
+              "name": {
+                "local": "San José",
+                "en": "San Jose",
+                "slug": "san-jose-bo070501"
+              },
+              "code": {
+                "id": "BO070501",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0707",
+          "name": {
+            "local": "Cordillera",
+            "en": "Cordillera",
+            "slug": "cordillera-bo0707"
+          },
+          "code": {
+            "id": "BO0707",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO070707",
+              "name": {
+                "local": "Boyuibe",
+                "en": "Boyuibe",
+                "slug": "boyuibe-bo070707"
+              },
+              "code": {
+                "id": "BO070707",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070703",
+              "name": {
+                "local": "Cabezas",
+                "en": "Cabezas",
+                "slug": "cabezas-bo070703"
+              },
+              "code": {
+                "id": "BO070703",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070706",
+              "name": {
+                "local": "Camiri",
+                "en": "Camiri",
+                "slug": "camiri-bo070706"
+              },
+              "code": {
+                "id": "BO070706",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070702",
+              "name": {
+                "local": "Charagua",
+                "en": "Charagua",
+                "slug": "charagua-bo070702"
+              },
+              "code": {
+                "id": "BO070702",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070704",
+              "name": {
+                "local": "Cuevo",
+                "en": "Cuevo",
+                "slug": "cuevo-bo070704"
+              },
+              "code": {
+                "id": "BO070704",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070705",
+              "name": {
+                "local": "Gutiérrez",
+                "en": "Gutierrez",
+                "slug": "gutierrez-bo070705"
+              },
+              "code": {
+                "id": "BO070705",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070701",
+              "name": {
+                "local": "Lagunillas",
+                "en": "Lagunillas",
+                "slug": "lagunillas-bo070701"
+              },
+              "code": {
+                "id": "BO070701",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0709",
+          "name": {
+            "local": "Florida",
+            "en": "Florida",
+            "slug": "florida-bo0709"
+          },
+          "code": {
+            "id": "BO0709",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO070903",
+              "name": {
+                "local": "Mairana",
+                "en": "Mairana",
+                "slug": "mairana-bo070903"
+              },
+              "code": {
+                "id": "BO070903",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070902",
+              "name": {
+                "local": "Pampa Grande",
+                "en": "Pampa Grande",
+                "slug": "pampa-grande-bo070902"
+              },
+              "code": {
+                "id": "BO070902",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070904",
+              "name": {
+                "local": "Quirusillas",
+                "en": "Quirusillas",
+                "slug": "quirusillas-bo070904"
+              },
+              "code": {
+                "id": "BO070904",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070901",
+              "name": {
+                "local": "Samaipata",
+                "en": "Samaipata",
+                "slug": "samaipata-bo070901"
+              },
+              "code": {
+                "id": "BO070901",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0714",
+          "name": {
+            "local": "Germán Busch",
+            "en": "German Busch",
+            "slug": "german-busch-bo0714"
+          },
+          "code": {
+            "id": "BO0714",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO071403",
+              "name": {
+                "local": "El Carmen Rivero Tórrez",
+                "en": "El Carmen Rivero Torrez",
+                "slug": "el-carmen-rivero-torrez-bo071403"
+              },
+              "code": {
+                "id": "BO071403",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071402",
+              "name": {
+                "local": "Puerto Quijarro",
+                "en": "Puerto Quijarro",
+                "slug": "puerto-quijarro-bo071402"
+              },
+              "code": {
+                "id": "BO071402",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071401",
+              "name": {
+                "local": "Puerto Suarez",
+                "en": "Puerto Suarez",
+                "slug": "puerto-suarez-bo071401"
+              },
+              "code": {
+                "id": "BO071401",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0715",
+          "name": {
+            "local": "Guarayos",
+            "en": "Guarayos",
+            "slug": "guarayos-bo0715"
+          },
+          "code": {
+            "id": "BO0715",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO071501",
+              "name": {
+                "local": "Ascención de Guarayos",
+                "en": "Ascencion de Guarayos",
+                "slug": "ascencion-de-guarayos-bo071501"
+              },
+              "code": {
+                "id": "BO071501",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071503",
+              "name": {
+                "local": "El Puente",
+                "en": "El Puente",
+                "slug": "el-puente-bo071503"
+              },
+              "code": {
+                "id": "BO071503",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071502",
+              "name": {
+                "local": "Urubicha",
+                "en": "Urubicha",
+                "slug": "urubicha-bo071502"
+              },
+              "code": {
+                "id": "BO071502",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0704",
+          "name": {
+            "local": "Ichilo",
+            "en": "Ichilo",
+            "slug": "ichilo-bo0704"
+          },
+          "code": {
+            "id": "BO0704",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO070401",
+              "name": {
+                "local": "Buena Vista",
+                "en": "Buena Vista",
+                "slug": "buena-vista-bo070401"
+              },
+              "code": {
+                "id": "BO070401",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070402",
+              "name": {
+                "local": "San Carlos",
+                "en": "San Carlos",
+                "slug": "san-carlos-bo070402"
+              },
+              "code": {
+                "id": "BO070402",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070404",
+              "name": {
+                "local": "San Juan",
+                "en": "San Juan",
+                "slug": "san-juan-bo070404"
+              },
+              "code": {
+                "id": "BO070404",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070403",
+              "name": {
+                "local": "Yapacaní",
+                "en": "Yapacani",
+                "slug": "yapacani-bo070403"
+              },
+              "code": {
+                "id": "BO070403",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0713",
+          "name": {
+            "local": "Manuel María Caballero",
+            "en": "Manuel Maria Caballero",
+            "slug": "manuel-maria-caballero-bo0713"
+          },
+          "code": {
+            "id": "BO0713",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO071301",
+              "name": {
+                "local": "Comarapa",
+                "en": "Comarapa",
+                "slug": "comarapa-bo071301"
+              },
+              "code": {
+                "id": "BO071301",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071302",
+              "name": {
+                "local": "Saipina",
+                "en": "Saipina",
+                "slug": "saipina-bo071302"
+              },
+              "code": {
+                "id": "BO071302",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0711",
+          "name": {
+            "local": "Ñuflo De Chávez",
+            "en": "Nuflo De Chavez",
+            "slug": "nuflo-de-chavez-bo0711"
+          },
+          "code": {
+            "id": "BO0711",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO071101",
+              "name": {
+                "local": "Concepción",
+                "en": "Concepcion",
+                "slug": "concepcion-bo071101"
+              },
+              "code": {
+                "id": "BO071101",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071106",
+              "name": {
+                "local": "Cuatro Cañadas",
+                "en": "Cuatro Canadas",
+                "slug": "cuatro-canadas-bo071106"
+              },
+              "code": {
+                "id": "BO071106",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071104",
+              "name": {
+                "local": "San Antonio de Lomerio",
+                "en": "San Antonio de Lomerio",
+                "slug": "san-antonio-de-lomerio-bo071104"
+              },
+              "code": {
+                "id": "BO071104",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071102",
+              "name": {
+                "local": "San Javier",
+                "en": "San Javier",
+                "slug": "san-javier-bo071102"
+              },
+              "code": {
+                "id": "BO071102",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071103",
+              "name": {
+                "local": "San Julián",
+                "en": "San Julian",
+                "slug": "san-julian-bo071103"
+              },
+              "code": {
+                "id": "BO071103",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071105",
+              "name": {
+                "local": "San Ramón",
+                "en": "San Ramon",
+                "slug": "san-ramon-bo071105"
+              },
+              "code": {
+                "id": "BO071105",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0710",
+          "name": {
+            "local": "Obispo Santistéban",
+            "en": "Obispo Santisteban",
+            "slug": "obispo-santisteban-bo0710"
+          },
+          "code": {
+            "id": "BO0710",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO071004",
+              "name": {
+                "local": "Fernández Alonso",
+                "en": "Fernandez Alonso",
+                "slug": "fernandez-alonso-bo071004"
+              },
+              "code": {
+                "id": "BO071004",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071002",
+              "name": {
+                "local": "General Saavedra",
+                "en": "General Saavedra",
+                "slug": "general-saavedra-bo071002"
+              },
+              "code": {
+                "id": "BO071002",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071003",
+              "name": {
+                "local": "Mineros",
+                "en": "Mineros",
+                "slug": "mineros-bo071003"
+              },
+              "code": {
+                "id": "BO071003",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071001",
+              "name": {
+                "local": "Montero",
+                "en": "Montero",
+                "slug": "montero-bo071001"
+              },
+              "code": {
+                "id": "BO071001",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO071005",
+              "name": {
+                "local": "San Pedro",
+                "en": "San Pedro",
+                "slug": "san-pedro-bo071005"
+              },
+              "code": {
+                "id": "BO071005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0706",
+          "name": {
+            "local": "Sara",
+            "en": "Sara",
+            "slug": "sara-bo0706"
+          },
+          "code": {
+            "id": "BO0706",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO070603",
+              "name": {
+                "local": "Colpa Bélgica",
+                "en": "Colpa Belgica",
+                "slug": "colpa-belgica-bo070603"
+              },
+              "code": {
+                "id": "BO070603",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070601",
+              "name": {
+                "local": "Portachuelo",
+                "en": "Portachuelo",
+                "slug": "portachuelo-bo070601"
+              },
+              "code": {
+                "id": "BO070601",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070602",
+              "name": {
+                "local": "Santa Rosa",
+                "en": "Santa Rosa",
+                "slug": "santa-rosa-bo070602"
+              },
+              "code": {
+                "id": "BO070602",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0708",
+          "name": {
+            "local": "Vallegrande",
+            "en": "Vallegrande",
+            "slug": "vallegrande-bo0708"
+          },
+          "code": {
+            "id": "BO0708",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO070803",
+              "name": {
+                "local": "Moromoro",
+                "en": "Moromoro",
+                "slug": "moromoro-bo070803"
+              },
+              "code": {
+                "id": "BO070803",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070804",
+              "name": {
+                "local": "Postrervalle",
+                "en": "Postrervalle",
+                "slug": "postrervalle-bo070804"
+              },
+              "code": {
+                "id": "BO070804",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070805",
+              "name": {
+                "local": "Pucará",
+                "en": "Pucara",
+                "slug": "pucara-bo070805"
+              },
+              "code": {
+                "id": "BO070805",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070802",
+              "name": {
+                "local": "Trigal",
+                "en": "Trigal",
+                "slug": "trigal-bo070802"
+              },
+              "code": {
+                "id": "BO070802",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070801",
+              "name": {
+                "local": "Vallegrande",
+                "en": "Vallegrande",
+                "slug": "vallegrande-bo070801"
+              },
+              "code": {
+                "id": "BO070801",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0703",
+          "name": {
+            "local": "Velasco",
+            "en": "Velasco",
+            "slug": "velasco-bo0703"
+          },
+          "code": {
+            "id": "BO0703",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO070301",
+              "name": {
+                "local": "San Ignacio",
+                "en": "San Ignacio",
+                "slug": "san-ignacio-bo070301"
+              },
+              "code": {
+                "id": "BO070301",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070302",
+              "name": {
+                "local": "San Miguel",
+                "en": "San Miguel",
+                "slug": "san-miguel-bo070302"
+              },
+              "code": {
+                "id": "BO070302",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070303",
+              "name": {
+                "local": "San Rafael",
+                "en": "San Rafael",
+                "slug": "san-rafael-bo070303"
+              },
+              "code": {
+                "id": "BO070303",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0702",
+          "name": {
+            "local": "Warnes",
+            "en": "Warnes",
+            "slug": "warnes-bo0702"
+          },
+          "code": {
+            "id": "BO0702",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO070202",
+              "name": {
+                "local": "Okinawa Uno",
+                "en": "Okinawa Uno",
+                "slug": "okinawa-uno-bo070202"
+              },
+              "code": {
+                "id": "BO070202",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO070201",
+              "name": {
+                "local": "Warnes",
+                "en": "Warnes",
+                "slug": "warnes-bo070201"
+              },
+              "code": {
+                "id": "BO070201",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BO06",
+      "name": {
+        "local": "Tarija",
+        "en": "Tarija",
+        "slug": "tarija-bo06"
+      },
+      "code": {
+        "id": "BO06",
+        "iso": null
+      },
+      "province": [
+        {
+          "id": "BO0602",
+          "name": {
+            "local": "Arce",
+            "en": "Arce",
+            "slug": "arce-bo0602"
+          },
+          "code": {
+            "id": "BO0602",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO060202",
+              "name": {
+                "local": "Bermejo",
+                "en": "Bermejo",
+                "slug": "bermejo-bo060202"
+              },
+              "code": {
+                "id": "BO060202",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO060201",
+              "name": {
+                "local": "Padcaya",
+                "en": "Padcaya",
+                "slug": "padcaya-bo060201"
+              },
+              "code": {
+                "id": "BO060201",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0604",
+          "name": {
+            "local": "Avilés",
+            "en": "Aviles",
+            "slug": "aviles-bo0604"
+          },
+          "code": {
+            "id": "BO0604",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO060401",
+              "name": {
+                "local": "Uriondo",
+                "en": "Uriondo",
+                "slug": "uriondo-bo060401"
+              },
+              "code": {
+                "id": "BO060401",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO060402",
+              "name": {
+                "local": "Yunchará",
+                "en": "Yunchara",
+                "slug": "yunchara-bo060402"
+              },
+              "code": {
+                "id": "BO060402",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0601",
+          "name": {
+            "local": "Cercado",
+            "en": "Cercado",
+            "slug": "cercado-bo0601"
+          },
+          "code": {
+            "id": "BO0601",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO060101",
+              "name": {
+                "local": "Tarija",
+                "en": "Tarija",
+                "slug": "tarija-bo060101"
+              },
+              "code": {
+                "id": "BO060101",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0603",
+          "name": {
+            "local": "Gran Chaco",
+            "en": "Gran Chaco",
+            "slug": "gran-chaco-bo0603"
+          },
+          "code": {
+            "id": "BO0603",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO060302",
+              "name": {
+                "local": "Caraparí",
+                "en": "Carapari",
+                "slug": "carapari-bo060302"
+              },
+              "code": {
+                "id": "BO060302",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO060303",
+              "name": {
+                "local": "Villa Montes",
+                "en": "Villa Montes",
+                "slug": "villa-montes-bo060303"
+              },
+              "code": {
+                "id": "BO060303",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO060301",
+              "name": {
+                "local": "Yacuiba",
+                "en": "Yacuiba",
+                "slug": "yacuiba-bo060301"
+              },
+              "code": {
+                "id": "BO060301",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0605",
+          "name": {
+            "local": "Méndez",
+            "en": "Mendez",
+            "slug": "mendez-bo0605"
+          },
+          "code": {
+            "id": "BO0605",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO060502",
+              "name": {
+                "local": "El Puente",
+                "en": "El Puente",
+                "slug": "el-puente-bo060502"
+              },
+              "code": {
+                "id": "BO060502",
+                "iso": null
+              }
+            },
+            {
+              "id": "BO060501",
+              "name": {
+                "local": "San Lorenzo",
+                "en": "San Lorenzo",
+                "slug": "san-lorenzo-bo060501"
+              },
+              "code": {
+                "id": "BO060501",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "BO0606",
+          "name": {
+            "local": "O'Connor",
+            "en": "OConnor",
+            "slug": "oconnor-bo0606"
+          },
+          "code": {
+            "id": "BO0606",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "BO060601",
+              "name": {
+                "local": "Entre Ríos",
+                "en": "Entre Rios",
+                "slug": "entre-rios-bo060601"
+              },
+              "code": {
+                "id": "BO060601",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

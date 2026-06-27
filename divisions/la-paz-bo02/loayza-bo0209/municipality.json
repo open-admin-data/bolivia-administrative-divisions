@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO020905",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cairoma",
+      "en": "Cairoma",
+      "slug": "cairoma-bo020905"
+    },
+    "code": {
+      "id": "BO020905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0209",
+      "level": 2,
+      "name": {
+        "local": "Loayza",
+        "en": "Loayza",
+        "slug": "loayza-bo0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0209",
+        "level": 2,
+        "name": {
+          "local": "Loayza",
+          "en": "Loayza",
+          "slug": "loayza-bo0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.817",
+      "lon": "-67.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020901",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Luribay",
+      "en": "Luribay",
+      "slug": "luribay-bo020901"
+    },
+    "code": {
+      "id": "BO020901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0209",
+      "level": 2,
+      "name": {
+        "local": "Loayza",
+        "en": "Loayza",
+        "slug": "loayza-bo0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0209",
+        "level": 2,
+        "name": {
+          "local": "Loayza",
+          "en": "Loayza",
+          "slug": "loayza-bo0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.075",
+      "lon": "-67.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020904",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Malla",
+      "en": "Malla",
+      "slug": "malla-bo020904"
+    },
+    "code": {
+      "id": "BO020904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0209",
+      "level": 2,
+      "name": {
+        "local": "Loayza",
+        "en": "Loayza",
+        "slug": "loayza-bo0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0209",
+        "level": 2,
+        "name": {
+          "local": "Loayza",
+          "en": "Loayza",
+          "slug": "loayza-bo0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.011",
+      "lon": "-67.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020902",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sapahaqui",
+      "en": "Sapahaqui",
+      "slug": "sapahaqui-bo020902"
+    },
+    "code": {
+      "id": "BO020902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0209",
+      "level": 2,
+      "name": {
+        "local": "Loayza",
+        "en": "Loayza",
+        "slug": "loayza-bo0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0209",
+        "level": 2,
+        "name": {
+          "local": "Loayza",
+          "en": "Loayza",
+          "slug": "loayza-bo0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.984",
+      "lon": "-67.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020903",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yaco",
+      "en": "Yaco",
+      "slug": "yaco-bo020903"
+    },
+    "code": {
+      "id": "BO020903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0209",
+      "level": 2,
+      "name": {
+        "local": "Loayza",
+        "en": "Loayza",
+        "slug": "loayza-bo0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0209",
+        "level": 2,
+        "name": {
+          "local": "Loayza",
+          "en": "Loayza",
+          "slug": "loayza-bo0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.259",
+      "lon": "-67.391"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO020405",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Escoma",
+      "en": "Escoma",
+      "slug": "escoma-bo020405"
+    },
+    "code": {
+      "id": "BO020405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0204",
+      "level": 2,
+      "name": {
+        "local": "Camacho",
+        "en": "Camacho",
+        "slug": "camacho-bo0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0204",
+        "level": 2,
+        "name": {
+          "local": "Camacho",
+          "en": "Camacho",
+          "slug": "camacho-bo0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.637",
+      "lon": "-69.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020404",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Humanata",
+      "en": "Humanata",
+      "slug": "humanata-bo020404"
+    },
+    "code": {
+      "id": "BO020404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0204",
+      "level": 2,
+      "name": {
+        "local": "Camacho",
+        "en": "Camacho",
+        "slug": "camacho-bo0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0204",
+        "level": 2,
+        "name": {
+          "local": "Camacho",
+          "en": "Camacho",
+          "slug": "camacho-bo0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.415",
+      "lon": "-69.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mocomoco",
+      "en": "Mocomoco",
+      "slug": "mocomoco-bo020402"
+    },
+    "code": {
+      "id": "BO020402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0204",
+      "level": 2,
+      "name": {
+        "local": "Camacho",
+        "en": "Camacho",
+        "slug": "camacho-bo0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0204",
+        "level": 2,
+        "name": {
+          "local": "Camacho",
+          "en": "Camacho",
+          "slug": "camacho-bo0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.46",
+      "lon": "-69.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Acosta",
+      "en": "Puerto Acosta",
+      "slug": "puerto-acosta-bo020401"
+    },
+    "code": {
+      "id": "BO020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0204",
+      "level": 2,
+      "name": {
+        "local": "Camacho",
+        "en": "Camacho",
+        "slug": "camacho-bo0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0204",
+        "level": 2,
+        "name": {
+          "local": "Camacho",
+          "en": "Camacho",
+          "slug": "camacho-bo0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.558",
+      "lon": "-69.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020403",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Mayor de Carabuco",
+      "en": "Puerto Mayor de Carabuco",
+      "slug": "puerto-mayor-de-carabuco-bo020403"
+    },
+    "code": {
+      "id": "BO020403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0204",
+      "level": 2,
+      "name": {
+        "local": "Camacho",
+        "en": "Camacho",
+        "slug": "camacho-bo0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0204",
+        "level": 2,
+        "name": {
+          "local": "Camacho",
+          "en": "Camacho",
+          "slug": "camacho-bo0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.716",
+      "lon": "-69.031"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

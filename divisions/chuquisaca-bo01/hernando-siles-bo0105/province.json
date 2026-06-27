@@ -1,0 +1,47 @@
+{
+  "id": "BO0105",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Hernando Siles",
+    "en": "Hernando Siles",
+    "slug": "hernando-siles-bo0105"
+  },
+  "code": {
+    "id": "BO0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO01",
+    "level": 1,
+    "name": {
+      "local": "Chuquisaca",
+      "en": "Chuquisaca",
+      "slug": "chuquisaca-bo01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.234",
+    "lon": "-64.066"
+  },
+  "metadata": {},
+  "source": {}
+}

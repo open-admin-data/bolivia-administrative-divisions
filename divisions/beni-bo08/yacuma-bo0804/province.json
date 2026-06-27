@@ -1,0 +1,47 @@
+{
+  "id": "BO0804",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Yacuma",
+    "en": "Yacuma",
+    "slug": "yacuma-bo0804"
+  },
+  "code": {
+    "id": "BO0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO08",
+    "level": 1,
+    "name": {
+      "local": "Beni",
+      "en": "Beni",
+      "slug": "beni-bo08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.783",
+    "lon": "-65.896"
+  },
+  "metadata": {},
+  "source": {}
+}

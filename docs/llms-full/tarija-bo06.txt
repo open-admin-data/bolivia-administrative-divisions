@@ -1,0 +1,83 @@
+# Tarija — Bolivia Administrative Divisions
+
+> 6 provinces, 11 municipalitys
+> Code: BO06
+> Coordinates: -21.884, -63.972
+> Last updated: 2026-06-27. License: CC-BY-4.0.
+
+## Provinces
+
+### Arce
+
+Code: BO0602, Coordinates: -22.33, -64.348
+Municipalitys: 2
+
+#### Bermejo
+
+Code: BO060202, Coordinates: -22.723, -64.321
+
+#### Padcaya
+
+Code: BO060201, Coordinates: -22.171, -64.469
+
+### Avilés (Aviles)
+
+Code: BO0604, Coordinates: -21.785, -64.931
+Municipalitys: 2
+
+#### Uriondo
+
+Code: BO060401, Coordinates: -21.737, -64.682
+
+#### Yunchará (Yunchara)
+
+Code: BO060402, Coordinates: -21.785, -65.158
+
+### Cercado
+
+Code: BO0601, Coordinates: -21.552, -64.57
+Municipalitys: 1
+
+#### Tarija
+
+Code: BO060101, Coordinates: -21.552, -64.57
+
+### Gran Chaco
+
+Code: BO0603, Coordinates: -21.661, -63.214
+Municipalitys: 3
+
+#### Caraparí (Carapari)
+
+Code: BO060302, Coordinates: -21.825, -63.845
+
+#### Villa Montes
+
+Code: BO060303, Coordinates: -21.61, -62.711
+
+#### Yacuiba
+
+Code: BO060301, Coordinates: -21.792, -63.28
+
+### Méndez (Mendez)
+
+Code: BO0605, Coordinates: -21.273, -64.924
+Municipalitys: 2
+
+#### El Puente
+
+Code: BO060502, Coordinates: -21.281, -65.068
+
+#### San Lorenzo
+
+Code: BO060501, Coordinates: -21.258, -64.771
+
+### O&#39;Connor (OConnor)
+
+Code: BO0606, Coordinates: -21.438, -64.106
+Municipalitys: 1
+
+#### Entre Ríos (Entre Rios)
+
+Code: BO060601, Coordinates: -21.438, -64.106
+

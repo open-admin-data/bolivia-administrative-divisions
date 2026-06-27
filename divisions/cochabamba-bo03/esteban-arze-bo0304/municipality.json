@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BO030402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anzaldo",
+      "en": "Anzaldo",
+      "slug": "anzaldo-bo030402"
+    },
+    "code": {
+      "id": "BO030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0304",
+      "level": 2,
+      "name": {
+        "local": "Esteban Arze",
+        "en": "Esteban Arze",
+        "slug": "esteban-arze-bo0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0304",
+        "level": 2,
+        "name": {
+          "local": "Esteban Arze",
+          "en": "Esteban Arze",
+          "slug": "esteban-arze-bo0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.842",
+      "lon": "-65.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030403",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arbieto",
+      "en": "Arbieto",
+      "slug": "arbieto-bo030403"
+    },
+    "code": {
+      "id": "BO030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0304",
+      "level": 2,
+      "name": {
+        "local": "Esteban Arze",
+        "en": "Esteban Arze",
+        "slug": "esteban-arze-bo0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0304",
+        "level": 2,
+        "name": {
+          "local": "Esteban Arze",
+          "en": "Esteban Arze",
+          "slug": "esteban-arze-bo0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.544",
+      "lon": "-66.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030404",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sacabamba",
+      "en": "Sacabamba",
+      "slug": "sacabamba-bo030404"
+    },
+    "code": {
+      "id": "BO030404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0304",
+      "level": 2,
+      "name": {
+        "local": "Esteban Arze",
+        "en": "Esteban Arze",
+        "slug": "esteban-arze-bo0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0304",
+        "level": 2,
+        "name": {
+          "local": "Esteban Arze",
+          "en": "Esteban Arze",
+          "slug": "esteban-arze-bo0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.779",
+      "lon": "-65.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tarata",
+      "en": "Tarata",
+      "slug": "tarata-bo030401"
+    },
+    "code": {
+      "id": "BO030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0304",
+      "level": 2,
+      "name": {
+        "local": "Esteban Arze",
+        "en": "Esteban Arze",
+        "slug": "esteban-arze-bo0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0304",
+        "level": 2,
+        "name": {
+          "local": "Esteban Arze",
+          "en": "Esteban Arze",
+          "slug": "esteban-arze-bo0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.709",
+      "lon": "-66.086"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

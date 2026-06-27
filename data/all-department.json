@@ -1,0 +1,308 @@
+[
+  {
+    "id": "BO08",
+    "level": 1,
+    "level_name": {
+      "local": "Departamento",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Beni",
+      "en": "Beni",
+      "slug": "beni-bo08"
+    },
+    "code": {
+      "id": "BO08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 8,
+      "municipality": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.436",
+      "lon": "-64.644"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bo/departments/beni-bo08/",
+      "api": "https://openadmindata.org/api/bo/"
+    }
+  },
+  {
+    "id": "BO01",
+    "level": 1,
+    "level_name": {
+      "local": "Departamento",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Chuquisaca",
+      "en": "Chuquisaca",
+      "slug": "chuquisaca-bo01"
+    },
+    "code": {
+      "id": "BO01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 10,
+      "municipality": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.932",
+      "lon": "-64.271"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bo/departments/chuquisaca-bo01/",
+      "api": "https://openadmindata.org/api/bo/"
+    }
+  },
+  {
+    "id": "BO03",
+    "level": 1,
+    "level_name": {
+      "local": "Departamento",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Cochabamba",
+      "en": "Cochabamba",
+      "slug": "cochabamba-bo03"
+    },
+    "code": {
+      "id": "BO03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 16,
+      "municipality": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.231",
+      "lon": "-65.619"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bo/departments/cochabamba-bo03/",
+      "api": "https://openadmindata.org/api/bo/"
+    }
+  },
+  {
+    "id": "BO02",
+    "level": 1,
+    "level_name": {
+      "local": "Departamento",
+      "en": "Department"
+    },
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-bo02"
+    },
+    "code": {
+      "id": "BO02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 20,
+      "municipality": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.948",
+      "lon": "-68.389"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bo/departments/la-paz-bo02/",
+      "api": "https://openadmindata.org/api/bo/"
+    }
+  },
+  {
+    "id": "BO04",
+    "level": 1,
+    "level_name": {
+      "local": "Departamento",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Oruro",
+      "en": "Oruro",
+      "slug": "oruro-bo04"
+    },
+    "code": {
+      "id": "BO04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 16,
+      "municipality": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.604",
+      "lon": "-67.834"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bo/departments/oruro-bo04/",
+      "api": "https://openadmindata.org/api/bo/"
+    }
+  },
+  {
+    "id": "BO09",
+    "level": 1,
+    "level_name": {
+      "local": "Departamento",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Pando",
+      "en": "Pando",
+      "slug": "pando-bo09"
+    },
+    "code": {
+      "id": "BO09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 5,
+      "municipality": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.084",
+      "lon": "-67.359"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bo/departments/pando-bo09/",
+      "api": "https://openadmindata.org/api/bo/"
+    }
+  },
+  {
+    "id": "BO05",
+    "level": 1,
+    "level_name": {
+      "local": "Departamento",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Potosí",
+      "en": "Potosi",
+      "slug": "potosi-bo05"
+    },
+    "code": {
+      "id": "BO05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 16,
+      "municipality": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.357",
+      "lon": "-66.965"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bo/departments/potosi-bo05/",
+      "api": "https://openadmindata.org/api/bo/"
+    }
+  },
+  {
+    "id": "BO07",
+    "level": 1,
+    "level_name": {
+      "local": "Departamento",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Santa Cruz",
+      "en": "Santa Cruz",
+      "slug": "santa-cruz-bo07"
+    },
+    "code": {
+      "id": "BO07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 15,
+      "municipality": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.974",
+      "lon": "-61.561"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bo/departments/santa-cruz-bo07/",
+      "api": "https://openadmindata.org/api/bo/"
+    }
+  },
+  {
+    "id": "BO06",
+    "level": 1,
+    "level_name": {
+      "local": "Departamento",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tarija",
+      "en": "Tarija",
+      "slug": "tarija-bo06"
+    },
+    "code": {
+      "id": "BO06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 6,
+      "municipality": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.884",
+      "lon": "-63.972"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bo/departments/tarija-bo06/",
+      "api": "https://openadmindata.org/api/bo/"
+    }
+  }
+]

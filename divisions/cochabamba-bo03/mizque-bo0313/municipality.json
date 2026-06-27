@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO031303",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alalay",
+      "en": "Alalay",
+      "slug": "alalay-bo031303"
+    },
+    "code": {
+      "id": "BO031303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0313",
+      "level": 2,
+      "name": {
+        "local": "Mizque",
+        "en": "Mizque",
+        "slug": "mizque-bo0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0313",
+        "level": 2,
+        "name": {
+          "local": "Mizque",
+          "en": "Mizque",
+          "slug": "mizque-bo0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.777",
+      "lon": "-65.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mizque",
+      "en": "Mizque",
+      "slug": "mizque-bo031301"
+    },
+    "code": {
+      "id": "BO031301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0313",
+      "level": 2,
+      "name": {
+        "local": "Mizque",
+        "en": "Mizque",
+        "slug": "mizque-bo0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0313",
+        "level": 2,
+        "name": {
+          "local": "Mizque",
+          "en": "Mizque",
+          "slug": "mizque-bo0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.084",
+      "lon": "-65.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vila Vila",
+      "en": "Vila Vila",
+      "slug": "vila-vila-bo031302"
+    },
+    "code": {
+      "id": "BO031302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0313",
+      "level": 2,
+      "name": {
+        "local": "Mizque",
+        "en": "Mizque",
+        "slug": "mizque-bo0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0313",
+        "level": 2,
+        "name": {
+          "local": "Mizque",
+          "en": "Mizque",
+          "slug": "mizque-bo0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.978",
+      "lon": "-65.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

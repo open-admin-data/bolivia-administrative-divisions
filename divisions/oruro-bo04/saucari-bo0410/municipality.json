@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO041001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bo041001"
+    },
+    "code": {
+      "id": "BO041001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0410",
+      "level": 2,
+      "name": {
+        "local": "Saucarí",
+        "en": "Saucari",
+        "slug": "saucari-bo0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0410",
+        "level": 2,
+        "name": {
+          "local": "Saucarí",
+          "en": "Saucari",
+          "slug": "saucari-bo0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.261",
+      "lon": "-67.404"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

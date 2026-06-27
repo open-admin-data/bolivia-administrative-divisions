@@ -1,0 +1,47 @@
+{
+  "id": "BO0402",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Abaroa",
+    "en": "Abaroa",
+    "slug": "abaroa-bo0402"
+  },
+  "code": {
+    "id": "BO0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO04",
+    "level": 1,
+    "name": {
+      "local": "Oruro",
+      "en": "Oruro",
+      "slug": "oruro-bo04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.865",
+    "lon": "-66.765"
+  },
+  "metadata": {},
+  "source": {}
+}

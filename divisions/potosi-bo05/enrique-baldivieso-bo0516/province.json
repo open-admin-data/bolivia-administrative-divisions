@@ -1,0 +1,47 @@
+{
+  "id": "BO0516",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Enrique Baldivieso",
+    "en": "Enrique Baldivieso",
+    "slug": "enrique-baldivieso-bo0516"
+  },
+  "code": {
+    "id": "BO0516",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO05",
+    "level": 1,
+    "name": {
+      "local": "Potosí",
+      "en": "Potosi",
+      "slug": "potosi-bo05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.468",
+    "lon": "-67.496"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO040302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Choquecota",
+      "en": "Choquecota",
+      "slug": "choquecota-bo040302"
+    },
+    "code": {
+      "id": "BO040302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0403",
+      "level": 2,
+      "name": {
+        "local": "Carangas",
+        "en": "Carangas",
+        "slug": "carangas-bo0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0403",
+        "level": 2,
+        "name": {
+          "local": "Carangas",
+          "en": "Carangas",
+          "slug": "carangas-bo0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.117",
+      "lon": "-67.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Corque",
+      "en": "Corque",
+      "slug": "corque-bo040301"
+    },
+    "code": {
+      "id": "BO040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0403",
+      "level": 2,
+      "name": {
+        "local": "Carangas",
+        "en": "Carangas",
+        "slug": "carangas-bo0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0403",
+        "level": 2,
+        "name": {
+          "local": "Carangas",
+          "en": "Carangas",
+          "slug": "carangas-bo0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.439",
+      "lon": "-67.817"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

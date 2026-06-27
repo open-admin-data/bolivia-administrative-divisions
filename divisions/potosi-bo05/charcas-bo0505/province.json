@@ -1,0 +1,47 @@
+{
+  "id": "BO0505",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Chárcas",
+    "en": "Charcas",
+    "slug": "charcas-bo0505"
+  },
+  "code": {
+    "id": "BO0505",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO05",
+    "level": 1,
+    "name": {
+      "local": "Potosí",
+      "en": "Potosi",
+      "slug": "potosi-bo05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.294",
+    "lon": "-65.877"
+  },
+  "metadata": {},
+  "source": {}
+}

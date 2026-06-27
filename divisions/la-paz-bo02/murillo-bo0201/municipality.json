@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO020104",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Achocalla",
+      "en": "Achocalla",
+      "slug": "achocalla-bo020104"
+    },
+    "code": {
+      "id": "BO020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0201",
+      "level": 2,
+      "name": {
+        "local": "Murillo",
+        "en": "Murillo",
+        "slug": "murillo-bo0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0201",
+        "level": 2,
+        "name": {
+          "local": "Murillo",
+          "en": "Murillo",
+          "slug": "murillo-bo0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.653",
+      "lon": "-68.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020105",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Alto",
+      "en": "El Alto",
+      "slug": "el-alto-bo020105"
+    },
+    "code": {
+      "id": "BO020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0201",
+      "level": 2,
+      "name": {
+        "local": "Murillo",
+        "en": "Murillo",
+        "slug": "murillo-bo0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0201",
+        "level": 2,
+        "name": {
+          "local": "Murillo",
+          "en": "Murillo",
+          "slug": "murillo-bo0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.449",
+      "lon": "-68.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020103",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mecapaca",
+      "en": "Mecapaca",
+      "slug": "mecapaca-bo020103"
+    },
+    "code": {
+      "id": "BO020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0201",
+      "level": 2,
+      "name": {
+        "local": "Murillo",
+        "en": "Murillo",
+        "slug": "murillo-bo0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0201",
+        "level": 2,
+        "name": {
+          "local": "Murillo",
+          "en": "Murillo",
+          "slug": "murillo-bo0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.71",
+      "lon": "-67.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuestra Señora de La Paz",
+      "en": "Nuestra Senora de La Paz",
+      "slug": "nuestra-senora-de-la-paz-bo020101"
+    },
+    "code": {
+      "id": "BO020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0201",
+      "level": 2,
+      "name": {
+        "local": "Murillo",
+        "en": "Murillo",
+        "slug": "murillo-bo0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0201",
+        "level": 2,
+        "name": {
+          "local": "Murillo",
+          "en": "Murillo",
+          "slug": "murillo-bo0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.179",
+      "lon": "-68.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020102",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palca",
+      "en": "Palca",
+      "slug": "palca-bo020102"
+    },
+    "code": {
+      "id": "BO020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0201",
+      "level": 2,
+      "name": {
+        "local": "Murillo",
+        "en": "Murillo",
+        "slug": "murillo-bo0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0201",
+        "level": 2,
+        "name": {
+          "local": "Murillo",
+          "en": "Murillo",
+          "slug": "murillo-bo0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.658",
+      "lon": "-67.854"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

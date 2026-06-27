@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO021501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixiamas",
+      "en": "Ixiamas",
+      "slug": "ixiamas-bo021501"
+    },
+    "code": {
+      "id": "BO021501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0215",
+      "level": 2,
+      "name": {
+        "local": "Abel Iturralde",
+        "en": "Abel Iturralde",
+        "slug": "abel-iturralde-bo0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0215",
+        "level": 2,
+        "name": {
+          "local": "Abel Iturralde",
+          "en": "Abel Iturralde",
+          "slug": "abel-iturralde-bo0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.036",
+      "lon": "-67.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021502",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Buenaventura",
+      "en": "San Buenaventura",
+      "slug": "san-buenaventura-bo021502"
+    },
+    "code": {
+      "id": "BO021502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0215",
+      "level": 2,
+      "name": {
+        "local": "Abel Iturralde",
+        "en": "Abel Iturralde",
+        "slug": "abel-iturralde-bo0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0215",
+        "level": 2,
+        "name": {
+          "local": "Abel Iturralde",
+          "en": "Abel Iturralde",
+          "slug": "abel-iturralde-bo0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.272",
+      "lon": "-67.748"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BO070903",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mairana",
+      "en": "Mairana",
+      "slug": "mairana-bo070903"
+    },
+    "code": {
+      "id": "BO070903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0709",
+      "level": 2,
+      "name": {
+        "local": "Florida",
+        "en": "Florida",
+        "slug": "florida-bo0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0709",
+        "level": 2,
+        "name": {
+          "local": "Florida",
+          "en": "Florida",
+          "slug": "florida-bo0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.997",
+      "lon": "-63.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070902",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pampa Grande",
+      "en": "Pampa Grande",
+      "slug": "pampa-grande-bo070902"
+    },
+    "code": {
+      "id": "BO070902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0709",
+      "level": 2,
+      "name": {
+        "local": "Florida",
+        "en": "Florida",
+        "slug": "florida-bo0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0709",
+        "level": 2,
+        "name": {
+          "local": "Florida",
+          "en": "Florida",
+          "slug": "florida-bo0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.043",
+      "lon": "-64.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070904",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quirusillas",
+      "en": "Quirusillas",
+      "slug": "quirusillas-bo070904"
+    },
+    "code": {
+      "id": "BO070904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0709",
+      "level": 2,
+      "name": {
+        "local": "Florida",
+        "en": "Florida",
+        "slug": "florida-bo0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0709",
+        "level": 2,
+        "name": {
+          "local": "Florida",
+          "en": "Florida",
+          "slug": "florida-bo0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.349",
+      "lon": "-63.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070901",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Samaipata",
+      "en": "Samaipata",
+      "slug": "samaipata-bo070901"
+    },
+    "code": {
+      "id": "BO070901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0709",
+      "level": 2,
+      "name": {
+        "local": "Florida",
+        "en": "Florida",
+        "slug": "florida-bo0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0709",
+        "level": 2,
+        "name": {
+          "local": "Florida",
+          "en": "Florida",
+          "slug": "florida-bo0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.142",
+      "lon": "-63.73"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

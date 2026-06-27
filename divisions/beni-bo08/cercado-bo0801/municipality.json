@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO080102",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Javier",
+      "en": "San Javier",
+      "slug": "san-javier-bo080102"
+    },
+    "code": {
+      "id": "BO080102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0801",
+      "level": 2,
+      "name": {
+        "local": "Cercado",
+        "en": "Cercado",
+        "slug": "cercado-bo0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0801",
+        "level": 2,
+        "name": {
+          "local": "Cercado",
+          "en": "Cercado",
+          "slug": "cercado-bo0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.38",
+      "lon": "-64.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trinidad",
+      "en": "Trinidad",
+      "slug": "trinidad-bo080101"
+    },
+    "code": {
+      "id": "BO080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0801",
+      "level": 2,
+      "name": {
+        "local": "Cercado",
+        "en": "Cercado",
+        "slug": "cercado-bo0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0801",
+        "level": 2,
+        "name": {
+          "local": "Cercado",
+          "en": "Cercado",
+          "slug": "cercado-bo0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.885",
+      "lon": "-64.708"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

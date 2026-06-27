@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO090501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nueva Esperanza",
+      "en": "Nueva Esperanza",
+      "slug": "nueva-esperanza-bo090501"
+    },
+    "code": {
+      "id": "BO090501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0905",
+      "level": 2,
+      "name": {
+        "local": "Federico Román",
+        "en": "Federico Roman",
+        "slug": "federico-roman-bo0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0905",
+        "level": 2,
+        "name": {
+          "local": "Federico Román",
+          "en": "Federico Roman",
+          "slug": "federico-roman-bo0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.083",
+      "lon": "-65.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO090503",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santos Mercado",
+      "en": "Santos Mercado",
+      "slug": "santos-mercado-bo090503"
+    },
+    "code": {
+      "id": "BO090503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0905",
+      "level": 2,
+      "name": {
+        "local": "Federico Román",
+        "en": "Federico Roman",
+        "slug": "federico-roman-bo0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0905",
+        "level": 2,
+        "name": {
+          "local": "Federico Román",
+          "en": "Federico Roman",
+          "slug": "federico-roman-bo0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.078",
+      "lon": "-66.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO090502",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Nueva",
+      "en": "Villa Nueva",
+      "slug": "villa-nueva-bo090502"
+    },
+    "code": {
+      "id": "BO090502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0905",
+      "level": 2,
+      "name": {
+        "local": "Federico Román",
+        "en": "Federico Roman",
+        "slug": "federico-roman-bo0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0905",
+        "level": 2,
+        "name": {
+          "local": "Federico Román",
+          "en": "Federico Roman",
+          "slug": "federico-roman-bo0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.675",
+      "lon": "-66.09"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

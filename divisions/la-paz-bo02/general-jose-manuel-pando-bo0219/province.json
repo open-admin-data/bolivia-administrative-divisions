@@ -1,0 +1,47 @@
+{
+  "id": "BO0219",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "General José Manuel Pando",
+    "en": "General Jose Manuel Pando",
+    "slug": "general-jose-manuel-pando-bo0219"
+  },
+  "code": {
+    "id": "BO0219",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO02",
+    "level": 1,
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-bo02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.226",
+    "lon": "-69.374"
+  },
+  "metadata": {},
+  "source": {}
+}

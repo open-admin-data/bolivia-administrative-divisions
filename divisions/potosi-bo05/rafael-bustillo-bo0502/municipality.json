@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BO050202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chayanta",
+      "en": "Chayanta",
+      "slug": "chayanta-bo050202"
+    },
+    "code": {
+      "id": "BO050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0502",
+      "level": 2,
+      "name": {
+        "local": "Rafael Bustillo",
+        "en": "Rafael Bustillo",
+        "slug": "rafael-bustillo-bo0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0502",
+        "level": 2,
+        "name": {
+          "local": "Rafael Bustillo",
+          "en": "Rafael Bustillo",
+          "slug": "rafael-bustillo-bo0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.386",
+      "lon": "-66.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050204",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chuquihuta Ayllu Jucumani",
+      "en": "Chuquihuta Ayllu Jucumani",
+      "slug": "chuquihuta-ayllu-jucumani-bo050204"
+    },
+    "code": {
+      "id": "BO050204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0502",
+      "level": 2,
+      "name": {
+        "local": "Rafael Bustillo",
+        "en": "Rafael Bustillo",
+        "slug": "rafael-bustillo-bo0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0502",
+        "level": 2,
+        "name": {
+          "local": "Rafael Bustillo",
+          "en": "Rafael Bustillo",
+          "slug": "rafael-bustillo-bo0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.629",
+      "lon": "-66.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050203",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Llallagua",
+      "en": "Llallagua",
+      "slug": "llallagua-bo050203"
+    },
+    "code": {
+      "id": "BO050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0502",
+      "level": 2,
+      "name": {
+        "local": "Rafael Bustillo",
+        "en": "Rafael Bustillo",
+        "slug": "rafael-bustillo-bo0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0502",
+        "level": 2,
+        "name": {
+          "local": "Rafael Bustillo",
+          "en": "Rafael Bustillo",
+          "slug": "rafael-bustillo-bo0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.368",
+      "lon": "-66.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uncía",
+      "en": "Uncia",
+      "slug": "uncia-bo050201"
+    },
+    "code": {
+      "id": "BO050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0502",
+      "level": 2,
+      "name": {
+        "local": "Rafael Bustillo",
+        "en": "Rafael Bustillo",
+        "slug": "rafael-bustillo-bo0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0502",
+        "level": 2,
+        "name": {
+          "local": "Rafael Bustillo",
+          "en": "Rafael Bustillo",
+          "slug": "rafael-bustillo-bo0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.613",
+      "lon": "-66.524"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

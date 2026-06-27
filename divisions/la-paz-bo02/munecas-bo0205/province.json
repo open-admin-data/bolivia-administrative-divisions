@@ -1,0 +1,47 @@
+{
+  "id": "BO0205",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Muñecas",
+    "en": "Munecas",
+    "slug": "munecas-bo0205"
+  },
+  "code": {
+    "id": "BO0205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO02",
+    "level": 1,
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-bo02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.464",
+    "lon": "-68.791"
+  },
+  "metadata": {},
+  "source": {}
+}

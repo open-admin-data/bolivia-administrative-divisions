@@ -1,0 +1,47 @@
+{
+  "id": "BO0106",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Yamparáez",
+    "en": "Yamparaez",
+    "slug": "yamparaez-bo0106"
+  },
+  "code": {
+    "id": "BO0106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO01",
+    "level": 1,
+    "name": {
+      "local": "Chuquisaca",
+      "en": "Chuquisaca",
+      "slug": "chuquisaca-bo01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.129",
+    "lon": "-64.924"
+  },
+  "metadata": {},
+  "source": {}
+}

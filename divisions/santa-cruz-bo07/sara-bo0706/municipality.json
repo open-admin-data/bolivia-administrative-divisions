@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO070603",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colpa Bélgica",
+      "en": "Colpa Belgica",
+      "slug": "colpa-belgica-bo070603"
+    },
+    "code": {
+      "id": "BO070603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0706",
+      "level": 2,
+      "name": {
+        "local": "Sara",
+        "en": "Sara",
+        "slug": "sara-bo0706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0706",
+        "level": 2,
+        "name": {
+          "local": "Sara",
+          "en": "Sara",
+          "slug": "sara-bo0706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.539",
+      "lon": "-63.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Portachuelo",
+      "en": "Portachuelo",
+      "slug": "portachuelo-bo070601"
+    },
+    "code": {
+      "id": "BO070601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0706",
+      "level": 2,
+      "name": {
+        "local": "Sara",
+        "en": "Sara",
+        "slug": "sara-bo0706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0706",
+        "level": 2,
+        "name": {
+          "local": "Sara",
+          "en": "Sara",
+          "slug": "sara-bo0706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.391",
+      "lon": "-63.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070602",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rosa",
+      "en": "Santa Rosa",
+      "slug": "santa-rosa-bo070602"
+    },
+    "code": {
+      "id": "BO070602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0706",
+      "level": 2,
+      "name": {
+        "local": "Sara",
+        "en": "Sara",
+        "slug": "sara-bo0706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0706",
+        "level": 2,
+        "name": {
+          "local": "Sara",
+          "en": "Sara",
+          "slug": "sara-bo0706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.574",
+      "lon": "-63.863"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

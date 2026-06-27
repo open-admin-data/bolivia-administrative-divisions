@@ -1,0 +1,47 @@
+{
+  "id": "BO0604",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Avilés",
+    "en": "Aviles",
+    "slug": "aviles-bo0604"
+  },
+  "code": {
+    "id": "BO0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO06",
+    "level": 1,
+    "name": {
+      "local": "Tarija",
+      "en": "Tarija",
+      "slug": "tarija-bo06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO06",
+      "level": 1,
+      "name": {
+        "local": "Tarija",
+        "en": "Tarija",
+        "slug": "tarija-bo06"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.785",
+    "lon": "-64.931"
+  },
+  "metadata": {},
+  "source": {}
+}

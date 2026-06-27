@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO051601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Agustín",
+      "en": "San Agustin",
+      "slug": "san-agustin-bo051601"
+    },
+    "code": {
+      "id": "BO051601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0516",
+      "level": 2,
+      "name": {
+        "local": "Enrique Baldivieso",
+        "en": "Enrique Baldivieso",
+        "slug": "enrique-baldivieso-bo0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0516",
+        "level": 2,
+        "name": {
+          "local": "Enrique Baldivieso",
+          "en": "Enrique Baldivieso",
+          "slug": "enrique-baldivieso-bo0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.468",
+      "lon": "-67.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

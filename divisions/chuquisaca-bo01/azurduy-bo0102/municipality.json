@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO010201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Azurduy",
+      "en": "Azurduy",
+      "slug": "azurduy-bo010201"
+    },
+    "code": {
+      "id": "BO010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0102",
+      "level": 2,
+      "name": {
+        "local": "Azurduy",
+        "en": "Azurduy",
+        "slug": "azurduy-bo0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0102",
+        "level": 2,
+        "name": {
+          "local": "Azurduy",
+          "en": "Azurduy",
+          "slug": "azurduy-bo0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.154",
+      "lon": "-64.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tarvita",
+      "en": "Tarvita",
+      "slug": "tarvita-bo010202"
+    },
+    "code": {
+      "id": "BO010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0102",
+      "level": 2,
+      "name": {
+        "local": "Azurduy",
+        "en": "Azurduy",
+        "slug": "azurduy-bo0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0102",
+        "level": 2,
+        "name": {
+          "local": "Azurduy",
+          "en": "Azurduy",
+          "slug": "azurduy-bo0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.786",
+      "lon": "-64.559"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO070502",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pailón",
+      "en": "Pailon",
+      "slug": "pailon-bo070502"
+    },
+    "code": {
+      "id": "BO070502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0705",
+      "level": 2,
+      "name": {
+        "local": "Chiquitos",
+        "en": "Chiquitos",
+        "slug": "chiquitos-bo0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0705",
+        "level": 2,
+        "name": {
+          "local": "Chiquitos",
+          "en": "Chiquitos",
+          "slug": "chiquitos-bo0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.752",
+      "lon": "-61.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070503",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Roboré",
+      "en": "Robore",
+      "slug": "robore-bo070503"
+    },
+    "code": {
+      "id": "BO070503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0705",
+      "level": 2,
+      "name": {
+        "local": "Chiquitos",
+        "en": "Chiquitos",
+        "slug": "chiquitos-bo0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0705",
+        "level": 2,
+        "name": {
+          "local": "Chiquitos",
+          "en": "Chiquitos",
+          "slug": "chiquitos-bo0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.154",
+      "lon": "-59.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José",
+      "en": "San Jose",
+      "slug": "san-jose-bo070501"
+    },
+    "code": {
+      "id": "BO070501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0705",
+      "level": 2,
+      "name": {
+        "local": "Chiquitos",
+        "en": "Chiquitos",
+        "slug": "chiquitos-bo0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0705",
+        "level": 2,
+        "name": {
+          "local": "Chiquitos",
+          "en": "Chiquitos",
+          "slug": "chiquitos-bo0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.713",
+      "lon": "-60.443"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

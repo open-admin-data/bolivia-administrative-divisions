@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BO080304",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Menor de Rurrenabaque",
+      "en": "Puerto Menor de Rurrenabaque",
+      "slug": "puerto-menor-de-rurrenabaque-bo080304"
+    },
+    "code": {
+      "id": "BO080304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0803",
+      "level": 2,
+      "name": {
+        "local": "General José Ballivián",
+        "en": "General Jose Ballivian",
+        "slug": "general-jose-ballivian-bo0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0803",
+        "level": 2,
+        "name": {
+          "local": "General José Ballivián",
+          "en": "General Jose Ballivian",
+          "slug": "general-jose-ballivian-bo0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.695",
+      "lon": "-67.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Reyes",
+      "en": "Reyes",
+      "slug": "reyes-bo080301"
+    },
+    "code": {
+      "id": "BO080301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0803",
+      "level": 2,
+      "name": {
+        "local": "General José Ballivián",
+        "en": "General Jose Ballivian",
+        "slug": "general-jose-ballivian-bo0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0803",
+        "level": 2,
+        "name": {
+          "local": "General José Ballivián",
+          "en": "General Jose Ballivian",
+          "slug": "general-jose-ballivian-bo0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.32",
+      "lon": "-67.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Borja",
+      "en": "San Borja",
+      "slug": "san-borja-bo080302"
+    },
+    "code": {
+      "id": "BO080302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0803",
+      "level": 2,
+      "name": {
+        "local": "General José Ballivián",
+        "en": "General Jose Ballivian",
+        "slug": "general-jose-ballivian-bo0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0803",
+        "level": 2,
+        "name": {
+          "local": "General José Ballivián",
+          "en": "General Jose Ballivian",
+          "slug": "general-jose-ballivian-bo0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.059",
+      "lon": "-66.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080303",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rosa",
+      "en": "Santa Rosa",
+      "slug": "santa-rosa-bo080303"
+    },
+    "code": {
+      "id": "BO080303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0803",
+      "level": 2,
+      "name": {
+        "local": "General José Ballivián",
+        "en": "General Jose Ballivian",
+        "slug": "general-jose-ballivian-bo0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0803",
+        "level": 2,
+        "name": {
+          "local": "General José Ballivián",
+          "en": "General Jose Ballivian",
+          "slug": "general-jose-ballivian-bo0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.183",
+      "lon": "-66.628"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

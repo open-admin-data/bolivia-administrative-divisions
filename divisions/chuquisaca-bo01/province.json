@@ -1,0 +1,472 @@
+[
+  {
+    "id": "BO0102",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Azurduy",
+      "en": "Azurduy",
+      "slug": "azurduy-bo0102"
+    },
+    "code": {
+      "id": "BO0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.017",
+      "lon": "-64.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0108",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Belisario Boeto",
+      "en": "Belisario Boeto",
+      "slug": "belisario-boeto-bo0108"
+    },
+    "code": {
+      "id": "BO0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.919",
+      "lon": "-64.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0105",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Hernando Siles",
+      "en": "Hernando Siles",
+      "slug": "hernando-siles-bo0105"
+    },
+    "code": {
+      "id": "BO0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.234",
+      "lon": "-64.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0110",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Luis Calvo",
+      "en": "Luis Calvo",
+      "slug": "luis-calvo-bo0110"
+    },
+    "code": {
+      "id": "BO0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.017",
+      "lon": "-63.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0107",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nor Cinti",
+      "en": "Nor Cinti",
+      "slug": "nor-cinti-bo0107"
+    },
+    "code": {
+      "id": "BO0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.34",
+      "lon": "-64.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0101",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Oropeza",
+      "en": "Oropeza",
+      "slug": "oropeza-bo0101"
+    },
+    "code": {
+      "id": "BO0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.854",
+      "lon": "-65.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0109",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sur Cinti",
+      "en": "Sur Cinti",
+      "slug": "sur-cinti-bo0109"
+    },
+    "code": {
+      "id": "BO0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.015",
+      "lon": "-64.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0104",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tomina",
+      "en": "Tomina",
+      "slug": "tomina-bo0104"
+    },
+    "code": {
+      "id": "BO0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.377",
+      "lon": "-64.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0106",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Yamparáez",
+      "en": "Yamparaez",
+      "slug": "yamparaez-bo0106"
+    },
+    "code": {
+      "id": "BO0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.129",
+      "lon": "-64.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0103",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Zudáñez",
+      "en": "Zudanez",
+      "slug": "zudanez-bo0103"
+    },
+    "code": {
+      "id": "BO0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.074",
+      "lon": "-64.689"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

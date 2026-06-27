@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO070202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Okinawa Uno",
+      "en": "Okinawa Uno",
+      "slug": "okinawa-uno-bo070202"
+    },
+    "code": {
+      "id": "BO070202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0702",
+      "level": 2,
+      "name": {
+        "local": "Warnes",
+        "en": "Warnes",
+        "slug": "warnes-bo0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0702",
+        "level": 2,
+        "name": {
+          "local": "Warnes",
+          "en": "Warnes",
+          "slug": "warnes-bo0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.325",
+      "lon": "-62.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Warnes",
+      "en": "Warnes",
+      "slug": "warnes-bo070201"
+    },
+    "code": {
+      "id": "BO070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0702",
+      "level": 2,
+      "name": {
+        "local": "Warnes",
+        "en": "Warnes",
+        "slug": "warnes-bo0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0702",
+        "level": 2,
+        "name": {
+          "local": "Warnes",
+          "en": "Warnes",
+          "slug": "warnes-bo0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.355",
+      "lon": "-63.052"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

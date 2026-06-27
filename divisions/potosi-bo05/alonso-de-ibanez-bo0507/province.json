@@ -1,0 +1,47 @@
+{
+  "id": "BO0507",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Alonso de Ibáñez",
+    "en": "Alonso de Ibanez",
+    "slug": "alonso-de-ibanez-bo0507"
+  },
+  "code": {
+    "id": "BO0507",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO05",
+    "level": 1,
+    "name": {
+      "local": "Potosí",
+      "en": "Potosi",
+      "slug": "potosi-bo05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.165",
+    "lon": "-66.484"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO041503",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carangas",
+      "en": "Carangas",
+      "slug": "carangas-bo041503"
+    },
+    "code": {
+      "id": "BO041503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0415",
+      "level": 2,
+      "name": {
+        "local": "Mejillones",
+        "en": "Mejillones",
+        "slug": "mejillones-bo0415"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0415",
+        "level": 2,
+        "name": {
+          "local": "Mejillones",
+          "en": "Mejillones",
+          "slug": "mejillones-bo0415"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.907",
+      "lon": "-68.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO041501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Rivera",
+      "en": "La Rivera",
+      "slug": "la-rivera-bo041501"
+    },
+    "code": {
+      "id": "BO041501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0415",
+      "level": 2,
+      "name": {
+        "local": "Mejillones",
+        "en": "Mejillones",
+        "slug": "mejillones-bo0415"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0415",
+        "level": 2,
+        "name": {
+          "local": "Mejillones",
+          "en": "Mejillones",
+          "slug": "mejillones-bo0415"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.061",
+      "lon": "-68.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO041502",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Todos Santos",
+      "en": "Todos Santos",
+      "slug": "todos-santos-bo041502"
+    },
+    "code": {
+      "id": "BO041502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0415",
+      "level": 2,
+      "name": {
+        "local": "Mejillones",
+        "en": "Mejillones",
+        "slug": "mejillones-bo0415"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0415",
+        "level": 2,
+        "name": {
+          "local": "Mejillones",
+          "en": "Mejillones",
+          "slug": "mejillones-bo0415"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.036",
+      "lon": "-68.761"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

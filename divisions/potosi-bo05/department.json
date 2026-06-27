@@ -1,0 +1,34 @@
+{
+  "id": "BO05",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Potosí",
+    "en": "Potosi",
+    "slug": "potosi-bo05"
+  },
+  "code": {
+    "id": "BO05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 16,
+    "municipality": 40
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.357",
+    "lon": "-66.965"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bo/departments/potosi-bo05/",
+    "api": "https://openadmindata.org/api/bo/"
+  }
+}

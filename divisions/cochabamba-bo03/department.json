@@ -1,0 +1,34 @@
+{
+  "id": "BO03",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Cochabamba",
+    "en": "Cochabamba",
+    "slug": "cochabamba-bo03"
+  },
+  "code": {
+    "id": "BO03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 16,
+    "municipality": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.231",
+    "lon": "-65.619"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bo/departments/cochabamba-bo03/",
+    "api": "https://openadmindata.org/api/bo/"
+  }
+}

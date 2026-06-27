@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO080501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ignacio",
+      "en": "San Ignacio",
+      "slug": "san-ignacio-bo080501"
+    },
+    "code": {
+      "id": "BO080501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0805",
+      "level": 2,
+      "name": {
+        "local": "Moxos",
+        "en": "Moxos",
+        "slug": "moxos-bo0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0805",
+        "level": 2,
+        "name": {
+          "local": "Moxos",
+          "en": "Moxos",
+          "slug": "moxos-bo0805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.323",
+      "lon": "-65.664"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

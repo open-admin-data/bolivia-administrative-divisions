@@ -1,0 +1,47 @@
+{
+  "id": "BO0710",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Obispo Santistéban",
+    "en": "Obispo Santisteban",
+    "slug": "obispo-santisteban-bo0710"
+  },
+  "code": {
+    "id": "BO0710",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO07",
+    "level": 1,
+    "name": {
+      "local": "Santa Cruz",
+      "en": "Santa Cruz",
+      "slug": "santa-cruz-bo07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.734",
+    "lon": "-63.387"
+  },
+  "metadata": {},
+  "source": {}
+}

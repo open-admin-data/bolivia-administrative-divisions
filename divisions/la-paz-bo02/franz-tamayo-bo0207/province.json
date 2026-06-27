@@ -1,0 +1,47 @@
+{
+  "id": "BO0207",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Franz Tamayo",
+    "en": "Franz Tamayo",
+    "slug": "franz-tamayo-bo0207"
+  },
+  "code": {
+    "id": "BO0207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO02",
+    "level": 1,
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-bo02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.641",
+    "lon": "-68.377"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO060601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Entre Ríos",
+      "en": "Entre Rios",
+      "slug": "entre-rios-bo060601"
+    },
+    "code": {
+      "id": "BO060601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0606",
+      "level": 2,
+      "name": {
+        "local": "O'Connor",
+        "en": "OConnor",
+        "slug": "oconnor-bo0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0606",
+        "level": 2,
+        "name": {
+          "local": "O'Connor",
+          "en": "OConnor",
+          "slug": "oconnor-bo0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.438",
+      "lon": "-64.106"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

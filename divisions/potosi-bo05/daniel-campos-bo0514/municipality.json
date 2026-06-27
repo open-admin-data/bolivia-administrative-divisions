@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO051401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Llica",
+      "en": "Llica",
+      "slug": "llica-bo051401"
+    },
+    "code": {
+      "id": "BO051401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0514",
+      "level": 2,
+      "name": {
+        "local": "Daniel Campos",
+        "en": "Daniel Campos",
+        "slug": "daniel-campos-bo0514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0514",
+        "level": 2,
+        "name": {
+          "local": "Daniel Campos",
+          "en": "Daniel Campos",
+          "slug": "daniel-campos-bo0514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.039",
+      "lon": "-68.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO051402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tahua",
+      "en": "Tahua",
+      "slug": "tahua-bo051402"
+    },
+    "code": {
+      "id": "BO051402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0514",
+      "level": 2,
+      "name": {
+        "local": "Daniel Campos",
+        "en": "Daniel Campos",
+        "slug": "daniel-campos-bo0514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0514",
+        "level": 2,
+        "name": {
+          "local": "Daniel Campos",
+          "en": "Daniel Campos",
+          "slug": "daniel-campos-bo0514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.47",
+      "lon": "-67.952"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

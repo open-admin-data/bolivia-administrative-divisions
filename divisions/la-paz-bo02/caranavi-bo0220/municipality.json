@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO022002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Beni",
+      "en": "Alto Beni",
+      "slug": "alto-beni-bo022002"
+    },
+    "code": {
+      "id": "BO022002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0220",
+      "level": 2,
+      "name": {
+        "local": "Caranavi",
+        "en": "Caranavi",
+        "slug": "caranavi-bo0220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0220",
+        "level": 2,
+        "name": {
+          "local": "Caranavi",
+          "en": "Caranavi",
+          "slug": "caranavi-bo0220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.578",
+      "lon": "-67.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO022001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caranavi",
+      "en": "Caranavi",
+      "slug": "caranavi-bo022001"
+    },
+    "code": {
+      "id": "BO022001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0220",
+      "level": 2,
+      "name": {
+        "local": "Caranavi",
+        "en": "Caranavi",
+        "slug": "caranavi-bo0220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0220",
+        "level": 2,
+        "name": {
+          "local": "Caranavi",
+          "en": "Caranavi",
+          "slug": "caranavi-bo0220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.81",
+      "lon": "-67.466"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BO050401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colquechaca",
+      "en": "Colquechaca",
+      "slug": "colquechaca-bo050401"
+    },
+    "code": {
+      "id": "BO050401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0504",
+      "level": 2,
+      "name": {
+        "local": "Chayanta",
+        "en": "Chayanta",
+        "slug": "chayanta-bo0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0504",
+        "level": 2,
+        "name": {
+          "local": "Chayanta",
+          "en": "Chayanta",
+          "slug": "chayanta-bo0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.78",
+      "lon": "-66.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050404",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocurí",
+      "en": "Ocuri",
+      "slug": "ocuri-bo050404"
+    },
+    "code": {
+      "id": "BO050404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0504",
+      "level": 2,
+      "name": {
+        "local": "Chayanta",
+        "en": "Chayanta",
+        "slug": "chayanta-bo0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0504",
+        "level": 2,
+        "name": {
+          "local": "Chayanta",
+          "en": "Chayanta",
+          "slug": "chayanta-bo0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.894",
+      "lon": "-65.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050403",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pocoata",
+      "en": "Pocoata",
+      "slug": "pocoata-bo050403"
+    },
+    "code": {
+      "id": "BO050403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0504",
+      "level": 2,
+      "name": {
+        "local": "Chayanta",
+        "en": "Chayanta",
+        "slug": "chayanta-bo0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0504",
+        "level": 2,
+        "name": {
+          "local": "Chayanta",
+          "en": "Chayanta",
+          "slug": "chayanta-bo0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.64",
+      "lon": "-66.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ravelo",
+      "en": "Ravelo",
+      "slug": "ravelo-bo050402"
+    },
+    "code": {
+      "id": "BO050402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0504",
+      "level": 2,
+      "name": {
+        "local": "Chayanta",
+        "en": "Chayanta",
+        "slug": "chayanta-bo0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0504",
+        "level": 2,
+        "name": {
+          "local": "Chayanta",
+          "en": "Chayanta",
+          "slug": "chayanta-bo0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.756",
+      "lon": "-65.572"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

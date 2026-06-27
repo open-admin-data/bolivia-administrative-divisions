@@ -1,0 +1,47 @@
+{
+  "id": "BO0301",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cercado",
+    "en": "Cercado",
+    "slug": "cercado-bo0301"
+  },
+  "code": {
+    "id": "BO0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO03",
+    "level": 1,
+    "name": {
+      "local": "Cochabamba",
+      "en": "Cochabamba",
+      "slug": "cochabamba-bo03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.402",
+    "lon": "-66.168"
+  },
+  "metadata": {},
+  "source": {}
+}

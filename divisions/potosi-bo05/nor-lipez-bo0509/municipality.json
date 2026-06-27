@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO050901",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colcha \"K\"",
+      "en": "Colcha \"K\"",
+      "slug": "colcha-k-bo050901"
+    },
+    "code": {
+      "id": "BO050901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0509",
+      "level": 2,
+      "name": {
+        "local": "Nor Lipez",
+        "en": "Nor Lipez",
+        "slug": "nor-lipez-bo0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0509",
+        "level": 2,
+        "name": {
+          "local": "Nor Lipez",
+          "en": "Nor Lipez",
+          "slug": "nor-lipez-bo0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.2",
+      "lon": "-66.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050902",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro de Quemes",
+      "en": "San Pedro de Quemes",
+      "slug": "san-pedro-de-quemes-bo050902"
+    },
+    "code": {
+      "id": "BO050902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0509",
+      "level": 2,
+      "name": {
+        "local": "Nor Lipez",
+        "en": "Nor Lipez",
+        "slug": "nor-lipez-bo0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0509",
+        "level": 2,
+        "name": {
+          "local": "Nor Lipez",
+          "en": "Nor Lipez",
+          "slug": "nor-lipez-bo0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.131",
+      "lon": "-68.113"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

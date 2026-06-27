@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO090301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Gonzalo Moreno",
+      "en": "Puerto Gonzalo Moreno",
+      "slug": "puerto-gonzalo-moreno-bo090301"
+    },
+    "code": {
+      "id": "BO090301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0903",
+      "level": 2,
+      "name": {
+        "local": "Madre de Dios",
+        "en": "Madre de Dios",
+        "slug": "madre-de-dios-bo0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0903",
+        "level": 2,
+        "name": {
+          "local": "Madre de Dios",
+          "en": "Madre de Dios",
+          "slug": "madre-de-dios-bo0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.176",
+      "lon": "-66.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO090302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lorenzo",
+      "en": "San Lorenzo",
+      "slug": "san-lorenzo-bo090302"
+    },
+    "code": {
+      "id": "BO090302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0903",
+      "level": 2,
+      "name": {
+        "local": "Madre de Dios",
+        "en": "Madre de Dios",
+        "slug": "madre-de-dios-bo0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0903",
+        "level": 2,
+        "name": {
+          "local": "Madre de Dios",
+          "en": "Madre de Dios",
+          "slug": "madre-de-dios-bo0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.791",
+      "lon": "-66.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO090303",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sena",
+      "en": "Sena",
+      "slug": "sena-bo090303"
+    },
+    "code": {
+      "id": "BO090303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0903",
+      "level": 2,
+      "name": {
+        "local": "Madre de Dios",
+        "en": "Madre de Dios",
+        "slug": "madre-de-dios-bo0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0903",
+        "level": 2,
+        "name": {
+          "local": "Madre de Dios",
+          "en": "Madre de Dios",
+          "slug": "madre-de-dios-bo0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.927",
+      "lon": "-67.437"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "BO0414",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sebastián Pagador",
+    "en": "Sebastian Pagador",
+    "slug": "sebastian-pagador-bo0414"
+  },
+  "code": {
+    "id": "BO0414",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO04",
+    "level": 1,
+    "name": {
+      "local": "Oruro",
+      "en": "Oruro",
+      "slug": "oruro-bo04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.161",
+    "lon": "-66.612"
+  },
+  "metadata": {},
+  "source": {}
+}

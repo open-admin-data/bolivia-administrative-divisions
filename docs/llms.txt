@@ -1,0 +1,70 @@
+# Bolivia Administrative Divisions
+
+> Open dataset of Bolivia's administrative hierarchy:
+> 9 departments, 112 provinces, 339 municipalitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total departments: 9
+- Total provinces: 112
+- Total municipalitys: 339
+- Coordinates: included (all levels)
+- Last updated: 2026-06-27
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All departments (JSON)](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/data/all-department.json)
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/data/all-province.json)
+- [All municipalitys (JSON)](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/data/all-municipality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/data/schema.json)
+
+## Browse by Department
+
+- [Beni](https://github.com/open-admin-data/bolivia-administrative-divisions/tree/main/divisions/beni-bo08/) — 8 provinces, 19 municipalitys
+- [Chuquisaca](https://github.com/open-admin-data/bolivia-administrative-divisions/tree/main/divisions/chuquisaca-bo01/) — 10 provinces, 29 municipalitys
+- [Cochabamba](https://github.com/open-admin-data/bolivia-administrative-divisions/tree/main/divisions/cochabamba-bo03/) — 16 provinces, 47 municipalitys
+- [La Paz](https://github.com/open-admin-data/bolivia-administrative-divisions/tree/main/divisions/la-paz-bo02/) — 20 provinces, 87 municipalitys
+- [Oruro](https://github.com/open-admin-data/bolivia-administrative-divisions/tree/main/divisions/oruro-bo04/) — 16 provinces, 35 municipalitys
+- [Pando](https://github.com/open-admin-data/bolivia-administrative-divisions/tree/main/divisions/pando-bo09/) — 5 provinces, 15 municipalitys
+- [Potosi](https://github.com/open-admin-data/bolivia-administrative-divisions/tree/main/divisions/potosi-bo05/) — 16 provinces, 40 municipalitys
+- [Santa Cruz](https://github.com/open-admin-data/bolivia-administrative-divisions/tree/main/divisions/santa-cruz-bo07/) — 15 provinces, 56 municipalitys
+- [Tarija](https://github.com/open-admin-data/bolivia-administrative-divisions/tree/main/divisions/tarija-bo06/) — 6 provinces, 11 municipalitys
+
+## Per-Department Full Data
+
+- [Beni](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/docs/llms-full/beni-bo08.txt)
+- [Chuquisaca](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/docs/llms-full/chuquisaca-bo01.txt)
+- [Cochabamba](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/docs/llms-full/cochabamba-bo03.txt)
+- [La Paz](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/docs/llms-full/la-paz-bo02.txt)
+- [Oruro](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/docs/llms-full/oruro-bo04.txt)
+- [Pando](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/docs/llms-full/pando-bo09.txt)
+- [Potosi](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/docs/llms-full/potosi-bo05.txt)
+- [Santa Cruz](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/docs/llms-full/santa-cruz-bo07.txt)
+- [Tarija](https://raw.githubusercontent.com/open-admin-data/bolivia-administrative-divisions/main/docs/llms-full/tarija-bo06.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (department), 2 (province), 3 (municipality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Bolivia Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/bolivia-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

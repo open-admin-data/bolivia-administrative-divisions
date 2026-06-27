@@ -1,0 +1,34 @@
+{
+  "id": "BO04",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Oruro",
+    "en": "Oruro",
+    "slug": "oruro-bo04"
+  },
+  "code": {
+    "id": "BO04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 16,
+    "municipality": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.604",
+    "lon": "-67.834"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bo/departments/oruro-bo04/",
+    "api": "https://openadmindata.org/api/bo/"
+  }
+}

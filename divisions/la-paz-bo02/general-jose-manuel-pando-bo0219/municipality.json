@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO021902",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catacora",
+      "en": "Catacora",
+      "slug": "catacora-bo021902"
+    },
+    "code": {
+      "id": "BO021902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0219",
+      "level": 2,
+      "name": {
+        "local": "General José Manuel Pando",
+        "en": "General Jose Manuel Pando",
+        "slug": "general-jose-manuel-pando-bo0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0219",
+        "level": 2,
+        "name": {
+          "local": "General José Manuel Pando",
+          "en": "General Jose Manuel Pando",
+          "slug": "general-jose-manuel-pando-bo0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.254",
+      "lon": "-69.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021901",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago de Machaca",
+      "en": "Santiago de Machaca",
+      "slug": "santiago-de-machaca-bo021901"
+    },
+    "code": {
+      "id": "BO021901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0219",
+      "level": 2,
+      "name": {
+        "local": "General José Manuel Pando",
+        "en": "General Jose Manuel Pando",
+        "slug": "general-jose-manuel-pando-bo0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0219",
+        "level": 2,
+        "name": {
+          "local": "General José Manuel Pando",
+          "en": "General Jose Manuel Pando",
+          "slug": "general-jose-manuel-pando-bo0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.226",
+      "lon": "-69.278"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,5266 @@
+[
+  {
+    "id": "BO0402",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Abaroa",
+      "en": "Abaroa",
+      "slug": "abaroa-bo0402"
+    },
+    "code": {
+      "id": "BO0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.865",
+      "lon": "-66.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0215",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Abel Iturralde",
+      "en": "Abel Iturralde",
+      "slug": "abel-iturralde-bo0215"
+    },
+    "code": {
+      "id": "BO0215",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.223",
+      "lon": "-68.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0904",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Abuná",
+      "en": "Abuna",
+      "slug": "abuna-bo0904"
+    },
+    "code": {
+      "id": "BO0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO09",
+      "level": 1,
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.502",
+      "lon": "-66.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0507",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Alonso de Ibáñez",
+      "en": "Alonso de Ibanez",
+      "slug": "alonso-de-ibanez-bo0507"
+    },
+    "code": {
+      "id": "BO0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.165",
+      "lon": "-66.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0701",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Andrés Ibáñez",
+      "en": "Andres Ibanez",
+      "slug": "andres-ibanez-bo0701"
+    },
+    "code": {
+      "id": "BO0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.906",
+      "lon": "-63.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0712",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Angel Sandoval",
+      "en": "Angel Sandoval",
+      "slug": "angel-sandoval-bo0712"
+    },
+    "code": {
+      "id": "BO0712",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.189",
+      "lon": "-58.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0512",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Antonio Quijarro",
+      "en": "Antonio Quijarro",
+      "slug": "antonio-quijarro-bo0512"
+    },
+    "code": {
+      "id": "BO0512",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.158",
+      "lon": "-66.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0305",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Arani",
+      "en": "Arani",
+      "slug": "arani-bo0305"
+    },
+    "code": {
+      "id": "BO0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.6",
+      "lon": "-65.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0602",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Arce",
+      "en": "Arce",
+      "slug": "arce-bo0602"
+    },
+    "code": {
+      "id": "BO0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO06",
+      "level": 1,
+      "name": {
+        "local": "Tarija",
+        "en": "Tarija",
+        "slug": "tarija-bo06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.33",
+      "lon": "-64.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0213",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Aroma",
+      "en": "Aroma",
+      "slug": "aroma-bo0213"
+    },
+    "code": {
+      "id": "BO0213",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.173",
+      "lon": "-67.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0306",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Arque",
+      "en": "Arque",
+      "slug": "arque-bo0306"
+    },
+    "code": {
+      "id": "BO0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.815",
+      "lon": "-66.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0604",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Avilés",
+      "en": "Aviles",
+      "slug": "aviles-bo0604"
+    },
+    "code": {
+      "id": "BO0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO06",
+      "level": 1,
+      "name": {
+        "local": "Tarija",
+        "en": "Tarija",
+        "slug": "tarija-bo06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.785",
+      "lon": "-64.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0303",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ayopaya",
+      "en": "Ayopaya",
+      "slug": "ayopaya-bo0303"
+    },
+    "code": {
+      "id": "BO0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.614",
+      "lon": "-66.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0102",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Azurduy",
+      "en": "Azurduy",
+      "slug": "azurduy-bo0102"
+    },
+    "code": {
+      "id": "BO0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.017",
+      "lon": "-64.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0216",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bautista Saavedra",
+      "en": "Bautista Saavedra",
+      "slug": "bautista-saavedra-bo0216"
+    },
+    "code": {
+      "id": "BO0216",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.066",
+      "lon": "-68.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0108",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Belisario Boeto",
+      "en": "Belisario Boeto",
+      "slug": "belisario-boeto-bo0108"
+    },
+    "code": {
+      "id": "BO0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.919",
+      "lon": "-64.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0315",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bolivar",
+      "en": "Bolivar",
+      "slug": "bolivar-bo0315"
+    },
+    "code": {
+      "id": "BO0315",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.012",
+      "lon": "-66.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0204",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Camacho",
+      "en": "Camacho",
+      "slug": "camacho-bo0204"
+    },
+    "code": {
+      "id": "BO0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.574",
+      "lon": "-69.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0302",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Campero",
+      "en": "Campero",
+      "slug": "campero-bo0302"
+    },
+    "code": {
+      "id": "BO0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.278",
+      "lon": "-64.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0307",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Capinota",
+      "en": "Capinota",
+      "slug": "capinota-bo0307"
+    },
+    "code": {
+      "id": "BO0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.713",
+      "lon": "-66.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0220",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Caranavi",
+      "en": "Caranavi",
+      "slug": "caranavi-bo0220"
+    },
+    "code": {
+      "id": "BO0220",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.696",
+      "lon": "-67.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0403",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Carangas",
+      "en": "Carangas",
+      "slug": "carangas-bo0403"
+    },
+    "code": {
+      "id": "BO0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.375",
+      "lon": "-67.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0312",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Carrasco",
+      "en": "Carrasco",
+      "slug": "carrasco-bo0312"
+    },
+    "code": {
+      "id": "BO0312",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.992",
+      "lon": "-64.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0301",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cercado",
+      "en": "Cercado",
+      "slug": "cercado-bo0301"
+    },
+    "code": {
+      "id": "BO0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.402",
+      "lon": "-66.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0401",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cercado",
+      "en": "Cercado",
+      "slug": "cercado-bo0401"
+    },
+    "code": {
+      "id": "BO0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.95",
+      "lon": "-67.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0601",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cercado",
+      "en": "Cercado",
+      "slug": "cercado-bo0601"
+    },
+    "code": {
+      "id": "BO0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO06",
+      "level": 1,
+      "name": {
+        "local": "Tarija",
+        "en": "Tarija",
+        "slug": "tarija-bo06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.552",
+      "lon": "-64.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0801",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cercado",
+      "en": "Cercado",
+      "slug": "cercado-bo0801"
+    },
+    "code": {
+      "id": "BO0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.531",
+      "lon": "-64.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0310",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Chapare",
+      "en": "Chapare",
+      "slug": "chapare-bo0310"
+    },
+    "code": {
+      "id": "BO0310",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.654",
+      "lon": "-65.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0505",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Chárcas",
+      "en": "Charcas",
+      "slug": "charcas-bo0505"
+    },
+    "code": {
+      "id": "BO0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.294",
+      "lon": "-65.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0504",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Chayanta",
+      "en": "Chayanta",
+      "slug": "chayanta-bo0504"
+    },
+    "code": {
+      "id": "BO0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.777",
+      "lon": "-65.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0705",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Chiquitos",
+      "en": "Chiquitos",
+      "slug": "chiquitos-bo0705"
+    },
+    "code": {
+      "id": "BO0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.84",
+      "lon": "-61.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0707",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cordillera",
+      "en": "Cordillera",
+      "slug": "cordillera-bo0707"
+    },
+    "code": {
+      "id": "BO0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.248",
+      "lon": "-61.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0503",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cornelio Saavedra",
+      "en": "Cornelio Saavedra",
+      "slug": "cornelio-saavedra-bo0503"
+    },
+    "code": {
+      "id": "BO0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.365",
+      "lon": "-65.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0514",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Daniel Campos",
+      "en": "Daniel Campos",
+      "slug": "daniel-campos-bo0514"
+    },
+    "code": {
+      "id": "BO0514",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.075",
+      "lon": "-68.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0516",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Enrique Baldivieso",
+      "en": "Enrique Baldivieso",
+      "slug": "enrique-baldivieso-bo0516"
+    },
+    "code": {
+      "id": "BO0516",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.468",
+      "lon": "-67.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0304",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Esteban Arze",
+      "en": "Esteban Arze",
+      "slug": "esteban-arze-bo0304"
+    },
+    "code": {
+      "id": "BO0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.74",
+      "lon": "-65.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0905",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Federico Román",
+      "en": "Federico Roman",
+      "slug": "federico-roman-bo0905"
+    },
+    "code": {
+      "id": "BO0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO09",
+      "level": 1,
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.261",
+      "lon": "-65.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0709",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Florida",
+      "en": "Florida",
+      "slug": "florida-bo0709"
+    },
+    "code": {
+      "id": "BO0709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.101",
+      "lon": "-63.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0207",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Franz Tamayo",
+      "en": "Franz Tamayo",
+      "slug": "franz-tamayo-bo0207"
+    },
+    "code": {
+      "id": "BO0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.641",
+      "lon": "-68.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0513",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "General Bilbao",
+      "en": "General Bilbao",
+      "slug": "general-bilbao-bo0513"
+    },
+    "code": {
+      "id": "BO0513",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.991",
+      "lon": "-66.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0803",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "General José Ballivián",
+      "en": "General Jose Ballivian",
+      "slug": "general-jose-ballivian-bo0803"
+    },
+    "code": {
+      "id": "BO0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.904",
+      "lon": "-67.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0219",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "General José Manuel Pando",
+      "en": "General Jose Manuel Pando",
+      "slug": "general-jose-manuel-pando-bo0219"
+    },
+    "code": {
+      "id": "BO0219",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.226",
+      "lon": "-69.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0714",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Germán Busch",
+      "en": "German Busch",
+      "slug": "german-busch-bo0714"
+    },
+    "code": {
+      "id": "BO0714",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.068",
+      "lon": "-58.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0308",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Germán Jordán",
+      "en": "German Jordan",
+      "slug": "german-jordan-bo0308"
+    },
+    "code": {
+      "id": "BO0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.595",
+      "lon": "-65.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0603",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Gran Chaco",
+      "en": "Gran Chaco",
+      "slug": "gran-chaco-bo0603"
+    },
+    "code": {
+      "id": "BO0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO06",
+      "level": 1,
+      "name": {
+        "local": "Tarija",
+        "en": "Tarija",
+        "slug": "tarija-bo06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.661",
+      "lon": "-63.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0218",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Gualberto Villarroel",
+      "en": "Gualberto Villarroel",
+      "slug": "gualberto-villarroel-bo0218"
+    },
+    "code": {
+      "id": "BO0218",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.647",
+      "lon": "-67.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0715",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Guarayos",
+      "en": "Guarayos",
+      "slug": "guarayos-bo0715"
+    },
+    "code": {
+      "id": "BO0715",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.244",
+      "lon": "-63.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0105",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Hernando Siles",
+      "en": "Hernando Siles",
+      "slug": "hernando-siles-bo0105"
+    },
+    "code": {
+      "id": "BO0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.234",
+      "lon": "-64.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0704",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ichilo",
+      "en": "Ichilo",
+      "slug": "ichilo-bo0704"
+    },
+    "code": {
+      "id": "BO0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.913",
+      "lon": "-64.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0208",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ingavi",
+      "en": "Ingavi",
+      "slug": "ingavi-bo0208"
+    },
+    "code": {
+      "id": "BO0208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.762",
+      "lon": "-68.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0210",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Inquisivi",
+      "en": "Inquisivi",
+      "slug": "inquisivi-bo0210"
+    },
+    "code": {
+      "id": "BO0210",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.939",
+      "lon": "-67.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0808",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Iténez",
+      "en": "Itenez",
+      "slug": "itenez-bo0808"
+    },
+    "code": {
+      "id": "BO0808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.372",
+      "lon": "-63.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0511",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "José María Linares",
+      "en": "Jose Maria Linares",
+      "slug": "jose-maria-linares-bo0511"
+    },
+    "code": {
+      "id": "BO0511",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.881",
+      "lon": "-65.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0408",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ladislao Cabrera",
+      "en": "Ladislao Cabrera",
+      "slug": "ladislao-cabrera-bo0408"
+    },
+    "code": {
+      "id": "BO0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.468",
+      "lon": "-67.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0206",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Larecaja",
+      "en": "Larecaja",
+      "slug": "larecaja-bo0206"
+    },
+    "code": {
+      "id": "BO0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.614",
+      "lon": "-68.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0405",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Litoral",
+      "en": "Litoral",
+      "slug": "litoral-bo0405"
+    },
+    "code": {
+      "id": "BO0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.756",
+      "lon": "-68.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0209",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Loayza",
+      "en": "Loayza",
+      "slug": "loayza-bo0209"
+    },
+    "code": {
+      "id": "BO0209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.041",
+      "lon": "-67.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0212",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Los Andes",
+      "en": "Los Andes",
+      "slug": "los-andes-bo0212"
+    },
+    "code": {
+      "id": "BO0212",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.372",
+      "lon": "-68.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0110",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Luis Calvo",
+      "en": "Luis Calvo",
+      "slug": "luis-calvo-bo0110"
+    },
+    "code": {
+      "id": "BO0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.017",
+      "lon": "-63.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0903",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Madre de Dios",
+      "en": "Madre de Dios",
+      "slug": "madre-de-dios-bo0903"
+    },
+    "code": {
+      "id": "BO0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO09",
+      "level": 1,
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.7",
+      "lon": "-67.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0807",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mamoré",
+      "en": "Mamore",
+      "slug": "mamore-bo0807"
+    },
+    "code": {
+      "id": "BO0807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.036",
+      "lon": "-64.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0217",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Manco Kapac",
+      "en": "Manco Kapac",
+      "slug": "manco-kapac-bo0217"
+    },
+    "code": {
+      "id": "BO0217",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.164",
+      "lon": "-69.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0713",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Manuel María Caballero",
+      "en": "Manuel Maria Caballero",
+      "slug": "manuel-maria-caballero-bo0713"
+    },
+    "code": {
+      "id": "BO0713",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.829",
+      "lon": "-64.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0902",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Manuripi",
+      "en": "Manuripi",
+      "slug": "manuripi-bo0902"
+    },
+    "code": {
+      "id": "BO0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO09",
+      "level": 1,
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.652",
+      "lon": "-68.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0806",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Marbán",
+      "en": "Marban",
+      "slug": "marban-bo0806"
+    },
+    "code": {
+      "id": "BO0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.565",
+      "lon": "-64.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0415",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mejillones",
+      "en": "Mejillones",
+      "slug": "mejillones-bo0415"
+    },
+    "code": {
+      "id": "BO0415",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19",
+      "lon": "-68.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0605",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Méndez",
+      "en": "Mendez",
+      "slug": "mendez-bo0605"
+    },
+    "code": {
+      "id": "BO0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO06",
+      "level": 1,
+      "name": {
+        "local": "Tarija",
+        "en": "Tarija",
+        "slug": "tarija-bo06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.273",
+      "lon": "-64.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0313",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mizque",
+      "en": "Mizque",
+      "slug": "mizque-bo0313"
+    },
+    "code": {
+      "id": "BO0313",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.029",
+      "lon": "-65.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0515",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Modesto Omiste",
+      "en": "Modesto Omiste",
+      "slug": "modesto-omiste-bo0515"
+    },
+    "code": {
+      "id": "BO0515",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.888",
+      "lon": "-65.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0805",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Moxos",
+      "en": "Moxos",
+      "slug": "moxos-bo0805"
+    },
+    "code": {
+      "id": "BO0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.323",
+      "lon": "-65.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0205",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Muñecas",
+      "en": "Munecas",
+      "slug": "munecas-bo0205"
+    },
+    "code": {
+      "id": "BO0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.464",
+      "lon": "-68.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0201",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Murillo",
+      "en": "Murillo",
+      "slug": "murillo-bo0201"
+    },
+    "code": {
+      "id": "BO0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.304",
+      "lon": "-68.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0901",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nicolás Suárez",
+      "en": "Nicolas Suarez",
+      "slug": "nicolas-suarez-bo0901"
+    },
+    "code": {
+      "id": "BO0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO09",
+      "level": 1,
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.891",
+      "lon": "-67.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0416",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nor Carangas",
+      "en": "Nor Carangas",
+      "slug": "nor-carangas-bo0416"
+    },
+    "code": {
+      "id": "BO0416",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.91",
+      "lon": "-67.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0506",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nor Chichas",
+      "en": "Nor Chichas",
+      "slug": "nor-chichas-bo0506"
+    },
+    "code": {
+      "id": "BO0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.57",
+      "lon": "-65.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0107",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nor Cinti",
+      "en": "Nor Cinti",
+      "slug": "nor-cinti-bo0107"
+    },
+    "code": {
+      "id": "BO0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.34",
+      "lon": "-64.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0509",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nor Lipez",
+      "en": "Nor Lipez",
+      "slug": "nor-lipez-bo0509"
+    },
+    "code": {
+      "id": "BO0509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.857",
+      "lon": "-67.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0214",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nor Yungas",
+      "en": "Nor Yungas",
+      "slug": "nor-yungas-bo0214"
+    },
+    "code": {
+      "id": "BO0214",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.201",
+      "lon": "-67.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0711",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ñuflo De Chávez",
+      "en": "Nuflo De Chavez",
+      "slug": "nuflo-de-chavez-bo0711"
+    },
+    "code": {
+      "id": "BO0711",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.631",
+      "lon": "-62.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0606",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "O'Connor",
+      "en": "OConnor",
+      "slug": "oconnor-bo0606"
+    },
+    "code": {
+      "id": "BO0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO06",
+      "level": 1,
+      "name": {
+        "local": "Tarija",
+        "en": "Tarija",
+        "slug": "tarija-bo06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.438",
+      "lon": "-64.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0710",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Obispo Santistéban",
+      "en": "Obispo Santisteban",
+      "slug": "obispo-santisteban-bo0710"
+    },
+    "code": {
+      "id": "BO0710",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.734",
+      "lon": "-63.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0202",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Omasuyos",
+      "en": "Omasuyos",
+      "slug": "omasuyos-bo0202"
+    },
+    "code": {
+      "id": "BO0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.005",
+      "lon": "-68.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0101",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Oropeza",
+      "en": "Oropeza",
+      "slug": "oropeza-bo0101"
+    },
+    "code": {
+      "id": "BO0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.854",
+      "lon": "-65.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0203",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Pacajes",
+      "en": "Pacajes",
+      "slug": "pacajes-bo0203"
+    },
+    "code": {
+      "id": "BO0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.414",
+      "lon": "-68.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0407",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Pantaleón Dalence",
+      "en": "Pantaleon Dalence",
+      "slug": "pantaleon-dalence-bo0407"
+    },
+    "code": {
+      "id": "BO0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.269",
+      "lon": "-66.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0406",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Poopó",
+      "en": "Poopo",
+      "slug": "poopo-bo0406"
+    },
+    "code": {
+      "id": "BO0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.501",
+      "lon": "-66.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0314",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Punata",
+      "en": "Punata",
+      "slug": "punata-bo0314"
+    },
+    "code": {
+      "id": "BO0314",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.592",
+      "lon": "-65.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0309",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Quillacollo",
+      "en": "Quillacollo",
+      "slug": "quillacollo-bo0309"
+    },
+    "code": {
+      "id": "BO0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.394",
+      "lon": "-66.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0502",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Rafael Bustillo",
+      "en": "Rafael Bustillo",
+      "slug": "rafael-bustillo-bo0502"
+    },
+    "code": {
+      "id": "BO0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.496",
+      "lon": "-66.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0409",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sabaya",
+      "en": "Sabaya",
+      "slug": "sabaya-bo0409"
+    },
+    "code": {
+      "id": "BO0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.071",
+      "lon": "-68.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0404",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sajama",
+      "en": "Sajama",
+      "slug": "sajama-bo0404"
+    },
+    "code": {
+      "id": "BO0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.105",
+      "lon": "-68.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0413",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "San Pedro de Totora",
+      "en": "San Pedro de Totora",
+      "slug": "san-pedro-de-totora-bo0413"
+    },
+    "code": {
+      "id": "BO0413",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.843",
+      "lon": "-68.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0706",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sara",
+      "en": "Sara",
+      "slug": "sara-bo0706"
+    },
+    "code": {
+      "id": "BO0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.792",
+      "lon": "-63.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0410",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Saucarí",
+      "en": "Saucari",
+      "slug": "saucari-bo0410"
+    },
+    "code": {
+      "id": "BO0410",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.261",
+      "lon": "-67.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0414",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sebastián Pagador",
+      "en": "Sebastian Pagador",
+      "slug": "sebastian-pagador-bo0414"
+    },
+    "code": {
+      "id": "BO0414",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.161",
+      "lon": "-66.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0211",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sud Yungas",
+      "en": "Sud Yungas",
+      "slug": "sud-yungas-bo0211"
+    },
+    "code": {
+      "id": "BO0211",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.833",
+      "lon": "-67.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0412",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sur Carangas",
+      "en": "Sur Carangas",
+      "slug": "sur-carangas-bo0412"
+    },
+    "code": {
+      "id": "BO0412",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.852",
+      "lon": "-67.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0508",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sur Chichas",
+      "en": "Sur Chichas",
+      "slug": "sur-chichas-bo0508"
+    },
+    "code": {
+      "id": "BO0508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.32",
+      "lon": "-65.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0109",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sur Cinti",
+      "en": "Sur Cinti",
+      "slug": "sur-cinti-bo0109"
+    },
+    "code": {
+      "id": "BO0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.015",
+      "lon": "-64.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0510",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sur Lipez",
+      "en": "Sur Lipez",
+      "slug": "sur-lipez-bo0510"
+    },
+    "code": {
+      "id": "BO0510",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.101",
+      "lon": "-67.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0311",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tapacarí",
+      "en": "Tapacari",
+      "slug": "tapacari-bo0311"
+    },
+    "code": {
+      "id": "BO0311",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.576",
+      "lon": "-66.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0316",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tiraque",
+      "en": "Tiraque",
+      "slug": "tiraque-bo0316"
+    },
+    "code": {
+      "id": "BO0316",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.186",
+      "lon": "-65.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0411",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tomás Barrón",
+      "en": "Tomas Barron",
+      "slug": "tomas-barron-bo0411"
+    },
+    "code": {
+      "id": "BO0411",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.629",
+      "lon": "-67.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0501",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tomás Frías",
+      "en": "Tomas Frias",
+      "slug": "tomas-frias-bo0501"
+    },
+    "code": {
+      "id": "BO0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.4",
+      "lon": "-65.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0104",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tomina",
+      "en": "Tomina",
+      "slug": "tomina-bo0104"
+    },
+    "code": {
+      "id": "BO0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.377",
+      "lon": "-64.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0802",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Vaca Diez",
+      "en": "Vaca Diez",
+      "slug": "vaca-diez-bo0802"
+    },
+    "code": {
+      "id": "BO0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.194",
+      "lon": "-65.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0708",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Vallegrande",
+      "en": "Vallegrande",
+      "slug": "vallegrande-bo0708"
+    },
+    "code": {
+      "id": "BO0708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.672",
+      "lon": "-63.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0703",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Velasco",
+      "en": "Velasco",
+      "slug": "velasco-bo0703"
+    },
+    "code": {
+      "id": "BO0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.456",
+      "lon": "-60.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0702",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Warnes",
+      "en": "Warnes",
+      "slug": "warnes-bo0702"
+    },
+    "code": {
+      "id": "BO0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.355",
+      "lon": "-62.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0804",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Yacuma",
+      "en": "Yacuma",
+      "slug": "yacuma-bo0804"
+    },
+    "code": {
+      "id": "BO0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.783",
+      "lon": "-65.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0106",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Yamparáez",
+      "en": "Yamparaez",
+      "slug": "yamparaez-bo0106"
+    },
+    "code": {
+      "id": "BO0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.129",
+      "lon": "-64.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0103",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Zudáñez",
+      "en": "Zudanez",
+      "slug": "zudanez-bo0103"
+    },
+    "code": {
+      "id": "BO0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.074",
+      "lon": "-64.689"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

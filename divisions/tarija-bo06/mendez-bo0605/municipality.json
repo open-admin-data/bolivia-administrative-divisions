@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO060502",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Puente",
+      "en": "El Puente",
+      "slug": "el-puente-bo060502"
+    },
+    "code": {
+      "id": "BO060502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0605",
+      "level": 2,
+      "name": {
+        "local": "Méndez",
+        "en": "Mendez",
+        "slug": "mendez-bo0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0605",
+        "level": 2,
+        "name": {
+          "local": "Méndez",
+          "en": "Mendez",
+          "slug": "mendez-bo0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.281",
+      "lon": "-65.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO060501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lorenzo",
+      "en": "San Lorenzo",
+      "slug": "san-lorenzo-bo060501"
+    },
+    "code": {
+      "id": "BO060501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0605",
+      "level": 2,
+      "name": {
+        "local": "Méndez",
+        "en": "Mendez",
+        "slug": "mendez-bo0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0605",
+        "level": 2,
+        "name": {
+          "local": "Méndez",
+          "en": "Mendez",
+          "slug": "mendez-bo0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.258",
+      "lon": "-64.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

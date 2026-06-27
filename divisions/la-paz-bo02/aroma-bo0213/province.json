@@ -1,0 +1,47 @@
+{
+  "id": "BO0213",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Aroma",
+    "en": "Aroma",
+    "slug": "aroma-bo0213"
+  },
+  "code": {
+    "id": "BO0213",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO02",
+    "level": 1,
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-bo02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.173",
+    "lon": "-67.946"
+  },
+  "metadata": {},
+  "source": {}
+}

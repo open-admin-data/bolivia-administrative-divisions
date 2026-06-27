@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BO070401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buena Vista",
+      "en": "Buena Vista",
+      "slug": "buena-vista-bo070401"
+    },
+    "code": {
+      "id": "BO070401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0704",
+      "level": 2,
+      "name": {
+        "local": "Ichilo",
+        "en": "Ichilo",
+        "slug": "ichilo-bo0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0704",
+        "level": 2,
+        "name": {
+          "local": "Ichilo",
+          "en": "Ichilo",
+          "slug": "ichilo-bo0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.677",
+      "lon": "-63.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Carlos",
+      "en": "San Carlos",
+      "slug": "san-carlos-bo070402"
+    },
+    "code": {
+      "id": "BO070402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0704",
+      "level": 2,
+      "name": {
+        "local": "Ichilo",
+        "en": "Ichilo",
+        "slug": "ichilo-bo0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0704",
+        "level": 2,
+        "name": {
+          "local": "Ichilo",
+          "en": "Ichilo",
+          "slug": "ichilo-bo0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.318",
+      "lon": "-63.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070404",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan",
+      "en": "San Juan",
+      "slug": "san-juan-bo070404"
+    },
+    "code": {
+      "id": "BO070404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0704",
+      "level": 2,
+      "name": {
+        "local": "Ichilo",
+        "en": "Ichilo",
+        "slug": "ichilo-bo0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0704",
+        "level": 2,
+        "name": {
+          "local": "Ichilo",
+          "en": "Ichilo",
+          "slug": "ichilo-bo0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.827",
+      "lon": "-64.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070403",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yapacaní",
+      "en": "Yapacani",
+      "slug": "yapacani-bo070403"
+    },
+    "code": {
+      "id": "BO070403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0704",
+      "level": 2,
+      "name": {
+        "local": "Ichilo",
+        "en": "Ichilo",
+        "slug": "ichilo-bo0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0704",
+        "level": 2,
+        "name": {
+          "local": "Ichilo",
+          "en": "Ichilo",
+          "slug": "ichilo-bo0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.717",
+      "lon": "-64.458"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

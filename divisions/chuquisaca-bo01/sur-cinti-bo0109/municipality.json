@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO010902",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Culpina",
+      "en": "Culpina",
+      "slug": "culpina-bo010902"
+    },
+    "code": {
+      "id": "BO010902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0109",
+      "level": 2,
+      "name": {
+        "local": "Sur Cinti",
+        "en": "Sur Cinti",
+        "slug": "sur-cinti-bo0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0109",
+        "level": 2,
+        "name": {
+          "local": "Sur Cinti",
+          "en": "Sur Cinti",
+          "slug": "sur-cinti-bo0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.832",
+      "lon": "-64.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010903",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Las Carreras",
+      "en": "Las Carreras",
+      "slug": "las-carreras-bo010903"
+    },
+    "code": {
+      "id": "BO010903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0109",
+      "level": 2,
+      "name": {
+        "local": "Sur Cinti",
+        "en": "Sur Cinti",
+        "slug": "sur-cinti-bo0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0109",
+        "level": 2,
+        "name": {
+          "local": "Sur Cinti",
+          "en": "Sur Cinti",
+          "slug": "sur-cinti-bo0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.291",
+      "lon": "-65.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010901",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Abecia",
+      "en": "Villa Abecia",
+      "slug": "villa-abecia-bo010901"
+    },
+    "code": {
+      "id": "BO010901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0109",
+      "level": 2,
+      "name": {
+        "local": "Sur Cinti",
+        "en": "Sur Cinti",
+        "slug": "sur-cinti-bo0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0109",
+        "level": 2,
+        "name": {
+          "local": "Sur Cinti",
+          "en": "Sur Cinti",
+          "slug": "sur-cinti-bo0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.001",
+      "lon": "-65.295"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

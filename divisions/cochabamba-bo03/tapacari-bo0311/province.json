@@ -1,0 +1,47 @@
+{
+  "id": "BO0311",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Tapacarí",
+    "en": "Tapacari",
+    "slug": "tapacari-bo0311"
+  },
+  "code": {
+    "id": "BO0311",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO03",
+    "level": 1,
+    "name": {
+      "local": "Cochabamba",
+      "en": "Cochabamba",
+      "slug": "cochabamba-bo03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.576",
+    "lon": "-66.668"
+  },
+  "metadata": {},
+  "source": {}
+}

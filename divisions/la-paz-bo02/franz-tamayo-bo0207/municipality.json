@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO020701",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apolo",
+      "en": "Apolo",
+      "slug": "apolo-bo020701"
+    },
+    "code": {
+      "id": "BO020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0207",
+      "level": 2,
+      "name": {
+        "local": "Franz Tamayo",
+        "en": "Franz Tamayo",
+        "slug": "franz-tamayo-bo0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0207",
+        "level": 2,
+        "name": {
+          "local": "Franz Tamayo",
+          "en": "Franz Tamayo",
+          "slug": "franz-tamayo-bo0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.641",
+      "lon": "-68.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020702",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pelechuco",
+      "en": "Pelechuco",
+      "slug": "pelechuco-bo020702"
+    },
+    "code": {
+      "id": "BO020702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0207",
+      "level": 2,
+      "name": {
+        "local": "Franz Tamayo",
+        "en": "Franz Tamayo",
+        "slug": "franz-tamayo-bo0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0207",
+        "level": 2,
+        "name": {
+          "local": "Franz Tamayo",
+          "en": "Franz Tamayo",
+          "slug": "franz-tamayo-bo0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.82",
+      "lon": "-69.125"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

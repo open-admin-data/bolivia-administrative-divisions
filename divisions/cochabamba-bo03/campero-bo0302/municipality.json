@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO030201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aiquile",
+      "en": "Aiquile",
+      "slug": "aiquile-bo030201"
+    },
+    "code": {
+      "id": "BO030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0302",
+      "level": 2,
+      "name": {
+        "local": "Campero",
+        "en": "Campero",
+        "slug": "campero-bo0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0302",
+        "level": 2,
+        "name": {
+          "local": "Campero",
+          "en": "Campero",
+          "slug": "campero-bo0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.302",
+      "lon": "-65.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030203",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Omereque",
+      "en": "Omereque",
+      "slug": "omereque-bo030203"
+    },
+    "code": {
+      "id": "BO030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0302",
+      "level": 2,
+      "name": {
+        "local": "Campero",
+        "en": "Campero",
+        "slug": "campero-bo0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0302",
+        "level": 2,
+        "name": {
+          "local": "Campero",
+          "en": "Campero",
+          "slug": "campero-bo0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.082",
+      "lon": "-64.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pasorapa",
+      "en": "Pasorapa",
+      "slug": "pasorapa-bo030202"
+    },
+    "code": {
+      "id": "BO030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0302",
+      "level": 2,
+      "name": {
+        "local": "Campero",
+        "en": "Campero",
+        "slug": "campero-bo0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0302",
+        "level": 2,
+        "name": {
+          "local": "Campero",
+          "en": "Campero",
+          "slug": "campero-bo0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.381",
+      "lon": "-64.649"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

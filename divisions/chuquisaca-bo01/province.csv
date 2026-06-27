@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.municipality,geo.lat,geo.lon
+BO0102,Azurduy,Azurduy,azurduy-bo0102,BO0102,2,-20.017,-64.476
+BO0108,Belisario Boeto,Belisario Boeto,belisario-boeto-bo0108,BO0108,1,-18.919,-64.329
+BO0105,Hernando Siles,Hernando Siles,hernando-siles-bo0105,BO0105,2,-20.234,-64.066
+BO0110,Luis Calvo,Luis Calvo,luis-calvo-bo0110,BO0110,3,-20.017,-63.785
+BO0107,Nor Cinti,Nor Cinti,nor-cinti-bo0107,BO0107,4,-20.34,-64.903
+BO0101,Oropeza,Oropeza,oropeza-bo0101,BO0101,3,-18.854,-65.233
+BO0109,Sur Cinti,Sur Cinti,sur-cinti-bo0109,BO0109,3,-21.015,-64.385
+BO0104,Tomina,Tomina,tomina-bo0104,BO0104,5,-19.377,-64.313
+BO0106,Yamparáez,Yamparaez,yamparaez-bo0106,BO0106,2,-19.129,-64.924
+BO0103,Zudáñez,Zudanez,zudanez-bo0103,BO0103,4,-19.074,-64.689

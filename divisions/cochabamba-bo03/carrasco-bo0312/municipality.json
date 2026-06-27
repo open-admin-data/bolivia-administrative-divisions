@@ -1,0 +1,326 @@
+[
+  {
+    "id": "BO031204",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chimoré",
+      "en": "Chimore",
+      "slug": "chimore-bo031204"
+    },
+    "code": {
+      "id": "BO031204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0312",
+      "level": 2,
+      "name": {
+        "local": "Carrasco",
+        "en": "Carrasco",
+        "slug": "carrasco-bo0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0312",
+        "level": 2,
+        "name": {
+          "local": "Carrasco",
+          "en": "Carrasco",
+          "slug": "carrasco-bo0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.58",
+      "lon": "-64.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031206",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Entre Ríos",
+      "en": "Entre Rios",
+      "slug": "entre-rios-bo031206"
+    },
+    "code": {
+      "id": "BO031206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0312",
+      "level": 2,
+      "name": {
+        "local": "Carrasco",
+        "en": "Carrasco",
+        "slug": "carrasco-bo0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0312",
+        "level": 2,
+        "name": {
+          "local": "Carrasco",
+          "en": "Carrasco",
+          "slug": "carrasco-bo0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.284",
+      "lon": "-64.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031203",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pocona",
+      "en": "Pocona",
+      "slug": "pocona-bo031203"
+    },
+    "code": {
+      "id": "BO031203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0312",
+      "level": 2,
+      "name": {
+        "local": "Carrasco",
+        "en": "Carrasco",
+        "slug": "carrasco-bo0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0312",
+        "level": 2,
+        "name": {
+          "local": "Carrasco",
+          "en": "Carrasco",
+          "slug": "carrasco-bo0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.711",
+      "lon": "-65.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pojo",
+      "en": "Pojo",
+      "slug": "pojo-bo031202"
+    },
+    "code": {
+      "id": "BO031202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0312",
+      "level": 2,
+      "name": {
+        "local": "Carrasco",
+        "en": "Carrasco",
+        "slug": "carrasco-bo0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0312",
+        "level": 2,
+        "name": {
+          "local": "Carrasco",
+          "en": "Carrasco",
+          "slug": "carrasco-bo0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.593",
+      "lon": "-64.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031205",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Villarroel",
+      "en": "Puerto Villarroel",
+      "slug": "puerto-villarroel-bo031205"
+    },
+    "code": {
+      "id": "BO031205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0312",
+      "level": 2,
+      "name": {
+        "local": "Carrasco",
+        "en": "Carrasco",
+        "slug": "carrasco-bo0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0312",
+        "level": 2,
+        "name": {
+          "local": "Carrasco",
+          "en": "Carrasco",
+          "slug": "carrasco-bo0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.002",
+      "lon": "-64.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Totora",
+      "en": "Totora",
+      "slug": "totora-bo031201"
+    },
+    "code": {
+      "id": "BO031201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0312",
+      "level": 2,
+      "name": {
+        "local": "Carrasco",
+        "en": "Carrasco",
+        "slug": "carrasco-bo0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0312",
+        "level": 2,
+        "name": {
+          "local": "Carrasco",
+          "en": "Carrasco",
+          "slug": "carrasco-bo0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.594",
+      "lon": "-65.16"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

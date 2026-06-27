@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO071403",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Carmen Rivero Tórrez",
+      "en": "El Carmen Rivero Torrez",
+      "slug": "el-carmen-rivero-torrez-bo071403"
+    },
+    "code": {
+      "id": "BO071403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0714",
+      "level": 2,
+      "name": {
+        "local": "Germán Busch",
+        "en": "German Busch",
+        "slug": "german-busch-bo0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0714",
+        "level": 2,
+        "name": {
+          "local": "Germán Busch",
+          "en": "German Busch",
+          "slug": "german-busch-bo0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.418",
+      "lon": "-58.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Quijarro",
+      "en": "Puerto Quijarro",
+      "slug": "puerto-quijarro-bo071402"
+    },
+    "code": {
+      "id": "BO071402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0714",
+      "level": 2,
+      "name": {
+        "local": "Germán Busch",
+        "en": "German Busch",
+        "slug": "german-busch-bo0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0714",
+        "level": 2,
+        "name": {
+          "local": "Germán Busch",
+          "en": "German Busch",
+          "slug": "german-busch-bo0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.552",
+      "lon": "-57.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Suarez",
+      "en": "Puerto Suarez",
+      "slug": "puerto-suarez-bo071401"
+    },
+    "code": {
+      "id": "BO071401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0714",
+      "level": 2,
+      "name": {
+        "local": "Germán Busch",
+        "en": "German Busch",
+        "slug": "german-busch-bo0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0714",
+        "level": 2,
+        "name": {
+          "local": "Germán Busch",
+          "en": "German Busch",
+          "slug": "german-busch-bo0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.07",
+      "lon": "-58.422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

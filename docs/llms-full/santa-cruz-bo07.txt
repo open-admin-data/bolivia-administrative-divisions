@@ -1,0 +1,308 @@
+# Santa Cruz — Bolivia Administrative Divisions
+
+> 15 provinces, 56 municipalitys
+> Code: BO07
+> Coordinates: -16.974, -61.561
+> Last updated: 2026-06-27. License: CC-BY-4.0.
+
+## Provinces
+
+### Andrés Ibáñez (Andres Ibanez)
+
+Code: BO0701, Coordinates: -17.906, -63.206
+Municipalitys: 5
+
+#### Cotoca
+
+Code: BO070102, Coordinates: -17.76, -62.899
+
+#### El Torno
+
+Code: BO070105, Coordinates: -18.044, -63.434
+
+#### La Guardia
+
+Code: BO070104, Coordinates: -18.052, -63.232
+
+#### Porongo
+
+Code: BO070103, Coordinates: -17.753, -63.362
+
+#### Santa Cruz de la Sierra
+
+Code: BO070101, Coordinates: -17.779, -63.14
+
+### Angel Sandoval
+
+Code: BO0712, Coordinates: -17.189, -58.957
+Municipalitys: 1
+
+#### San Matías (San Matias)
+
+Code: BO071201, Coordinates: -17.189, -58.957
+
+### Chiquitos
+
+Code: BO0705, Coordinates: -17.84, -61.151
+Municipalitys: 3
+
+#### Pailón (Pailon)
+
+Code: BO070502, Coordinates: -17.752, -61.978
+
+#### Roboré (Robore)
+
+Code: BO070503, Coordinates: -18.154, -59.66
+
+#### San José (San Jose)
+
+Code: BO070501, Coordinates: -17.713, -60.443
+
+### Cordillera
+
+Code: BO0707, Coordinates: -19.248, -61.395
+Municipalitys: 7
+
+#### Boyuibe
+
+Code: BO070707, Coordinates: -20.308, -63.02
+
+#### Cabezas
+
+Code: BO070703, Coordinates: -18.476, -63.319
+
+#### Camiri
+
+Code: BO070706, Coordinates: -20.045, -63.488
+
+#### Charagua
+
+Code: BO070702, Coordinates: -19.236, -61.241
+
+#### Cuevo
+
+Code: BO070704, Coordinates: -20.329, -63.521
+
+#### Gutiérrez (Gutierrez)
+
+Code: BO070705, Coordinates: -19.402, -63.516
+
+#### Lagunillas
+
+Code: BO070701, Coordinates: -19.769, -63.626
+
+### Florida
+
+Code: BO0709, Coordinates: -18.101, -63.93
+Municipalitys: 4
+
+#### Mairana
+
+Code: BO070903, Coordinates: -17.997, -63.983
+
+#### Pampa Grande
+
+Code: BO070902, Coordinates: -18.043, -64.163
+
+#### Quirusillas
+
+Code: BO070904, Coordinates: -18.349, -63.953
+
+#### Samaipata
+
+Code: BO070901, Coordinates: -18.142, -63.73
+
+### Germán Busch (German Busch)
+
+Code: BO0714, Coordinates: -19.068, -58.406
+Municipalitys: 3
+
+#### El Carmen Rivero Tórrez (El Carmen Rivero Torrez)
+
+Code: BO071403, Coordinates: -18.418, -58.614
+
+#### Puerto Quijarro
+
+Code: BO071402, Coordinates: -18.552, -57.71
+
+#### Puerto Suarez
+
+Code: BO071401, Coordinates: -19.07, -58.422
+
+### Guarayos
+
+Code: BO0715, Coordinates: -15.244, -63.194
+Municipalitys: 3
+
+#### Ascención de Guarayos (Ascencion de Guarayos)
+
+Code: BO071501, Coordinates: -15.239, -63.595
+
+#### El Puente
+
+Code: BO071503, Coordinates: -16.158, -63.267
+
+#### Urubicha
+
+Code: BO071502, Coordinates: -14.913, -63.12
+
+### Ichilo
+
+Code: BO0704, Coordinates: -16.913, -64.353
+Municipalitys: 4
+
+#### Buena Vista
+
+Code: BO070401, Coordinates: -17.677, -63.815
+
+#### San Carlos
+
+Code: BO070402, Coordinates: -17.318, -63.698
+
+#### San Juan
+
+Code: BO070404, Coordinates: -16.827, -64.025
+
+#### Yapacaní (Yapacani)
+
+Code: BO070403, Coordinates: -16.717, -64.458
+
+### Manuel María Caballero (Manuel Maria Caballero)
+
+Code: BO0713, Coordinates: -17.829, -64.515
+Municipalitys: 2
+
+#### Comarapa
+
+Code: BO071301, Coordinates: -17.829, -64.515
+
+#### Saipina
+
+Code: BO071302, Coordinates: -18.042, -64.632
+
+### Ñuflo De Chávez (Nuflo De Chavez)
+
+Code: BO0711, Coordinates: -15.631, -62.036
+Municipalitys: 6
+
+#### Concepción (Concepcion)
+
+Code: BO071101, Coordinates: -15.401, -62.02
+
+#### Cuatro Cañadas (Cuatro Canadas)
+
+Code: BO071106, Coordinates: -17.265, -62.163
+
+#### San Antonio de Lomerio
+
+Code: BO071104, Coordinates: -16.78, -61.883
+
+#### San Javier
+
+Code: BO071102, Coordinates: -16.209, -62.469
+
+#### San Julián (San Julian)
+
+Code: BO071103, Coordinates: -16.834, -62.735
+
+#### San Ramón (San Ramon)
+
+Code: BO071105, Coordinates: -16.59, -62.41
+
+### Obispo Santistéban (Obispo Santisteban)
+
+Code: BO0710, Coordinates: -16.734, -63.387
+Municipalitys: 5
+
+#### Fernández Alonso (Fernandez Alonso)
+
+Code: BO071004, Coordinates: -16.868, -63.207
+
+#### General Saavedra
+
+Code: BO071002, Coordinates: -17.142, -63.152
+
+#### Mineros
+
+Code: BO071003, Coordinates: -17.055, -63.262
+
+#### Montero
+
+Code: BO071001, Coordinates: -17.341, -63.243
+
+#### San Pedro
+
+Code: BO071005, Coordinates: -16.503, -63.648
+
+### Sara
+
+Code: BO0706, Coordinates: -16.792, -63.783
+Municipalitys: 3
+
+#### Colpa Bélgica (Colpa Belgica)
+
+Code: BO070603, Coordinates: -17.539, -63.305
+
+#### Portachuelo
+
+Code: BO070601, Coordinates: -17.391, -63.419
+
+#### Santa Rosa
+
+Code: BO070602, Coordinates: -16.574, -63.863
+
+### Vallegrande
+
+Code: BO0708, Coordinates: -18.672, -63.98
+Municipalitys: 5
+
+#### Moromoro
+
+Code: BO070803, Coordinates: -18.357, -64.349
+
+#### Postrervalle
+
+Code: BO070804, Coordinates: -18.62, -63.798
+
+#### Pucará (Pucara)
+
+Code: BO070805, Coordinates: -18.791, -64.193
+
+#### Trigal
+
+Code: BO070802, Coordinates: -18.303, -64.136
+
+#### Vallegrande
+
+Code: BO070801, Coordinates: -18.738, -63.969
+
+### Velasco
+
+Code: BO0703, Coordinates: -15.456, -60.878
+Municipalitys: 3
+
+#### San Ignacio
+
+Code: BO070301, Coordinates: -15.106, -61.024
+
+#### San Miguel
+
+Code: BO070302, Coordinates: -16.803, -61.27
+
+#### San Rafael
+
+Code: BO070303, Coordinates: -16.827, -60.199
+
+### Warnes
+
+Code: BO0702, Coordinates: -17.355, -62.951
+Municipalitys: 2
+
+#### Okinawa Uno
+
+Code: BO070202, Coordinates: -17.325, -62.832
+
+#### Warnes
+
+Code: BO070201, Coordinates: -17.355, -63.052
+

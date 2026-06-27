@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO050301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Betanzos",
+      "en": "Betanzos",
+      "slug": "betanzos-bo050301"
+    },
+    "code": {
+      "id": "BO050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0503",
+      "level": 2,
+      "name": {
+        "local": "Cornelio Saavedra",
+        "en": "Cornelio Saavedra",
+        "slug": "cornelio-saavedra-bo0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0503",
+        "level": 2,
+        "name": {
+          "local": "Cornelio Saavedra",
+          "en": "Cornelio Saavedra",
+          "slug": "cornelio-saavedra-bo0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.437",
+      "lon": "-65.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chaquí",
+      "en": "Chaqui",
+      "slug": "chaqui-bo050302"
+    },
+    "code": {
+      "id": "BO050302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0503",
+      "level": 2,
+      "name": {
+        "local": "Cornelio Saavedra",
+        "en": "Cornelio Saavedra",
+        "slug": "cornelio-saavedra-bo0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0503",
+        "level": 2,
+        "name": {
+          "local": "Cornelio Saavedra",
+          "en": "Cornelio Saavedra",
+          "slug": "cornelio-saavedra-bo0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.603",
+      "lon": "-65.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO050303",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacobamba",
+      "en": "Tacobamba",
+      "slug": "tacobamba-bo050303"
+    },
+    "code": {
+      "id": "BO050303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0503",
+      "level": 2,
+      "name": {
+        "local": "Cornelio Saavedra",
+        "en": "Cornelio Saavedra",
+        "slug": "cornelio-saavedra-bo0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0503",
+        "level": 2,
+        "name": {
+          "local": "Cornelio Saavedra",
+          "en": "Cornelio Saavedra",
+          "slug": "cornelio-saavedra-bo0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.21",
+      "lon": "-65.547"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

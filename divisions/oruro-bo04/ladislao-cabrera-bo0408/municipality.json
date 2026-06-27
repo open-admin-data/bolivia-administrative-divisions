@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO040802",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pampa Aullagas",
+      "en": "Pampa Aullagas",
+      "slug": "pampa-aullagas-bo040802"
+    },
+    "code": {
+      "id": "BO040802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0408",
+      "level": 2,
+      "name": {
+        "local": "Ladislao Cabrera",
+        "en": "Ladislao Cabrera",
+        "slug": "ladislao-cabrera-bo0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0408",
+        "level": 2,
+        "name": {
+          "local": "Ladislao Cabrera",
+          "en": "Ladislao Cabrera",
+          "slug": "ladislao-cabrera-bo0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.26",
+      "lon": "-67.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040801",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salinas de Garcí Mendoza",
+      "en": "Salinas de Garci Mendoza",
+      "slug": "salinas-de-garci-mendoza-bo040801"
+    },
+    "code": {
+      "id": "BO040801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0408",
+      "level": 2,
+      "name": {
+        "local": "Ladislao Cabrera",
+        "en": "Ladislao Cabrera",
+        "slug": "ladislao-cabrera-bo0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0408",
+        "level": 2,
+        "name": {
+          "local": "Ladislao Cabrera",
+          "en": "Ladislao Cabrera",
+          "slug": "ladislao-cabrera-bo0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.468",
+      "lon": "-67.52"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

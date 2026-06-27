@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BO021203",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Batallas",
+      "en": "Batallas",
+      "slug": "batallas-bo021203"
+    },
+    "code": {
+      "id": "BO021203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0212",
+      "level": 2,
+      "name": {
+        "local": "Los Andes",
+        "en": "Los Andes",
+        "slug": "los-andes-bo0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0212",
+        "level": 2,
+        "name": {
+          "local": "Los Andes",
+          "en": "Los Andes",
+          "slug": "los-andes-bo0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.171",
+      "lon": "-68.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Laja",
+      "en": "Laja",
+      "slug": "laja-bo021202"
+    },
+    "code": {
+      "id": "BO021202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0212",
+      "level": 2,
+      "name": {
+        "local": "Los Andes",
+        "en": "Los Andes",
+        "slug": "los-andes-bo0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0212",
+        "level": 2,
+        "name": {
+          "local": "Los Andes",
+          "en": "Los Andes",
+          "slug": "los-andes-bo0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.617",
+      "lon": "-68.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pucarani",
+      "en": "Pucarani",
+      "slug": "pucarani-bo021201"
+    },
+    "code": {
+      "id": "BO021201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0212",
+      "level": 2,
+      "name": {
+        "local": "Los Andes",
+        "en": "Los Andes",
+        "slug": "los-andes-bo0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0212",
+        "level": 2,
+        "name": {
+          "local": "Los Andes",
+          "en": "Los Andes",
+          "slug": "los-andes-bo0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.321",
+      "lon": "-68.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021204",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Pérez",
+      "en": "Puerto Perez",
+      "slug": "puerto-perez-bo021204"
+    },
+    "code": {
+      "id": "BO021204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0212",
+      "level": 2,
+      "name": {
+        "local": "Los Andes",
+        "en": "Los Andes",
+        "slug": "los-andes-bo0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0212",
+        "level": 2,
+        "name": {
+          "local": "Los Andes",
+          "en": "Los Andes",
+          "slug": "los-andes-bo0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.32",
+      "lon": "-68.672"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

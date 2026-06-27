@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO080703",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Siles",
+      "en": "Puerto Siles",
+      "slug": "puerto-siles-bo080703"
+    },
+    "code": {
+      "id": "BO080703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0807",
+      "level": 2,
+      "name": {
+        "local": "Mamoré",
+        "en": "Mamore",
+        "slug": "mamore-bo0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0807",
+        "level": 2,
+        "name": {
+          "local": "Mamoré",
+          "en": "Mamore",
+          "slug": "mamore-bo0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.379",
+      "lon": "-65.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080701",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Joaquín",
+      "en": "San Joaquin",
+      "slug": "san-joaquin-bo080701"
+    },
+    "code": {
+      "id": "BO080701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0807",
+      "level": 2,
+      "name": {
+        "local": "Mamoré",
+        "en": "Mamore",
+        "slug": "mamore-bo0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0807",
+        "level": 2,
+        "name": {
+          "local": "Mamoré",
+          "en": "Mamore",
+          "slug": "mamore-bo0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.973",
+      "lon": "-64.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080702",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ramón",
+      "en": "San Ramon",
+      "slug": "san-ramon-bo080702"
+    },
+    "code": {
+      "id": "BO080702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0807",
+      "level": 2,
+      "name": {
+        "local": "Mamoré",
+        "en": "Mamore",
+        "slug": "mamore-bo0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0807",
+        "level": 2,
+        "name": {
+          "local": "Mamoré",
+          "en": "Mamore",
+          "slug": "mamore-bo0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.342",
+      "lon": "-64.558"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

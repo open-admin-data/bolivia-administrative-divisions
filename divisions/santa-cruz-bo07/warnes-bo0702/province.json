@@ -1,0 +1,47 @@
+{
+  "id": "BO0702",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Warnes",
+    "en": "Warnes",
+    "slug": "warnes-bo0702"
+  },
+  "code": {
+    "id": "BO0702",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO07",
+    "level": 1,
+    "name": {
+      "local": "Santa Cruz",
+      "en": "Santa Cruz",
+      "slug": "santa-cruz-bo07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.355",
+    "lon": "-62.951"
+  },
+  "metadata": {},
+  "source": {}
+}

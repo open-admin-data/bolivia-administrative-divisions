@@ -1,0 +1,47 @@
+{
+  "id": "BO0509",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Nor Lipez",
+    "en": "Nor Lipez",
+    "slug": "nor-lipez-bo0509"
+  },
+  "code": {
+    "id": "BO0509",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO05",
+    "level": 1,
+    "name": {
+      "local": "Potosí",
+      "en": "Potosi",
+      "slug": "potosi-bo05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.857",
+    "lon": "-67.623"
+  },
+  "metadata": {},
+  "source": {}
+}

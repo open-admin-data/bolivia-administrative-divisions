@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO030501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arani",
+      "en": "Arani",
+      "slug": "arani-bo030501"
+    },
+    "code": {
+      "id": "BO030501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0305",
+      "level": 2,
+      "name": {
+        "local": "Arani",
+        "en": "Arani",
+        "slug": "arani-bo0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0305",
+        "level": 2,
+        "name": {
+          "local": "Arani",
+          "en": "Arani",
+          "slug": "arani-bo0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.599",
+      "lon": "-65.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030502",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vacas",
+      "en": "Vacas",
+      "slug": "vacas-bo030502"
+    },
+    "code": {
+      "id": "BO030502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0305",
+      "level": 2,
+      "name": {
+        "local": "Arani",
+        "en": "Arani",
+        "slug": "arani-bo0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0305",
+        "level": 2,
+        "name": {
+          "local": "Arani",
+          "en": "Arani",
+          "slug": "arani-bo0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.599",
+      "lon": "-65.602"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

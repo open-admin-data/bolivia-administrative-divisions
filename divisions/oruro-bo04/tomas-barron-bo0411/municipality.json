@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO041101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Eucaliptus",
+      "en": "Eucaliptus",
+      "slug": "eucaliptus-bo041101"
+    },
+    "code": {
+      "id": "BO041101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0411",
+      "level": 2,
+      "name": {
+        "local": "Tomás Barrón",
+        "en": "Tomas Barron",
+        "slug": "tomas-barron-bo0411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0411",
+        "level": 2,
+        "name": {
+          "local": "Tomás Barrón",
+          "en": "Tomas Barron",
+          "slug": "tomas-barron-bo0411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.629",
+      "lon": "-67.422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

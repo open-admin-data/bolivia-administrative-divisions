@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.municipality,geo.lat,geo.lon
+BO0801,Cercado,Cercado,cercado-bo0801,BO0801,2,-14.531,-64.374
+BO0803,General José Ballivián,General Jose Ballivian,general-jose-ballivian-bo0803,BO0803,4,-13.904,-67.014
+BO0808,Iténez,Itenez,itenez-bo0808,BO0808,3,-13.372,-63.185
+BO0807,Mamoré,Mamore,mamore-bo0807,BO0807,3,-13.036,-64.644
+BO0806,Marbán,Marban,marban-bo0806,BO0806,2,-15.565,-64.402
+BO0805,Moxos,Moxos,moxos-bo0805,BO0805,1,-15.323,-65.664
+BO0802,Vaca Diez,Vaca Diez,vaca-diez-bo0802,BO0802,2,-11.194,-65.755
+BO0804,Yacuma,Yacuma,yacuma-bo0804,BO0804,2,-13.783,-65.896

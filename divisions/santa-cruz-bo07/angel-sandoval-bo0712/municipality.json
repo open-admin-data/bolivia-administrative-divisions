@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO071201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Matías",
+      "en": "San Matias",
+      "slug": "san-matias-bo071201"
+    },
+    "code": {
+      "id": "BO071201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0712",
+      "level": 2,
+      "name": {
+        "local": "Angel Sandoval",
+        "en": "Angel Sandoval",
+        "slug": "angel-sandoval-bo0712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0712",
+        "level": 2,
+        "name": {
+          "local": "Angel Sandoval",
+          "en": "Angel Sandoval",
+          "slug": "angel-sandoval-bo0712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.189",
+      "lon": "-58.957"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

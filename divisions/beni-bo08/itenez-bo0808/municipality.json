@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO080802",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baures",
+      "en": "Baures",
+      "slug": "baures-bo080802"
+    },
+    "code": {
+      "id": "BO080802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0808",
+      "level": 2,
+      "name": {
+        "local": "Iténez",
+        "en": "Itenez",
+        "slug": "itenez-bo0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0808",
+        "level": 2,
+        "name": {
+          "local": "Iténez",
+          "en": "Itenez",
+          "slug": "itenez-bo0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.576",
+      "lon": "-62.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080803",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huacaraje",
+      "en": "Huacaraje",
+      "slug": "huacaraje-bo080803"
+    },
+    "code": {
+      "id": "BO080803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0808",
+      "level": 2,
+      "name": {
+        "local": "Iténez",
+        "en": "Itenez",
+        "slug": "itenez-bo0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0808",
+        "level": 2,
+        "name": {
+          "local": "Iténez",
+          "en": "Itenez",
+          "slug": "itenez-bo0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.852",
+      "lon": "-64.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080801",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Magdalena",
+      "en": "Magdalena",
+      "slug": "magdalena-bo080801"
+    },
+    "code": {
+      "id": "BO080801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0808",
+      "level": 2,
+      "name": {
+        "local": "Iténez",
+        "en": "Itenez",
+        "slug": "itenez-bo0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0808",
+        "level": 2,
+        "name": {
+          "local": "Iténez",
+          "en": "Itenez",
+          "slug": "itenez-bo0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.94",
+      "lon": "-63.638"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

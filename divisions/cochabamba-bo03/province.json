@@ -1,0 +1,754 @@
+[
+  {
+    "id": "BO0305",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Arani",
+      "en": "Arani",
+      "slug": "arani-bo0305"
+    },
+    "code": {
+      "id": "BO0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.6",
+      "lon": "-65.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0306",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Arque",
+      "en": "Arque",
+      "slug": "arque-bo0306"
+    },
+    "code": {
+      "id": "BO0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.815",
+      "lon": "-66.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0303",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ayopaya",
+      "en": "Ayopaya",
+      "slug": "ayopaya-bo0303"
+    },
+    "code": {
+      "id": "BO0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.614",
+      "lon": "-66.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0315",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bolivar",
+      "en": "Bolivar",
+      "slug": "bolivar-bo0315"
+    },
+    "code": {
+      "id": "BO0315",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.012",
+      "lon": "-66.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0302",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Campero",
+      "en": "Campero",
+      "slug": "campero-bo0302"
+    },
+    "code": {
+      "id": "BO0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.278",
+      "lon": "-64.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0307",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Capinota",
+      "en": "Capinota",
+      "slug": "capinota-bo0307"
+    },
+    "code": {
+      "id": "BO0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.713",
+      "lon": "-66.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0312",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Carrasco",
+      "en": "Carrasco",
+      "slug": "carrasco-bo0312"
+    },
+    "code": {
+      "id": "BO0312",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.992",
+      "lon": "-64.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0301",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cercado",
+      "en": "Cercado",
+      "slug": "cercado-bo0301"
+    },
+    "code": {
+      "id": "BO0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.402",
+      "lon": "-66.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0310",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Chapare",
+      "en": "Chapare",
+      "slug": "chapare-bo0310"
+    },
+    "code": {
+      "id": "BO0310",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.654",
+      "lon": "-65.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0304",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Esteban Arze",
+      "en": "Esteban Arze",
+      "slug": "esteban-arze-bo0304"
+    },
+    "code": {
+      "id": "BO0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.74",
+      "lon": "-65.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0308",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Germán Jordán",
+      "en": "German Jordan",
+      "slug": "german-jordan-bo0308"
+    },
+    "code": {
+      "id": "BO0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.595",
+      "lon": "-65.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0313",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mizque",
+      "en": "Mizque",
+      "slug": "mizque-bo0313"
+    },
+    "code": {
+      "id": "BO0313",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.029",
+      "lon": "-65.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0314",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Punata",
+      "en": "Punata",
+      "slug": "punata-bo0314"
+    },
+    "code": {
+      "id": "BO0314",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.592",
+      "lon": "-65.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0309",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Quillacollo",
+      "en": "Quillacollo",
+      "slug": "quillacollo-bo0309"
+    },
+    "code": {
+      "id": "BO0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.394",
+      "lon": "-66.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0311",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tapacarí",
+      "en": "Tapacari",
+      "slug": "tapacari-bo0311"
+    },
+    "code": {
+      "id": "BO0311",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.576",
+      "lon": "-66.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0316",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tiraque",
+      "en": "Tiraque",
+      "slug": "tiraque-bo0316"
+    },
+    "code": {
+      "id": "BO0316",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.186",
+      "lon": "-65.412"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

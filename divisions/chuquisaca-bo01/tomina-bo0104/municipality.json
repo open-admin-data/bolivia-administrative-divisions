@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO010404",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alcalá",
+      "en": "Alcala",
+      "slug": "alcala-bo010404"
+    },
+    "code": {
+      "id": "BO010404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0104",
+      "level": 2,
+      "name": {
+        "local": "Tomina",
+        "en": "Tomina",
+        "slug": "tomina-bo0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0104",
+        "level": 2,
+        "name": {
+          "local": "Tomina",
+          "en": "Tomina",
+          "slug": "tomina-bo0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.427",
+      "lon": "-64.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010405",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Villar",
+      "en": "El Villar",
+      "slug": "el-villar-bo010405"
+    },
+    "code": {
+      "id": "BO010405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0104",
+      "level": 2,
+      "name": {
+        "local": "Tomina",
+        "en": "Tomina",
+        "slug": "tomina-bo0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0104",
+        "level": 2,
+        "name": {
+          "local": "Tomina",
+          "en": "Tomina",
+          "slug": "tomina-bo0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.691",
+      "lon": "-64.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Padilla",
+      "en": "Padilla",
+      "slug": "padilla-bo010401"
+    },
+    "code": {
+      "id": "BO010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0104",
+      "level": 2,
+      "name": {
+        "local": "Tomina",
+        "en": "Tomina",
+        "slug": "tomina-bo0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0104",
+        "level": 2,
+        "name": {
+          "local": "Tomina",
+          "en": "Tomina",
+          "slug": "tomina-bo0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.416",
+      "lon": "-64.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010403",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sopachui",
+      "en": "Sopachui",
+      "slug": "sopachui-bo010403"
+    },
+    "code": {
+      "id": "BO010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0104",
+      "level": 2,
+      "name": {
+        "local": "Tomina",
+        "en": "Tomina",
+        "slug": "tomina-bo0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0104",
+        "level": 2,
+        "name": {
+          "local": "Tomina",
+          "en": "Tomina",
+          "slug": "tomina-bo0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.445",
+      "lon": "-64.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tomina",
+      "en": "Tomina",
+      "slug": "tomina-bo010402"
+    },
+    "code": {
+      "id": "BO010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0104",
+      "level": 2,
+      "name": {
+        "local": "Tomina",
+        "en": "Tomina",
+        "slug": "tomina-bo0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0104",
+        "level": 2,
+        "name": {
+          "local": "Tomina",
+          "en": "Tomina",
+          "slug": "tomina-bo0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.142",
+      "lon": "-64.49"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

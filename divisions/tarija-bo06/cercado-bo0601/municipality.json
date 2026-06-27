@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO060101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tarija",
+      "en": "Tarija",
+      "slug": "tarija-bo060101"
+    },
+    "code": {
+      "id": "BO060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0601",
+      "level": 2,
+      "name": {
+        "local": "Cercado",
+        "en": "Cercado",
+        "slug": "cercado-bo0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0601",
+        "level": 2,
+        "name": {
+          "local": "Cercado",
+          "en": "Cercado",
+          "slug": "cercado-bo0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.552",
+      "lon": "-64.57"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

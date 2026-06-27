@@ -1,0 +1,34 @@
+{
+  "id": "BO09",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Pando",
+    "en": "Pando",
+    "slug": "pando-bo09"
+  },
+  "code": {
+    "id": "BO09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 5,
+    "municipality": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.084",
+    "lon": "-67.359"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bo/departments/pando-bo09/",
+    "api": "https://openadmindata.org/api/bo/"
+  }
+}

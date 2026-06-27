@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BO040102",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caracollo",
+      "en": "Caracollo",
+      "slug": "caracollo-bo040102"
+    },
+    "code": {
+      "id": "BO040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0401",
+      "level": 2,
+      "name": {
+        "local": "Cercado",
+        "en": "Cercado",
+        "slug": "cercado-bo0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0401",
+        "level": 2,
+        "name": {
+          "local": "Cercado",
+          "en": "Cercado",
+          "slug": "cercado-bo0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.663",
+      "lon": "-67.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040103",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Choro",
+      "en": "El Choro",
+      "slug": "el-choro-bo040103"
+    },
+    "code": {
+      "id": "BO040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0401",
+      "level": 2,
+      "name": {
+        "local": "Cercado",
+        "en": "Cercado",
+        "slug": "cercado-bo0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0401",
+        "level": 2,
+        "name": {
+          "local": "Cercado",
+          "en": "Cercado",
+          "slug": "cercado-bo0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.275",
+      "lon": "-67.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Oruro",
+      "en": "Oruro",
+      "slug": "oruro-bo040101"
+    },
+    "code": {
+      "id": "BO040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0401",
+      "level": 2,
+      "name": {
+        "local": "Cercado",
+        "en": "Cercado",
+        "slug": "cercado-bo0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0401",
+        "level": 2,
+        "name": {
+          "local": "Cercado",
+          "en": "Cercado",
+          "slug": "cercado-bo0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.958",
+      "lon": "-67.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040104",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paria",
+      "en": "Paria",
+      "slug": "paria-bo040104"
+    },
+    "code": {
+      "id": "BO040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0401",
+      "level": 2,
+      "name": {
+        "local": "Cercado",
+        "en": "Cercado",
+        "slug": "cercado-bo0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0401",
+        "level": 2,
+        "name": {
+          "local": "Cercado",
+          "en": "Cercado",
+          "slug": "cercado-bo0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.854",
+      "lon": "-66.958"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BO010303",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mojocoya",
+      "en": "Mojocoya",
+      "slug": "mojocoya-bo010303"
+    },
+    "code": {
+      "id": "BO010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0103",
+      "level": 2,
+      "name": {
+        "local": "Zudáñez",
+        "en": "Zudanez",
+        "slug": "zudanez-bo0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0103",
+        "level": 2,
+        "name": {
+          "local": "Zudáñez",
+          "en": "Zudanez",
+          "slug": "zudanez-bo0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.792",
+      "lon": "-64.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Presto",
+      "en": "Presto",
+      "slug": "presto-bo010302"
+    },
+    "code": {
+      "id": "BO010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0103",
+      "level": 2,
+      "name": {
+        "local": "Zudáñez",
+        "en": "Zudanez",
+        "slug": "zudanez-bo0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0103",
+        "level": 2,
+        "name": {
+          "local": "Zudáñez",
+          "en": "Zudanez",
+          "slug": "zudanez-bo0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.748",
+      "lon": "-64.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010304",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Ricardo Mugia - Icla",
+      "en": "Villa Ricardo Mugia - Icla",
+      "slug": "villa-ricardo-mugia-icla-bo010304"
+    },
+    "code": {
+      "id": "BO010304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0103",
+      "level": 2,
+      "name": {
+        "local": "Zudáñez",
+        "en": "Zudanez",
+        "slug": "zudanez-bo0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0103",
+        "level": 2,
+        "name": {
+          "local": "Zudáñez",
+          "en": "Zudanez",
+          "slug": "zudanez-bo0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.471",
+      "lon": "-64.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zudañez",
+      "en": "Zudanez",
+      "slug": "zudanez-bo010301"
+    },
+    "code": {
+      "id": "BO010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0103",
+      "level": 2,
+      "name": {
+        "local": "Zudáñez",
+        "en": "Zudanez",
+        "slug": "zudanez-bo0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0103",
+        "level": 2,
+        "name": {
+          "local": "Zudáñez",
+          "en": "Zudanez",
+          "slug": "zudanez-bo0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.13",
+      "lon": "-64.673"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

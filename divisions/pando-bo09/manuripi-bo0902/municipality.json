@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO090203",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Filadelfia",
+      "en": "Filadelfia",
+      "slug": "filadelfia-bo090203"
+    },
+    "code": {
+      "id": "BO090203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0902",
+      "level": 2,
+      "name": {
+        "local": "Manuripi",
+        "en": "Manuripi",
+        "slug": "manuripi-bo0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0902",
+        "level": 2,
+        "name": {
+          "local": "Manuripi",
+          "en": "Manuripi",
+          "slug": "manuripi-bo0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.862",
+      "lon": "-68.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO090201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Rico",
+      "en": "Puerto Rico",
+      "slug": "puerto-rico-bo090201"
+    },
+    "code": {
+      "id": "BO090201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0902",
+      "level": 2,
+      "name": {
+        "local": "Manuripi",
+        "en": "Manuripi",
+        "slug": "manuripi-bo0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0902",
+        "level": 2,
+        "name": {
+          "local": "Manuripi",
+          "en": "Manuripi",
+          "slug": "manuripi-bo0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.408",
+      "lon": "-67.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO090202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro",
+      "en": "San Pedro",
+      "slug": "san-pedro-bo090202"
+    },
+    "code": {
+      "id": "BO090202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0902",
+      "level": 2,
+      "name": {
+        "local": "Manuripi",
+        "en": "Manuripi",
+        "slug": "manuripi-bo0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      },
+      {
+        "id": "BO0902",
+        "level": 2,
+        "name": {
+          "local": "Manuripi",
+          "en": "Manuripi",
+          "slug": "manuripi-bo0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.07",
+      "lon": "-66.724"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

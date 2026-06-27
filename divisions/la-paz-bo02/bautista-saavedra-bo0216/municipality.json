@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO021601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Charazani",
+      "en": "Charazani",
+      "slug": "charazani-bo021601"
+    },
+    "code": {
+      "id": "BO021601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0216",
+      "level": 2,
+      "name": {
+        "local": "Bautista Saavedra",
+        "en": "Bautista Saavedra",
+        "slug": "bautista-saavedra-bo0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0216",
+        "level": 2,
+        "name": {
+          "local": "Bautista Saavedra",
+          "en": "Bautista Saavedra",
+          "slug": "bautista-saavedra-bo0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.071",
+      "lon": "-68.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021602",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Curva",
+      "en": "Curva",
+      "slug": "curva-bo021602"
+    },
+    "code": {
+      "id": "BO021602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0216",
+      "level": 2,
+      "name": {
+        "local": "Bautista Saavedra",
+        "en": "Bautista Saavedra",
+        "slug": "bautista-saavedra-bo0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0216",
+        "level": 2,
+        "name": {
+          "local": "Bautista Saavedra",
+          "en": "Bautista Saavedra",
+          "slug": "bautista-saavedra-bo0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.964",
+      "lon": "-68.926"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

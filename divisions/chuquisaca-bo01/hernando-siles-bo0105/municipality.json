@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO010502",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huacareta",
+      "en": "Huacareta",
+      "slug": "huacareta-bo010502"
+    },
+    "code": {
+      "id": "BO010502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0105",
+      "level": 2,
+      "name": {
+        "local": "Hernando Siles",
+        "en": "Hernando Siles",
+        "slug": "hernando-siles-bo0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0105",
+        "level": 2,
+        "name": {
+          "local": "Hernando Siles",
+          "en": "Hernando Siles",
+          "slug": "hernando-siles-bo0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.538",
+      "lon": "-64.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO010501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monteagudo",
+      "en": "Monteagudo",
+      "slug": "monteagudo-bo010501"
+    },
+    "code": {
+      "id": "BO010501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0105",
+      "level": 2,
+      "name": {
+        "local": "Hernando Siles",
+        "en": "Hernando Siles",
+        "slug": "hernando-siles-bo0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0105",
+        "level": 2,
+        "name": {
+          "local": "Hernando Siles",
+          "en": "Hernando Siles",
+          "slug": "hernando-siles-bo0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.999",
+      "lon": "-64.096"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

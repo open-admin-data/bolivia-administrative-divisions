@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO080202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guayaramerín",
+      "en": "Guayaramerin",
+      "slug": "guayaramerin-bo080202"
+    },
+    "code": {
+      "id": "BO080202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0802",
+      "level": 2,
+      "name": {
+        "local": "Vaca Diez",
+        "en": "Vaca Diez",
+        "slug": "vaca-diez-bo0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0802",
+        "level": 2,
+        "name": {
+          "local": "Vaca Diez",
+          "en": "Vaca Diez",
+          "slug": "vaca-diez-bo0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.191",
+      "lon": "-65.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riberalta",
+      "en": "Riberalta",
+      "slug": "riberalta-bo080201"
+    },
+    "code": {
+      "id": "BO080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0802",
+      "level": 2,
+      "name": {
+        "local": "Vaca Diez",
+        "en": "Vaca Diez",
+        "slug": "vaca-diez-bo0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0802",
+        "level": 2,
+        "name": {
+          "local": "Vaca Diez",
+          "en": "Vaca Diez",
+          "slug": "vaca-diez-bo0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.348",
+      "lon": "-66.002"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

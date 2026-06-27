@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO021402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coripata",
+      "en": "Coripata",
+      "slug": "coripata-bo021402"
+    },
+    "code": {
+      "id": "BO021402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0214",
+      "level": 2,
+      "name": {
+        "local": "Nor Yungas",
+        "en": "Nor Yungas",
+        "slug": "nor-yungas-bo0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0214",
+        "level": 2,
+        "name": {
+          "local": "Nor Yungas",
+          "en": "Nor Yungas",
+          "slug": "nor-yungas-bo0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.207",
+      "lon": "-67.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coroico",
+      "en": "Coroico",
+      "slug": "coroico-bo021401"
+    },
+    "code": {
+      "id": "BO021401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0214",
+      "level": 2,
+      "name": {
+        "local": "Nor Yungas",
+        "en": "Nor Yungas",
+        "slug": "nor-yungas-bo0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0214",
+        "level": 2,
+        "name": {
+          "local": "Nor Yungas",
+          "en": "Nor Yungas",
+          "slug": "nor-yungas-bo0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.175",
+      "lon": "-67.783"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

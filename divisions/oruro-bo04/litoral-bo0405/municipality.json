@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO040503",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cruz de Machacamarca",
+      "en": "Cruz de Machacamarca",
+      "slug": "cruz-de-machacamarca-bo040503"
+    },
+    "code": {
+      "id": "BO040503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0405",
+      "level": 2,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-bo0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0405",
+        "level": 2,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-bo0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.709",
+      "lon": "-68.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040502",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Escara",
+      "en": "Escara",
+      "slug": "escara-bo040502"
+    },
+    "code": {
+      "id": "BO040502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0405",
+      "level": 2,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-bo0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0405",
+        "level": 2,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-bo0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.702",
+      "lon": "-68.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040505",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Esmeralda",
+      "en": "Esmeralda",
+      "slug": "esmeralda-bo040505"
+    },
+    "code": {
+      "id": "BO040505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0405",
+      "level": 2,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-bo0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0405",
+        "level": 2,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-bo0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.93",
+      "lon": "-67.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huachacalla",
+      "en": "Huachacalla",
+      "slug": "huachacalla-bo040501"
+    },
+    "code": {
+      "id": "BO040501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0405",
+      "level": 2,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-bo0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0405",
+        "level": 2,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-bo0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.791",
+      "lon": "-68.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO040504",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yunguyo del Litoral",
+      "en": "Yunguyo del Litoral",
+      "slug": "yunguyo-del-litoral-bo040504"
+    },
+    "code": {
+      "id": "BO040504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0405",
+      "level": 2,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-bo0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0405",
+        "level": 2,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-bo0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.89",
+      "lon": "-68.352"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

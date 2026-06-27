@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO071501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ascención de Guarayos",
+      "en": "Ascencion de Guarayos",
+      "slug": "ascencion-de-guarayos-bo071501"
+    },
+    "code": {
+      "id": "BO071501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0715",
+      "level": 2,
+      "name": {
+        "local": "Guarayos",
+        "en": "Guarayos",
+        "slug": "guarayos-bo0715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0715",
+        "level": 2,
+        "name": {
+          "local": "Guarayos",
+          "en": "Guarayos",
+          "slug": "guarayos-bo0715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.239",
+      "lon": "-63.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071503",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Puente",
+      "en": "El Puente",
+      "slug": "el-puente-bo071503"
+    },
+    "code": {
+      "id": "BO071503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0715",
+      "level": 2,
+      "name": {
+        "local": "Guarayos",
+        "en": "Guarayos",
+        "slug": "guarayos-bo0715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0715",
+        "level": 2,
+        "name": {
+          "local": "Guarayos",
+          "en": "Guarayos",
+          "slug": "guarayos-bo0715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.158",
+      "lon": "-63.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071502",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Urubicha",
+      "en": "Urubicha",
+      "slug": "urubicha-bo071502"
+    },
+    "code": {
+      "id": "BO071502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0715",
+      "level": 2,
+      "name": {
+        "local": "Guarayos",
+        "en": "Guarayos",
+        "slug": "guarayos-bo0715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0715",
+        "level": 2,
+        "name": {
+          "local": "Guarayos",
+          "en": "Guarayos",
+          "slug": "guarayos-bo0715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.913",
+      "lon": "-63.12"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

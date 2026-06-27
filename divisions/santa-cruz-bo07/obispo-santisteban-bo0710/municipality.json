@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO071004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fernández Alonso",
+      "en": "Fernandez Alonso",
+      "slug": "fernandez-alonso-bo071004"
+    },
+    "code": {
+      "id": "BO071004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0710",
+      "level": 2,
+      "name": {
+        "local": "Obispo Santistéban",
+        "en": "Obispo Santisteban",
+        "slug": "obispo-santisteban-bo0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0710",
+        "level": 2,
+        "name": {
+          "local": "Obispo Santistéban",
+          "en": "Obispo Santisteban",
+          "slug": "obispo-santisteban-bo0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.868",
+      "lon": "-63.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Saavedra",
+      "en": "General Saavedra",
+      "slug": "general-saavedra-bo071002"
+    },
+    "code": {
+      "id": "BO071002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0710",
+      "level": 2,
+      "name": {
+        "local": "Obispo Santistéban",
+        "en": "Obispo Santisteban",
+        "slug": "obispo-santisteban-bo0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0710",
+        "level": 2,
+        "name": {
+          "local": "Obispo Santistéban",
+          "en": "Obispo Santisteban",
+          "slug": "obispo-santisteban-bo0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.142",
+      "lon": "-63.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mineros",
+      "en": "Mineros",
+      "slug": "mineros-bo071003"
+    },
+    "code": {
+      "id": "BO071003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0710",
+      "level": 2,
+      "name": {
+        "local": "Obispo Santistéban",
+        "en": "Obispo Santisteban",
+        "slug": "obispo-santisteban-bo0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0710",
+        "level": 2,
+        "name": {
+          "local": "Obispo Santistéban",
+          "en": "Obispo Santisteban",
+          "slug": "obispo-santisteban-bo0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.055",
+      "lon": "-63.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Montero",
+      "en": "Montero",
+      "slug": "montero-bo071001"
+    },
+    "code": {
+      "id": "BO071001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0710",
+      "level": 2,
+      "name": {
+        "local": "Obispo Santistéban",
+        "en": "Obispo Santisteban",
+        "slug": "obispo-santisteban-bo0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0710",
+        "level": 2,
+        "name": {
+          "local": "Obispo Santistéban",
+          "en": "Obispo Santisteban",
+          "slug": "obispo-santisteban-bo0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.341",
+      "lon": "-63.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro",
+      "en": "San Pedro",
+      "slug": "san-pedro-bo071005"
+    },
+    "code": {
+      "id": "BO071005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0710",
+      "level": 2,
+      "name": {
+        "local": "Obispo Santistéban",
+        "en": "Obispo Santisteban",
+        "slug": "obispo-santisteban-bo0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0710",
+        "level": 2,
+        "name": {
+          "local": "Obispo Santistéban",
+          "en": "Obispo Santisteban",
+          "slug": "obispo-santisteban-bo0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.503",
+      "lon": "-63.648"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

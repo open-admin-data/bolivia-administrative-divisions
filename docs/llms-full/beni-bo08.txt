@@ -1,0 +1,125 @@
+# Beni — Bolivia Administrative Divisions
+
+> 8 provinces, 19 municipalitys
+> Code: BO08
+> Coordinates: -13.436, -64.644
+> Last updated: 2026-06-27. License: CC-BY-4.0.
+
+## Provinces
+
+### Cercado
+
+Code: BO0801, Coordinates: -14.531, -64.374
+Municipalitys: 2
+
+#### San Javier
+
+Code: BO080102, Coordinates: -14.38, -64.298
+
+#### Trinidad
+
+Code: BO080101, Coordinates: -14.885, -64.708
+
+### General José Ballivián (General Jose Ballivian)
+
+Code: BO0803, Coordinates: -13.904, -67.014
+Municipalitys: 4
+
+#### Puerto Menor de Rurrenabaque
+
+Code: BO080304, Coordinates: -14.695, -67.284
+
+#### Reyes
+
+Code: BO080301, Coordinates: -13.32, -67.066
+
+#### San Borja
+
+Code: BO080302, Coordinates: -15.059, -66.883
+
+#### Santa Rosa
+
+Code: BO080303, Coordinates: -13.183, -66.628
+
+### Iténez (Itenez)
+
+Code: BO0808, Coordinates: -13.372, -63.185
+Municipalitys: 3
+
+#### Baures
+
+Code: BO080802, Coordinates: -13.576, -62.692
+
+#### Huacaraje
+
+Code: BO080803, Coordinates: -13.852, -64.078
+
+#### Magdalena
+
+Code: BO080801, Coordinates: -12.94, -63.638
+
+### Mamoré (Mamore)
+
+Code: BO0807, Coordinates: -13.036, -64.644
+Municipalitys: 3
+
+#### Puerto Siles
+
+Code: BO080703, Coordinates: -12.379, -65.018
+
+#### San Joaquín (San Joaquin)
+
+Code: BO080701, Coordinates: -12.973, -64.823
+
+#### San Ramón (San Ramon)
+
+Code: BO080702, Coordinates: -13.342, -64.558
+
+### Marbán (Marban)
+
+Code: BO0806, Coordinates: -15.565, -64.402
+Municipalitys: 2
+
+#### Loreto
+
+Code: BO080601, Coordinates: -15.683, -64.819
+
+#### San Andrés (San Andres)
+
+Code: BO080602, Coordinates: -15.306, -64.214
+
+### Moxos
+
+Code: BO0805, Coordinates: -15.323, -65.664
+Municipalitys: 1
+
+#### San Ignacio
+
+Code: BO080501, Coordinates: -15.323, -65.664
+
+### Vaca Diez
+
+Code: BO0802, Coordinates: -11.194, -65.755
+Municipalitys: 2
+
+#### Guayaramerín (Guayaramerin)
+
+Code: BO080202, Coordinates: -11.191, -65.498
+
+#### Riberalta
+
+Code: BO080201, Coordinates: -11.348, -66.002
+
+### Yacuma
+
+Code: BO0804, Coordinates: -13.783, -65.896
+Municipalitys: 2
+
+#### Exaltación (Exaltacion)
+
+Code: BO080402, Coordinates: -12.793, -65.764
+
+#### Santa Ana
+
+Code: BO080401, Coordinates: -14.568, -66.064
+

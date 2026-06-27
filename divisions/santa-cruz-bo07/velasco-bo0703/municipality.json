@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO070301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ignacio",
+      "en": "San Ignacio",
+      "slug": "san-ignacio-bo070301"
+    },
+    "code": {
+      "id": "BO070301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0703",
+      "level": 2,
+      "name": {
+        "local": "Velasco",
+        "en": "Velasco",
+        "slug": "velasco-bo0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0703",
+        "level": 2,
+        "name": {
+          "local": "Velasco",
+          "en": "Velasco",
+          "slug": "velasco-bo0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.106",
+      "lon": "-61.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel",
+      "en": "San Miguel",
+      "slug": "san-miguel-bo070302"
+    },
+    "code": {
+      "id": "BO070302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0703",
+      "level": 2,
+      "name": {
+        "local": "Velasco",
+        "en": "Velasco",
+        "slug": "velasco-bo0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0703",
+        "level": 2,
+        "name": {
+          "local": "Velasco",
+          "en": "Velasco",
+          "slug": "velasco-bo0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.803",
+      "lon": "-61.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070303",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Rafael",
+      "en": "San Rafael",
+      "slug": "san-rafael-bo070303"
+    },
+    "code": {
+      "id": "BO070303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0703",
+      "level": 2,
+      "name": {
+        "local": "Velasco",
+        "en": "Velasco",
+        "slug": "velasco-bo0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0703",
+        "level": 2,
+        "name": {
+          "local": "Velasco",
+          "en": "Velasco",
+          "slug": "velasco-bo0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.827",
+      "lon": "-60.199"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO070803",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moromoro",
+      "en": "Moromoro",
+      "slug": "moromoro-bo070803"
+    },
+    "code": {
+      "id": "BO070803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0708",
+      "level": 2,
+      "name": {
+        "local": "Vallegrande",
+        "en": "Vallegrande",
+        "slug": "vallegrande-bo0708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0708",
+        "level": 2,
+        "name": {
+          "local": "Vallegrande",
+          "en": "Vallegrande",
+          "slug": "vallegrande-bo0708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.357",
+      "lon": "-64.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070804",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Postrervalle",
+      "en": "Postrervalle",
+      "slug": "postrervalle-bo070804"
+    },
+    "code": {
+      "id": "BO070804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0708",
+      "level": 2,
+      "name": {
+        "local": "Vallegrande",
+        "en": "Vallegrande",
+        "slug": "vallegrande-bo0708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0708",
+        "level": 2,
+        "name": {
+          "local": "Vallegrande",
+          "en": "Vallegrande",
+          "slug": "vallegrande-bo0708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.62",
+      "lon": "-63.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070805",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pucará",
+      "en": "Pucara",
+      "slug": "pucara-bo070805"
+    },
+    "code": {
+      "id": "BO070805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0708",
+      "level": 2,
+      "name": {
+        "local": "Vallegrande",
+        "en": "Vallegrande",
+        "slug": "vallegrande-bo0708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0708",
+        "level": 2,
+        "name": {
+          "local": "Vallegrande",
+          "en": "Vallegrande",
+          "slug": "vallegrande-bo0708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.791",
+      "lon": "-64.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070802",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trigal",
+      "en": "Trigal",
+      "slug": "trigal-bo070802"
+    },
+    "code": {
+      "id": "BO070802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0708",
+      "level": 2,
+      "name": {
+        "local": "Vallegrande",
+        "en": "Vallegrande",
+        "slug": "vallegrande-bo0708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0708",
+        "level": 2,
+        "name": {
+          "local": "Vallegrande",
+          "en": "Vallegrande",
+          "slug": "vallegrande-bo0708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.303",
+      "lon": "-64.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070801",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vallegrande",
+      "en": "Vallegrande",
+      "slug": "vallegrande-bo070801"
+    },
+    "code": {
+      "id": "BO070801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0708",
+      "level": 2,
+      "name": {
+        "local": "Vallegrande",
+        "en": "Vallegrande",
+        "slug": "vallegrande-bo0708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0708",
+        "level": 2,
+        "name": {
+          "local": "Vallegrande",
+          "en": "Vallegrande",
+          "slug": "vallegrande-bo0708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.738",
+      "lon": "-63.969"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

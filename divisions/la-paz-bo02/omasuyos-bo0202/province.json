@@ -1,0 +1,47 @@
+{
+  "id": "BO0202",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Omasuyos",
+    "en": "Omasuyos",
+    "slug": "omasuyos-bo0202"
+  },
+  "code": {
+    "id": "BO0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO02",
+    "level": 1,
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-bo02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.005",
+    "lon": "-68.621"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "BO020605",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Combaya",
+      "en": "Combaya",
+      "slug": "combaya-bo020605"
+    },
+    "code": {
+      "id": "BO020605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0206",
+      "level": 2,
+      "name": {
+        "local": "Larecaja",
+        "en": "Larecaja",
+        "slug": "larecaja-bo0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0206",
+        "level": 2,
+        "name": {
+          "local": "Larecaja",
+          "en": "Larecaja",
+          "slug": "larecaja-bo0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.814",
+      "lon": "-68.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020602",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guanay",
+      "en": "Guanay",
+      "slug": "guanay-bo020602"
+    },
+    "code": {
+      "id": "BO020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0206",
+      "level": 2,
+      "name": {
+        "local": "Larecaja",
+        "en": "Larecaja",
+        "slug": "larecaja-bo0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0206",
+        "level": 2,
+        "name": {
+          "local": "Larecaja",
+          "en": "Larecaja",
+          "slug": "larecaja-bo0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.684",
+      "lon": "-67.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020607",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mapiri",
+      "en": "Mapiri",
+      "slug": "mapiri-bo020607"
+    },
+    "code": {
+      "id": "BO020607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0206",
+      "level": 2,
+      "name": {
+        "local": "Larecaja",
+        "en": "Larecaja",
+        "slug": "larecaja-bo0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0206",
+        "level": 2,
+        "name": {
+          "local": "Larecaja",
+          "en": "Larecaja",
+          "slug": "larecaja-bo0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.383",
+      "lon": "-68.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020604",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quiabaya",
+      "en": "Quiabaya",
+      "slug": "quiabaya-bo020604"
+    },
+    "code": {
+      "id": "BO020604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0206",
+      "level": 2,
+      "name": {
+        "local": "Larecaja",
+        "en": "Larecaja",
+        "slug": "larecaja-bo0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0206",
+        "level": 2,
+        "name": {
+          "local": "Larecaja",
+          "en": "Larecaja",
+          "slug": "larecaja-bo0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.592",
+      "lon": "-68.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020601",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sorata",
+      "en": "Sorata",
+      "slug": "sorata-bo020601"
+    },
+    "code": {
+      "id": "BO020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0206",
+      "level": 2,
+      "name": {
+        "local": "Larecaja",
+        "en": "Larecaja",
+        "slug": "larecaja-bo0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0206",
+        "level": 2,
+        "name": {
+          "local": "Larecaja",
+          "en": "Larecaja",
+          "slug": "larecaja-bo0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.698",
+      "lon": "-68.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020603",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacacoma",
+      "en": "Tacacoma",
+      "slug": "tacacoma-bo020603"
+    },
+    "code": {
+      "id": "BO020603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0206",
+      "level": 2,
+      "name": {
+        "local": "Larecaja",
+        "en": "Larecaja",
+        "slug": "larecaja-bo0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0206",
+        "level": 2,
+        "name": {
+          "local": "Larecaja",
+          "en": "Larecaja",
+          "slug": "larecaja-bo0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.433",
+      "lon": "-68.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020608",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teoponte",
+      "en": "Teoponte",
+      "slug": "teoponte-bo020608"
+    },
+    "code": {
+      "id": "BO020608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0206",
+      "level": 2,
+      "name": {
+        "local": "Larecaja",
+        "en": "Larecaja",
+        "slug": "larecaja-bo0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0206",
+        "level": 2,
+        "name": {
+          "local": "Larecaja",
+          "en": "Larecaja",
+          "slug": "larecaja-bo0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.44",
+      "lon": "-67.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020606",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tipuani",
+      "en": "Tipuani",
+      "slug": "tipuani-bo020606"
+    },
+    "code": {
+      "id": "BO020606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0206",
+      "level": 2,
+      "name": {
+        "local": "Larecaja",
+        "en": "Larecaja",
+        "slug": "larecaja-bo0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0206",
+        "level": 2,
+        "name": {
+          "local": "Larecaja",
+          "en": "Larecaja",
+          "slug": "larecaja-bo0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.584",
+      "lon": "-68.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

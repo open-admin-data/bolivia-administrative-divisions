@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO030101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cochabamba",
+      "en": "Cochabamba",
+      "slug": "cochabamba-bo030101"
+    },
+    "code": {
+      "id": "BO030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0301",
+      "level": 2,
+      "name": {
+        "local": "Cercado",
+        "en": "Cercado",
+        "slug": "cercado-bo0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0301",
+        "level": 2,
+        "name": {
+          "local": "Cercado",
+          "en": "Cercado",
+          "slug": "cercado-bo0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.402",
+      "lon": "-66.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

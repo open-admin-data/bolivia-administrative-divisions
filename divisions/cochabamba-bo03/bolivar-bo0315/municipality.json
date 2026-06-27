@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO031501",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bolivar",
+      "en": "Bolivar",
+      "slug": "bolivar-bo031501"
+    },
+    "code": {
+      "id": "BO031501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0315",
+      "level": 2,
+      "name": {
+        "local": "Bolivar",
+        "en": "Bolivar",
+        "slug": "bolivar-bo0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0315",
+        "level": 2,
+        "name": {
+          "local": "Bolivar",
+          "en": "Bolivar",
+          "slug": "bolivar-bo0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.012",
+      "lon": "-66.646"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "BO0503",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cornelio Saavedra",
+    "en": "Cornelio Saavedra",
+    "slug": "cornelio-saavedra-bo0503"
+  },
+  "code": {
+    "id": "BO0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO05",
+    "level": 1,
+    "name": {
+      "local": "Potosí",
+      "en": "Potosi",
+      "slug": "potosi-bo05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO05",
+      "level": 1,
+      "name": {
+        "local": "Potosí",
+        "en": "Potosi",
+        "slug": "potosi-bo05"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.365",
+    "lon": "-65.36"
+  },
+  "metadata": {},
+  "source": {}
+}

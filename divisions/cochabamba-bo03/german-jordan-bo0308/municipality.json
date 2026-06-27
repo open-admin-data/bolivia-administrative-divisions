@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO030801",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cliza",
+      "en": "Cliza",
+      "slug": "cliza-bo030801"
+    },
+    "code": {
+      "id": "BO030801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0308",
+      "level": 2,
+      "name": {
+        "local": "Germán Jordán",
+        "en": "German Jordan",
+        "slug": "german-jordan-bo0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0308",
+        "level": 2,
+        "name": {
+          "local": "Germán Jordán",
+          "en": "German Jordan",
+          "slug": "german-jordan-bo0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.585",
+      "lon": "-65.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030802",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Toco",
+      "en": "Toco",
+      "slug": "toco-bo030802"
+    },
+    "code": {
+      "id": "BO030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0308",
+      "level": 2,
+      "name": {
+        "local": "Germán Jordán",
+        "en": "German Jordan",
+        "slug": "german-jordan-bo0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0308",
+        "level": 2,
+        "name": {
+          "local": "Germán Jordán",
+          "en": "German Jordan",
+          "slug": "german-jordan-bo0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.657",
+      "lon": "-65.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030803",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tolata",
+      "en": "Tolata",
+      "slug": "tolata-bo030803"
+    },
+    "code": {
+      "id": "BO030803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0308",
+      "level": 2,
+      "name": {
+        "local": "Germán Jordán",
+        "en": "German Jordan",
+        "slug": "german-jordan-bo0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0308",
+        "level": 2,
+        "name": {
+          "local": "Germán Jordán",
+          "en": "German Jordan",
+          "slug": "german-jordan-bo0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.521",
+      "lon": "-66"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO030701",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capinota",
+      "en": "Capinota",
+      "slug": "capinota-bo030701"
+    },
+    "code": {
+      "id": "BO030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0307",
+      "level": 2,
+      "name": {
+        "local": "Capinota",
+        "en": "Capinota",
+        "slug": "capinota-bo0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0307",
+        "level": 2,
+        "name": {
+          "local": "Capinota",
+          "en": "Capinota",
+          "slug": "capinota-bo0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.777",
+      "lon": "-66.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030702",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santivañez",
+      "en": "Santivanez",
+      "slug": "santivanez-bo030702"
+    },
+    "code": {
+      "id": "BO030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0307",
+      "level": 2,
+      "name": {
+        "local": "Capinota",
+        "en": "Capinota",
+        "slug": "capinota-bo0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0307",
+        "level": 2,
+        "name": {
+          "local": "Capinota",
+          "en": "Capinota",
+          "slug": "capinota-bo0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.579",
+      "lon": "-66.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030703",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sicaya",
+      "en": "Sicaya",
+      "slug": "sicaya-bo030703"
+    },
+    "code": {
+      "id": "BO030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0307",
+      "level": 2,
+      "name": {
+        "local": "Capinota",
+        "en": "Capinota",
+        "slug": "capinota-bo0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0307",
+        "level": 2,
+        "name": {
+          "local": "Capinota",
+          "en": "Capinota",
+          "slug": "capinota-bo0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.785",
+      "lon": "-66.343"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

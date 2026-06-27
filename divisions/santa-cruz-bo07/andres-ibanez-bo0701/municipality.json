@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO070102",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cotoca",
+      "en": "Cotoca",
+      "slug": "cotoca-bo070102"
+    },
+    "code": {
+      "id": "BO070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0701",
+      "level": 2,
+      "name": {
+        "local": "Andrés Ibáñez",
+        "en": "Andres Ibanez",
+        "slug": "andres-ibanez-bo0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0701",
+        "level": 2,
+        "name": {
+          "local": "Andrés Ibáñez",
+          "en": "Andres Ibanez",
+          "slug": "andres-ibanez-bo0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.76",
+      "lon": "-62.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070105",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Torno",
+      "en": "El Torno",
+      "slug": "el-torno-bo070105"
+    },
+    "code": {
+      "id": "BO070105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0701",
+      "level": 2,
+      "name": {
+        "local": "Andrés Ibáñez",
+        "en": "Andres Ibanez",
+        "slug": "andres-ibanez-bo0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0701",
+        "level": 2,
+        "name": {
+          "local": "Andrés Ibáñez",
+          "en": "Andres Ibanez",
+          "slug": "andres-ibanez-bo0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.044",
+      "lon": "-63.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070104",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Guardia",
+      "en": "La Guardia",
+      "slug": "la-guardia-bo070104"
+    },
+    "code": {
+      "id": "BO070104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0701",
+      "level": 2,
+      "name": {
+        "local": "Andrés Ibáñez",
+        "en": "Andres Ibanez",
+        "slug": "andres-ibanez-bo0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0701",
+        "level": 2,
+        "name": {
+          "local": "Andrés Ibáñez",
+          "en": "Andres Ibanez",
+          "slug": "andres-ibanez-bo0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.052",
+      "lon": "-63.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070103",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porongo",
+      "en": "Porongo",
+      "slug": "porongo-bo070103"
+    },
+    "code": {
+      "id": "BO070103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0701",
+      "level": 2,
+      "name": {
+        "local": "Andrés Ibáñez",
+        "en": "Andres Ibanez",
+        "slug": "andres-ibanez-bo0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0701",
+        "level": 2,
+        "name": {
+          "local": "Andrés Ibáñez",
+          "en": "Andres Ibanez",
+          "slug": "andres-ibanez-bo0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.753",
+      "lon": "-63.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO070101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz de la Sierra",
+      "en": "Santa Cruz de la Sierra",
+      "slug": "santa-cruz-de-la-sierra-bo070101"
+    },
+    "code": {
+      "id": "BO070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0701",
+      "level": 2,
+      "name": {
+        "local": "Andrés Ibáñez",
+        "en": "Andres Ibanez",
+        "slug": "andres-ibanez-bo0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0701",
+        "level": 2,
+        "name": {
+          "local": "Andrés Ibáñez",
+          "en": "Andres Ibanez",
+          "slug": "andres-ibanez-bo0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.779",
+      "lon": "-63.14"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

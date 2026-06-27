@@ -1,0 +1,175 @@
+# Chuquisaca — Bolivia Administrative Divisions
+
+> 10 provinces, 29 municipalitys
+> Code: BO01
+> Coordinates: -19.932, -64.271
+> Last updated: 2026-06-27. License: CC-BY-4.0.
+
+## Provinces
+
+### Azurduy
+
+Code: BO0102, Coordinates: -20.017, -64.476
+Municipalitys: 2
+
+#### Azurduy
+
+Code: BO010201, Coordinates: -20.154, -64.45
+
+#### Tarvita
+
+Code: BO010202, Coordinates: -19.786, -64.559
+
+### Belisario Boeto
+
+Code: BO0108, Coordinates: -18.919, -64.329
+Municipalitys: 1
+
+#### Villa Serrano
+
+Code: BO010801, Coordinates: -18.919, -64.329
+
+### Hernando Siles
+
+Code: BO0105, Coordinates: -20.234, -64.066
+Municipalitys: 2
+
+#### Huacareta
+
+Code: BO010502, Coordinates: -20.538, -64.025
+
+#### Monteagudo
+
+Code: BO010501, Coordinates: -19.999, -64.096
+
+### Luis Calvo
+
+Code: BO0110, Coordinates: -20.017, -63.785
+Municipalitys: 3
+
+#### Huacaya
+
+Code: BO011002, Coordinates: -20.723, -63.625
+
+#### Macharetí (Machareti)
+
+Code: BO011003, Coordinates: -20.698, -62.894
+
+#### Villa Vaca Guzmán (Villa Vaca Guzman)
+
+Code: BO011001, Coordinates: -20.017, -63.785
+
+### Nor Cinti
+
+Code: BO0107, Coordinates: -20.34, -64.903
+Municipalitys: 4
+
+#### Camargo
+
+Code: BO010701, Coordinates: -20.603, -65.152
+
+#### Incahuasi
+
+Code: BO010703, Coordinates: -20.615, -64.609
+
+#### San Lucas
+
+Code: BO010702, Coordinates: -20.151, -64.916
+
+#### Villa Charcas
+
+Code: BO010704, Coordinates: -20.584, -64.829
+
+### Oropeza
+
+Code: BO0101, Coordinates: -18.854, -65.233
+Municipalitys: 3
+
+#### Poroma
+
+Code: BO010103, Coordinates: -18.659, -65.316
+
+#### Sucre
+
+Code: BO010101, Coordinates: -18.89, -65.172
+
+#### Yotala
+
+Code: BO010102, Coordinates: -19.225, -65.282
+
+### Sur Cinti
+
+Code: BO0109, Coordinates: -21.015, -64.385
+Municipalitys: 3
+
+#### Culpina
+
+Code: BO010902, Coordinates: -20.832, -64.63
+
+#### Las Carreras
+
+Code: BO010903, Coordinates: -21.291, -65.322
+
+#### Villa Abecia
+
+Code: BO010901, Coordinates: -21.001, -65.295
+
+### Tomina
+
+Code: BO0104, Coordinates: -19.377, -64.313
+Municipalitys: 5
+
+#### Alcalá (Alcala)
+
+Code: BO010404, Coordinates: -19.427, -64.394
+
+#### El Villar
+
+Code: BO010405, Coordinates: -19.691, -64.286
+
+#### Padilla
+
+Code: BO010401, Coordinates: -19.416, -64.154
+
+#### Sopachui
+
+Code: BO010403, Coordinates: -19.445, -64.546
+
+#### Tomina
+
+Code: BO010402, Coordinates: -19.142, -64.49
+
+### Yamparáez (Yamparaez)
+
+Code: BO0106, Coordinates: -19.129, -64.924
+Municipalitys: 2
+
+#### Tarabuco
+
+Code: BO010601, Coordinates: -19.13, -64.884
+
+#### Yamparáez (Yamparaez)
+
+Code: BO010602, Coordinates: -19.22, -65.081
+
+### Zudáñez (Zudanez)
+
+Code: BO0103, Coordinates: -19.074, -64.689
+Municipalitys: 4
+
+#### Mojocoya
+
+Code: BO010303, Coordinates: -18.792, -64.632
+
+#### Presto
+
+Code: BO010302, Coordinates: -18.748, -64.904
+
+#### Villa Ricardo Mugia - Icla
+
+Code: BO010304, Coordinates: -19.471, -64.739
+
+#### Zudañez (Zudanez)
+
+Code: BO010301, Coordinates: -19.13, -64.673
+

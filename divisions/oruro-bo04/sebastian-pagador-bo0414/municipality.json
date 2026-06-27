@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO041401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago de Huari",
+      "en": "Santiago de Huari",
+      "slug": "santiago-de-huari-bo041401"
+    },
+    "code": {
+      "id": "BO041401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0414",
+      "level": 2,
+      "name": {
+        "local": "Sebastián Pagador",
+        "en": "Sebastian Pagador",
+        "slug": "sebastian-pagador-bo0414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO04",
+        "level": 1,
+        "name": {
+          "local": "Oruro",
+          "en": "Oruro",
+          "slug": "oruro-bo04"
+        }
+      },
+      {
+        "id": "BO0414",
+        "level": 2,
+        "name": {
+          "local": "Sebastián Pagador",
+          "en": "Sebastian Pagador",
+          "slug": "sebastian-pagador-bo0414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.161",
+      "lon": "-66.612"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

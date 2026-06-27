@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO060401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uriondo",
+      "en": "Uriondo",
+      "slug": "uriondo-bo060401"
+    },
+    "code": {
+      "id": "BO060401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0604",
+      "level": 2,
+      "name": {
+        "local": "Avilés",
+        "en": "Aviles",
+        "slug": "aviles-bo0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0604",
+        "level": 2,
+        "name": {
+          "local": "Avilés",
+          "en": "Aviles",
+          "slug": "aviles-bo0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.737",
+      "lon": "-64.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO060402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yunchará",
+      "en": "Yunchara",
+      "slug": "yunchara-bo060402"
+    },
+    "code": {
+      "id": "BO060402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0604",
+      "level": 2,
+      "name": {
+        "local": "Avilés",
+        "en": "Aviles",
+        "slug": "aviles-bo0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0604",
+        "level": 2,
+        "name": {
+          "local": "Avilés",
+          "en": "Aviles",
+          "slug": "aviles-bo0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.785",
+      "lon": "-65.158"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

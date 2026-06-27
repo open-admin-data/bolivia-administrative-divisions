@@ -1,0 +1,47 @@
+{
+  "id": "BO0312",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Carrasco",
+    "en": "Carrasco",
+    "slug": "carrasco-bo0312"
+  },
+  "code": {
+    "id": "BO0312",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO03",
+    "level": 1,
+    "name": {
+      "local": "Cochabamba",
+      "en": "Cochabamba",
+      "slug": "cochabamba-bo03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO03",
+      "level": 1,
+      "name": {
+        "local": "Cochabamba",
+        "en": "Cochabamba",
+        "slug": "cochabamba-bo03"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.992",
+    "lon": "-64.956"
+  },
+  "metadata": {},
+  "source": {}
+}

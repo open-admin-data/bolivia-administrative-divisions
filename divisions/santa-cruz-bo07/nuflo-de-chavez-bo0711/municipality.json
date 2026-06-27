@@ -1,0 +1,326 @@
+[
+  {
+    "id": "BO071101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concepción",
+      "en": "Concepcion",
+      "slug": "concepcion-bo071101"
+    },
+    "code": {
+      "id": "BO071101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0711",
+      "level": 2,
+      "name": {
+        "local": "Ñuflo De Chávez",
+        "en": "Nuflo De Chavez",
+        "slug": "nuflo-de-chavez-bo0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0711",
+        "level": 2,
+        "name": {
+          "local": "Ñuflo De Chávez",
+          "en": "Nuflo De Chavez",
+          "slug": "nuflo-de-chavez-bo0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.401",
+      "lon": "-62.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071106",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuatro Cañadas",
+      "en": "Cuatro Canadas",
+      "slug": "cuatro-canadas-bo071106"
+    },
+    "code": {
+      "id": "BO071106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0711",
+      "level": 2,
+      "name": {
+        "local": "Ñuflo De Chávez",
+        "en": "Nuflo De Chavez",
+        "slug": "nuflo-de-chavez-bo0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0711",
+        "level": 2,
+        "name": {
+          "local": "Ñuflo De Chávez",
+          "en": "Nuflo De Chavez",
+          "slug": "nuflo-de-chavez-bo0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.265",
+      "lon": "-62.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071104",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio de Lomerio",
+      "en": "San Antonio de Lomerio",
+      "slug": "san-antonio-de-lomerio-bo071104"
+    },
+    "code": {
+      "id": "BO071104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0711",
+      "level": 2,
+      "name": {
+        "local": "Ñuflo De Chávez",
+        "en": "Nuflo De Chavez",
+        "slug": "nuflo-de-chavez-bo0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0711",
+        "level": 2,
+        "name": {
+          "local": "Ñuflo De Chávez",
+          "en": "Nuflo De Chavez",
+          "slug": "nuflo-de-chavez-bo0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.78",
+      "lon": "-61.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071102",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Javier",
+      "en": "San Javier",
+      "slug": "san-javier-bo071102"
+    },
+    "code": {
+      "id": "BO071102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0711",
+      "level": 2,
+      "name": {
+        "local": "Ñuflo De Chávez",
+        "en": "Nuflo De Chavez",
+        "slug": "nuflo-de-chavez-bo0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0711",
+        "level": 2,
+        "name": {
+          "local": "Ñuflo De Chávez",
+          "en": "Nuflo De Chavez",
+          "slug": "nuflo-de-chavez-bo0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.209",
+      "lon": "-62.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071103",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Julián",
+      "en": "San Julian",
+      "slug": "san-julian-bo071103"
+    },
+    "code": {
+      "id": "BO071103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0711",
+      "level": 2,
+      "name": {
+        "local": "Ñuflo De Chávez",
+        "en": "Nuflo De Chavez",
+        "slug": "nuflo-de-chavez-bo0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0711",
+        "level": 2,
+        "name": {
+          "local": "Ñuflo De Chávez",
+          "en": "Nuflo De Chavez",
+          "slug": "nuflo-de-chavez-bo0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.834",
+      "lon": "-62.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071105",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ramón",
+      "en": "San Ramon",
+      "slug": "san-ramon-bo071105"
+    },
+    "code": {
+      "id": "BO071105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0711",
+      "level": 2,
+      "name": {
+        "local": "Ñuflo De Chávez",
+        "en": "Nuflo De Chavez",
+        "slug": "nuflo-de-chavez-bo0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0711",
+        "level": 2,
+        "name": {
+          "local": "Ñuflo De Chávez",
+          "en": "Nuflo De Chavez",
+          "slug": "nuflo-de-chavez-bo0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.59",
+      "lon": "-62.41"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

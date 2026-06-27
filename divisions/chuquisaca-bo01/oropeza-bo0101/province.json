@@ -1,0 +1,47 @@
+{
+  "id": "BO0101",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Oropeza",
+    "en": "Oropeza",
+    "slug": "oropeza-bo0101"
+  },
+  "code": {
+    "id": "BO0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO01",
+    "level": 1,
+    "name": {
+      "local": "Chuquisaca",
+      "en": "Chuquisaca",
+      "slug": "chuquisaca-bo01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO01",
+      "level": 1,
+      "name": {
+        "local": "Chuquisaca",
+        "en": "Chuquisaca",
+        "slug": "chuquisaca-bo01"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.854",
+    "lon": "-65.233"
+  },
+  "metadata": {},
+  "source": {}
+}

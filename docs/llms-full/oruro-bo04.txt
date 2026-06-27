@@ -1,0 +1,229 @@
+# Oruro — Bolivia Administrative Divisions
+
+> 16 provinces, 35 municipalitys
+> Code: BO04
+> Coordinates: -18.604, -67.834
+> Last updated: 2026-06-27. License: CC-BY-4.0.
+
+## Provinces
+
+### Abaroa
+
+Code: BO0402, Coordinates: -18.865, -66.765
+Municipalitys: 2
+
+#### Challapata
+
+Code: BO040201, Coordinates: -18.864, -66.726
+
+#### Santuario de Quillacas
+
+Code: BO040202, Coordinates: -19.297, -66.863
+
+### Carangas
+
+Code: BO0403, Coordinates: -18.375, -67.796
+Municipalitys: 2
+
+#### Choquecota
+
+Code: BO040302, Coordinates: -18.117, -67.923
+
+#### Corque
+
+Code: BO040301, Coordinates: -18.439, -67.817
+
+### Cercado
+
+Code: BO0401, Coordinates: -17.95, -67.056
+Municipalitys: 4
+
+#### Caracollo
+
+Code: BO040102, Coordinates: -17.663, -67.182
+
+#### El Choro
+
+Code: BO040103, Coordinates: -18.275, -67.135
+
+#### Oruro
+
+Code: BO040101, Coordinates: -17.958, -67.098
+
+#### Paria
+
+Code: BO040104, Coordinates: -17.854, -66.958
+
+### Ladislao Cabrera
+
+Code: BO0408, Coordinates: -19.468, -67.626
+Municipalitys: 2
+
+#### Pampa Aullagas
+
+Code: BO040802, Coordinates: -19.26, -67.142
+
+#### Salinas de Garcí Mendoza (Salinas de Garci Mendoza)
+
+Code: BO040801, Coordinates: -19.468, -67.52
+
+### Litoral
+
+Code: BO0405, Coordinates: -18.756, -68.246
+Municipalitys: 5
+
+#### Cruz de Machacamarca
+
+Code: BO040503, Coordinates: -18.709, -68.361
+
+#### Escara
+
+Code: BO040502, Coordinates: -18.702, -68.133
+
+#### Esmeralda
+
+Code: BO040505, Coordinates: -18.93, -67.994
+
+#### Huachacalla
+
+Code: BO040501, Coordinates: -18.791, -68.271
+
+#### Yunguyo del Litoral
+
+Code: BO040504, Coordinates: -18.89, -68.352
+
+### Mejillones
+
+Code: BO0415, Coordinates: -19, -68.695
+Municipalitys: 3
+
+#### Carangas
+
+Code: BO041503, Coordinates: -18.907, -68.655
+
+#### La Rivera
+
+Code: BO041501, Coordinates: -19.061, -68.654
+
+#### Todos Santos
+
+Code: BO041502, Coordinates: -19.036, -68.761
+
+### Nor Carangas
+
+Code: BO0416, Coordinates: -17.91, -67.837
+Municipalitys: 1
+
+#### Huayllamarca
+
+Code: BO041601, Coordinates: -17.91, -67.837
+
+### Pantaleón Dalence (Pantaleon Dalence)
+
+Code: BO0407, Coordinates: -18.269, -66.709
+Municipalitys: 2
+
+#### Huanuni
+
+Code: BO040701, Coordinates: -18.276, -66.709
+
+#### Machacamarca
+
+Code: BO040702, Coordinates: -18.147, -66.969
+
+### Poopó (Poopo)
+
+Code: BO0406, Coordinates: -18.501, -66.889
+Municipalitys: 3
+
+#### Antequera
+
+Code: BO040603, Coordinates: -18.535, -66.759
+
+#### Pazña (Pazna)
+
+Code: BO040602, Coordinates: -18.634, -66.95
+
+#### Poopó (Poopo)
+
+Code: BO040601, Coordinates: -18.381, -66.912
+
+### Sabaya
+
+Code: BO0409, Coordinates: -19.071, -68.26
+Municipalitys: 3
+
+#### Chipaya
+
+Code: BO040903, Coordinates: -19.067, -68.044
+
+#### Coipasa
+
+Code: BO040902, Coordinates: -19.332, -68.305
+
+#### Sabaya
+
+Code: BO040901, Coordinates: -18.938, -68.826
+
+### Sajama
+
+Code: BO0404, Coordinates: -18.105, -68.605
+Municipalitys: 2
+
+#### Curahuara de Carangas
+
+Code: BO040401, Coordinates: -17.939, -68.594
+
+#### Turco
+
+Code: BO040402, Coordinates: -18.314, -68.532
+
+### San Pedro de Totora
+
+Code: BO0413, Coordinates: -17.843, -68.191
+Municipalitys: 1
+
+#### Totora
+
+Code: BO041301, Coordinates: -17.843, -68.191
+
+### Saucarí (Saucari)
+
+Code: BO0410, Coordinates: -18.261, -67.404
+Municipalitys: 1
+
+#### Toledo
+
+Code: BO041001, Coordinates: -18.261, -67.404
+
+### Sebastián Pagador (Sebastian Pagador)
+
+Code: BO0414, Coordinates: -19.161, -66.612
+Municipalitys: 1
+
+#### Santiago de Huari
+
+Code: BO041401, Coordinates: -19.161, -66.612
+
+### Sur Carangas
+
+Code: BO0412, Coordinates: -18.852, -67.476
+Municipalitys: 2
+
+#### Andamarca
+
+Code: BO041201, Coordinates: -18.853, -67.368
+
+#### Belén de Andamarca (Belen de Andamarca)
+
+Code: BO041202, Coordinates: -18.895, -67.772
+
+### Tomás Barrón (Tomas Barron)
+
+Code: BO0411, Coordinates: -17.629, -67.422
+Municipalitys: 1
+
+#### Eucaliptus
+
+Code: BO041101, Coordinates: -17.629, -67.422
+

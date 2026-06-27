@@ -1,0 +1,380 @@
+[
+  {
+    "id": "BO020804",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Desaguadero",
+      "en": "Desaguadero",
+      "slug": "desaguadero-bo020804"
+    },
+    "code": {
+      "id": "BO020804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0208",
+      "level": 2,
+      "name": {
+        "local": "Ingavi",
+        "en": "Ingavi",
+        "slug": "ingavi-bo0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0208",
+        "level": 2,
+        "name": {
+          "local": "Ingavi",
+          "en": "Ingavi",
+          "slug": "ingavi-bo0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.615",
+      "lon": "-68.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020806",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jesús de Machaka",
+      "en": "Jesus de Machaka",
+      "slug": "jesus-de-machaka-bo020806"
+    },
+    "code": {
+      "id": "BO020806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0208",
+      "level": 2,
+      "name": {
+        "local": "Ingavi",
+        "en": "Ingavi",
+        "slug": "ingavi-bo0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0208",
+        "level": 2,
+        "name": {
+          "local": "Ingavi",
+          "en": "Ingavi",
+          "slug": "ingavi-bo0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.777",
+      "lon": "-68.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020805",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La (Marka) San Andrés de Machaca",
+      "en": "La (Marka) San Andres de Machaca",
+      "slug": "la-marka-san-andres-de-machaca-bo020805"
+    },
+    "code": {
+      "id": "BO020805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0208",
+      "level": 2,
+      "name": {
+        "local": "Ingavi",
+        "en": "Ingavi",
+        "slug": "ingavi-bo0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0208",
+        "level": 2,
+        "name": {
+          "local": "Ingavi",
+          "en": "Ingavi",
+          "slug": "ingavi-bo0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.877",
+      "lon": "-69.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020802",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Mayor de Guaqui",
+      "en": "Puerto Mayor de Guaqui",
+      "slug": "puerto-mayor-de-guaqui-bo020802"
+    },
+    "code": {
+      "id": "BO020802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0208",
+      "level": 2,
+      "name": {
+        "local": "Ingavi",
+        "en": "Ingavi",
+        "slug": "ingavi-bo0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0208",
+        "level": 2,
+        "name": {
+          "local": "Ingavi",
+          "en": "Ingavi",
+          "slug": "ingavi-bo0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.602",
+      "lon": "-68.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020807",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taraco",
+      "en": "Taraco",
+      "slug": "taraco-bo020807"
+    },
+    "code": {
+      "id": "BO020807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0208",
+      "level": 2,
+      "name": {
+        "local": "Ingavi",
+        "en": "Ingavi",
+        "slug": "ingavi-bo0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0208",
+        "level": 2,
+        "name": {
+          "local": "Ingavi",
+          "en": "Ingavi",
+          "slug": "ingavi-bo0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.479",
+      "lon": "-68.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020803",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tiahuanacu",
+      "en": "Tiahuanacu",
+      "slug": "tiahuanacu-bo020803"
+    },
+    "code": {
+      "id": "BO020803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0208",
+      "level": 2,
+      "name": {
+        "local": "Ingavi",
+        "en": "Ingavi",
+        "slug": "ingavi-bo0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0208",
+        "level": 2,
+        "name": {
+          "local": "Ingavi",
+          "en": "Ingavi",
+          "slug": "ingavi-bo0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.553",
+      "lon": "-68.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020801",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viacha",
+      "en": "Viacha",
+      "slug": "viacha-bo020801"
+    },
+    "code": {
+      "id": "BO020801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0208",
+      "level": 2,
+      "name": {
+        "local": "Ingavi",
+        "en": "Ingavi",
+        "slug": "ingavi-bo0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0208",
+        "level": 2,
+        "name": {
+          "local": "Ingavi",
+          "en": "Ingavi",
+          "slug": "ingavi-bo0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.735",
+      "lon": "-68.312"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

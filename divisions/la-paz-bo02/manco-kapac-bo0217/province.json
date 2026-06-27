@@ -1,0 +1,47 @@
+{
+  "id": "BO0217",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Manco Kapac",
+    "en": "Manco Kapac",
+    "slug": "manco-kapac-bo0217"
+  },
+  "code": {
+    "id": "BO0217",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO02",
+    "level": 1,
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-bo02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO02",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-bo02"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.164",
+    "lon": "-69.028"
+  },
+  "metadata": {},
+  "source": {}
+}

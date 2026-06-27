@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO031401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Punata",
+      "en": "Punata",
+      "slug": "punata-bo031401"
+    },
+    "code": {
+      "id": "BO031401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0314",
+      "level": 2,
+      "name": {
+        "local": "Punata",
+        "en": "Punata",
+        "slug": "punata-bo0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0314",
+        "level": 2,
+        "name": {
+          "local": "Punata",
+          "en": "Punata",
+          "slug": "punata-bo0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.543",
+      "lon": "-65.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031403",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Benito",
+      "en": "San Benito",
+      "slug": "san-benito-bo031403"
+    },
+    "code": {
+      "id": "BO031403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0314",
+      "level": 2,
+      "name": {
+        "local": "Punata",
+        "en": "Punata",
+        "slug": "punata-bo0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0314",
+        "level": 2,
+        "name": {
+          "local": "Punata",
+          "en": "Punata",
+          "slug": "punata-bo0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.504",
+      "lon": "-65.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031404",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacachi",
+      "en": "Tacachi",
+      "slug": "tacachi-bo031404"
+    },
+    "code": {
+      "id": "BO031404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0314",
+      "level": 2,
+      "name": {
+        "local": "Punata",
+        "en": "Punata",
+        "slug": "punata-bo0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0314",
+        "level": 2,
+        "name": {
+          "local": "Punata",
+          "en": "Punata",
+          "slug": "punata-bo0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.639",
+      "lon": "-65.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031405",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Gualberto Villarroel",
+      "en": "Villa Gualberto Villarroel",
+      "slug": "villa-gualberto-villarroel-bo031405"
+    },
+    "code": {
+      "id": "BO031405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0314",
+      "level": 2,
+      "name": {
+        "local": "Punata",
+        "en": "Punata",
+        "slug": "punata-bo0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0314",
+        "level": 2,
+        "name": {
+          "local": "Punata",
+          "en": "Punata",
+          "slug": "punata-bo0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.696",
+      "lon": "-65.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO031402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Rivero",
+      "en": "Villa Rivero",
+      "slug": "villa-rivero-bo031402"
+    },
+    "code": {
+      "id": "BO031402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0314",
+      "level": 2,
+      "name": {
+        "local": "Punata",
+        "en": "Punata",
+        "slug": "punata-bo0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0314",
+        "level": 2,
+        "name": {
+          "local": "Punata",
+          "en": "Punata",
+          "slug": "punata-bo0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.654",
+      "lon": "-65.861"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

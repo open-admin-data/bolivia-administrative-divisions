@@ -1,0 +1,47 @@
+{
+  "id": "BO0712",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Angel Sandoval",
+    "en": "Angel Sandoval",
+    "slug": "angel-sandoval-bo0712"
+  },
+  "code": {
+    "id": "BO0712",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO07",
+    "level": 1,
+    "name": {
+      "local": "Santa Cruz",
+      "en": "Santa Cruz",
+      "slug": "santa-cruz-bo07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.189",
+    "lon": "-58.957"
+  },
+  "metadata": {},
+  "source": {}
+}

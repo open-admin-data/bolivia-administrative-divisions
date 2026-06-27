@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO071301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comarapa",
+      "en": "Comarapa",
+      "slug": "comarapa-bo071301"
+    },
+    "code": {
+      "id": "BO071301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0713",
+      "level": 2,
+      "name": {
+        "local": "Manuel María Caballero",
+        "en": "Manuel Maria Caballero",
+        "slug": "manuel-maria-caballero-bo0713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0713",
+        "level": 2,
+        "name": {
+          "local": "Manuel María Caballero",
+          "en": "Manuel Maria Caballero",
+          "slug": "manuel-maria-caballero-bo0713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.829",
+      "lon": "-64.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO071302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Saipina",
+      "en": "Saipina",
+      "slug": "saipina-bo071302"
+    },
+    "code": {
+      "id": "BO071302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0713",
+      "level": 2,
+      "name": {
+        "local": "Manuel María Caballero",
+        "en": "Manuel Maria Caballero",
+        "slug": "manuel-maria-caballero-bo0713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      },
+      {
+        "id": "BO0713",
+        "level": 2,
+        "name": {
+          "local": "Manuel María Caballero",
+          "en": "Manuel Maria Caballero",
+          "slug": "manuel-maria-caballero-bo0713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.042",
+      "lon": "-64.632"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

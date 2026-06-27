@@ -1,0 +1,47 @@
+{
+  "id": "BO0406",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Poopó",
+    "en": "Poopo",
+    "slug": "poopo-bo0406"
+  },
+  "code": {
+    "id": "BO0406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO04",
+    "level": 1,
+    "name": {
+      "local": "Oruro",
+      "en": "Oruro",
+      "slug": "oruro-bo04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO04",
+      "level": 1,
+      "name": {
+        "local": "Oruro",
+        "en": "Oruro",
+        "slug": "oruro-bo04"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.501",
+    "lon": "-66.889"
+  },
+  "metadata": {},
+  "source": {}
+}

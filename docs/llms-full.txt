@@ -1,0 +1,29 @@
+# Bolivia Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-27. License: CC-BY-4.0.
+
+## Per-Department Data Files
+
+- [Beni](https://github.com/open-admin-data/bolivia-administrative-divisions/blob/main/docs/llms-full/beni-bo08.txt) — 8 provinces, 19 municipalitys
+- [Chuquisaca](https://github.com/open-admin-data/bolivia-administrative-divisions/blob/main/docs/llms-full/chuquisaca-bo01.txt) — 10 provinces, 29 municipalitys
+- [Cochabamba](https://github.com/open-admin-data/bolivia-administrative-divisions/blob/main/docs/llms-full/cochabamba-bo03.txt) — 16 provinces, 47 municipalitys
+- [La Paz](https://github.com/open-admin-data/bolivia-administrative-divisions/blob/main/docs/llms-full/la-paz-bo02.txt) — 20 provinces, 87 municipalitys
+- [Oruro](https://github.com/open-admin-data/bolivia-administrative-divisions/blob/main/docs/llms-full/oruro-bo04.txt) — 16 provinces, 35 municipalitys
+- [Pando](https://github.com/open-admin-data/bolivia-administrative-divisions/blob/main/docs/llms-full/pando-bo09.txt) — 5 provinces, 15 municipalitys
+- [Potosi](https://github.com/open-admin-data/bolivia-administrative-divisions/blob/main/docs/llms-full/potosi-bo05.txt) — 16 provinces, 40 municipalitys
+- [Santa Cruz](https://github.com/open-admin-data/bolivia-administrative-divisions/blob/main/docs/llms-full/santa-cruz-bo07.txt) — 15 provinces, 56 municipalitys
+- [Tarija](https://github.com/open-admin-data/bolivia-administrative-divisions/blob/main/docs/llms-full/tarija-bo06.txt) — 6 provinces, 11 municipalitys
+
+## Summary
+
+| Department | Provinces | Municipalitys | 
+|---|---|---|
+| Beni | 8 | 19 | 
+| Chuquisaca | 10 | 29 | 
+| Cochabamba | 16 | 47 | 
+| La Paz | 20 | 87 | 
+| Oruro | 16 | 35 | 
+| Pando | 5 | 15 | 
+| Potosi | 16 | 40 | 
+| Santa Cruz | 15 | 56 | 
+| Tarija | 6 | 11 | 

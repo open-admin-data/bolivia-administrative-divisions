@@ -1,0 +1,707 @@
+[
+  {
+    "id": "BO0701",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Andrés Ibáñez",
+      "en": "Andres Ibanez",
+      "slug": "andres-ibanez-bo0701"
+    },
+    "code": {
+      "id": "BO0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.906",
+      "lon": "-63.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0712",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Angel Sandoval",
+      "en": "Angel Sandoval",
+      "slug": "angel-sandoval-bo0712"
+    },
+    "code": {
+      "id": "BO0712",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.189",
+      "lon": "-58.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0705",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Chiquitos",
+      "en": "Chiquitos",
+      "slug": "chiquitos-bo0705"
+    },
+    "code": {
+      "id": "BO0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.84",
+      "lon": "-61.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0707",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cordillera",
+      "en": "Cordillera",
+      "slug": "cordillera-bo0707"
+    },
+    "code": {
+      "id": "BO0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.248",
+      "lon": "-61.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0709",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Florida",
+      "en": "Florida",
+      "slug": "florida-bo0709"
+    },
+    "code": {
+      "id": "BO0709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.101",
+      "lon": "-63.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0714",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Germán Busch",
+      "en": "German Busch",
+      "slug": "german-busch-bo0714"
+    },
+    "code": {
+      "id": "BO0714",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.068",
+      "lon": "-58.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0715",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Guarayos",
+      "en": "Guarayos",
+      "slug": "guarayos-bo0715"
+    },
+    "code": {
+      "id": "BO0715",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.244",
+      "lon": "-63.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0704",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ichilo",
+      "en": "Ichilo",
+      "slug": "ichilo-bo0704"
+    },
+    "code": {
+      "id": "BO0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.913",
+      "lon": "-64.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0713",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Manuel María Caballero",
+      "en": "Manuel Maria Caballero",
+      "slug": "manuel-maria-caballero-bo0713"
+    },
+    "code": {
+      "id": "BO0713",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.829",
+      "lon": "-64.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0711",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ñuflo De Chávez",
+      "en": "Nuflo De Chavez",
+      "slug": "nuflo-de-chavez-bo0711"
+    },
+    "code": {
+      "id": "BO0711",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.631",
+      "lon": "-62.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0710",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Obispo Santistéban",
+      "en": "Obispo Santisteban",
+      "slug": "obispo-santisteban-bo0710"
+    },
+    "code": {
+      "id": "BO0710",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.734",
+      "lon": "-63.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0706",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sara",
+      "en": "Sara",
+      "slug": "sara-bo0706"
+    },
+    "code": {
+      "id": "BO0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.792",
+      "lon": "-63.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0708",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Vallegrande",
+      "en": "Vallegrande",
+      "slug": "vallegrande-bo0708"
+    },
+    "code": {
+      "id": "BO0708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.672",
+      "lon": "-63.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0703",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Velasco",
+      "en": "Velasco",
+      "slug": "velasco-bo0703"
+    },
+    "code": {
+      "id": "BO0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.456",
+      "lon": "-60.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0702",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Warnes",
+      "en": "Warnes",
+      "slug": "warnes-bo0702"
+    },
+    "code": {
+      "id": "BO0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO07",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-bo07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO07",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-bo07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.355",
+      "lon": "-62.951"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

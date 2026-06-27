@@ -1,0 +1,457 @@
+# La Paz — Bolivia Administrative Divisions
+
+> 20 provinces, 87 municipalitys
+> Code: BO02
+> Coordinates: -14.948, -68.389
+> Last updated: 2026-06-27. License: CC-BY-4.0.
+
+## Provinces
+
+### Abel Iturralde
+
+Code: BO0215, Coordinates: -13.223, -68.061
+Municipalitys: 2
+
+#### Ixiamas
+
+Code: BO021501, Coordinates: -13.036, -67.981
+
+#### San Buenaventura
+
+Code: BO021502, Coordinates: -14.272, -67.748
+
+### Aroma
+
+Code: BO0213, Coordinates: -17.173, -67.946
+Municipalitys: 7
+
+#### Ayo Ayo
+
+Code: BO021303, Coordinates: -17.072, -68.022
+
+#### Calamarca
+
+Code: BO021304, Coordinates: -16.893, -68.114
+
+#### Collana
+
+Code: BO021307, Coordinates: -16.896, -68.302
+
+#### Colquencha
+
+Code: BO021306, Coordinates: -16.975, -68.277
+
+#### Patacamaya
+
+Code: BO021305, Coordinates: -17.203, -67.879
+
+#### Sicasica
+
+Code: BO021301, Coordinates: -17.345, -67.669
+
+#### Umala
+
+Code: BO021302, Coordinates: -17.4, -68.01
+
+### Bautista Saavedra
+
+Code: BO0216, Coordinates: -15.066, -68.827
+Municipalitys: 2
+
+#### Charazani
+
+Code: BO021601, Coordinates: -15.071, -68.686
+
+#### Curva
+
+Code: BO021602, Coordinates: -14.964, -68.926
+
+### Camacho
+
+Code: BO0204, Coordinates: -15.574, -69.107
+Municipalitys: 5
+
+#### Escoma
+
+Code: BO020405, Coordinates: -15.637, -69.138
+
+#### Humanata
+
+Code: BO020404, Coordinates: -15.415, -69.176
+
+#### Mocomoco
+
+Code: BO020402, Coordinates: -15.46, -69.019
+
+#### Puerto Acosta
+
+Code: BO020401, Coordinates: -15.558, -69.243
+
+#### Puerto Mayor de Carabuco
+
+Code: BO020403, Coordinates: -15.716, -69.031
+
+### Caranavi
+
+Code: BO0220, Coordinates: -15.696, -67.391
+Municipalitys: 2
+
+#### Alto Beni
+
+Code: BO022002, Coordinates: -15.578, -67.44
+
+#### Caranavi
+
+Code: BO022001, Coordinates: -15.81, -67.466
+
+### Franz Tamayo
+
+Code: BO0207, Coordinates: -14.641, -68.377
+Municipalitys: 2
+
+#### Apolo
+
+Code: BO020701, Coordinates: -14.641, -68.111
+
+#### Pelechuco
+
+Code: BO020702, Coordinates: -14.82, -69.125
+
+### General José Manuel Pando (General Jose Manuel Pando)
+
+Code: BO0219, Coordinates: -17.226, -69.374
+Municipalitys: 2
+
+#### Catacora
+
+Code: BO021902, Coordinates: -17.254, -69.519
+
+#### Santiago de Machaca
+
+Code: BO021901, Coordinates: -17.226, -69.278
+
+### Gualberto Villarroel
+
+Code: BO0218, Coordinates: -17.647, -67.874
+Municipalitys: 3
+
+#### Chacarilla
+
+Code: BO021803, Coordinates: -17.542, -68.163
+
+#### Papel Pampa
+
+Code: BO021802, Coordinates: -17.712, -67.707
+
+#### San Pedro de Curahuara
+
+Code: BO021801, Coordinates: -17.639, -67.993
+
+### Ingavi
+
+Code: BO0208, Coordinates: -16.762, -68.843
+Municipalitys: 7
+
+#### Desaguadero
+
+Code: BO020804, Coordinates: -16.615, -68.973
+
+#### Jesús de Machaka (Jesus de Machaka)
+
+Code: BO020806, Coordinates: -16.777, -68.722
+
+#### La (Marka) San Andrés de Machaca (La (Marka) San Andres de Machaca)
+
+Code: BO020805, Coordinates: -16.877, -69.045
+
+#### Puerto Mayor de Guaqui
+
+Code: BO020802, Coordinates: -16.602, -68.831
+
+#### Taraco
+
+Code: BO020807, Coordinates: -16.479, -68.82
+
+#### Tiahuanacu
+
+Code: BO020803, Coordinates: -16.553, -68.67
+
+#### Viacha
+
+Code: BO020801, Coordinates: -16.735, -68.312
+
+### Inquisivi
+
+Code: BO0210, Coordinates: -16.939, -67.194
+Municipalitys: 6
+
+#### Cajuata
+
+Code: BO021003, Coordinates: -16.607, -67.283
+
+#### Colquiri
+
+Code: BO021004, Coordinates: -17.435, -67.016
+
+#### Ichoca
+
+Code: BO021005, Coordinates: -17.201, -67.198
+
+#### Inquisivi
+
+Code: BO021001, Coordinates: -16.779, -66.932
+
+#### Quime
+
+Code: BO021002, Coordinates: -16.83, -67.396
+
+#### Villa Libertad Licoma
+
+Code: BO021006, Coordinates: -16.812, -67.205
+
+### Larecaja
+
+Code: BO0206, Coordinates: -15.614, -68.204
+Municipalitys: 8
+
+#### Combaya
+
+Code: BO020605, Coordinates: -15.814, -68.762
+
+#### Guanay
+
+Code: BO020602, Coordinates: -15.684, -67.966
+
+#### Mapiri
+
+Code: BO020607, Coordinates: -15.383, -68.246
+
+#### Quiabaya
+
+Code: BO020604, Coordinates: -15.592, -68.728
+
+#### Sorata
+
+Code: BO020601, Coordinates: -15.698, -68.512
+
+#### Tacacoma
+
+Code: BO020603, Coordinates: -15.433, -68.543
+
+#### Teoponte
+
+Code: BO020608, Coordinates: -15.44, -67.703
+
+#### Tipuani
+
+Code: BO020606, Coordinates: -15.584, -68.058
+
+### Loayza
+
+Code: BO0209, Coordinates: -17.041, -67.582
+Municipalitys: 5
+
+#### Cairoma
+
+Code: BO020905, Coordinates: -16.817, -67.605
+
+#### Luribay
+
+Code: BO020901, Coordinates: -17.075, -67.625
+
+#### Malla
+
+Code: BO020904, Coordinates: -17.011, -67.439
+
+#### Sapahaqui
+
+Code: BO020902, Coordinates: -16.984, -67.816
+
+#### Yaco
+
+Code: BO020903, Coordinates: -17.259, -67.391
+
+### Los Andes
+
+Code: BO0212, Coordinates: -16.372, -68.45
+Municipalitys: 4
+
+#### Batallas
+
+Code: BO021203, Coordinates: -16.171, -68.433
+
+#### Laja
+
+Code: BO021202, Coordinates: -16.617, -68.487
+
+#### Pucarani
+
+Code: BO021201, Coordinates: -16.321, -68.314
+
+#### Puerto Pérez (Puerto Perez)
+
+Code: BO021204, Coordinates: -16.32, -68.672
+
+### Manco Kapac
+
+Code: BO0217, Coordinates: -16.164, -69.028
+Municipalitys: 3
+
+#### Copacabana
+
+Code: BO021701, Coordinates: -16.141, -69.027
+
+#### San Pedro de Tiquina
+
+Code: BO021702, Coordinates: -16.23, -68.868
+
+#### Tito Yupanqui
+
+Code: BO021703, Coordinates: -16.176, -68.966
+
+### Muñecas (Munecas)
+
+Code: BO0205, Coordinates: -15.464, -68.791
+Municipalitys: 3
+
+#### Aucapata
+
+Code: BO020503, Coordinates: -15.44, -68.686
+
+#### Ayata
+
+Code: BO020502, Coordinates: -15.353, -68.778
+
+#### Chuma
+
+Code: BO020501, Coordinates: -15.567, -68.848
+
+### Murillo
+
+Code: BO0201, Coordinates: -16.304, -68.071
+Municipalitys: 5
+
+#### Achocalla
+
+Code: BO020104, Coordinates: -16.653, -68.137
+
+#### El Alto
+
+Code: BO020105, Coordinates: -16.449, -68.214
+
+#### Mecapaca
+
+Code: BO020103, Coordinates: -16.71, -67.974
+
+#### Nuestra Señora de La Paz (Nuestra Senora de La Paz)
+
+Code: BO020101, Coordinates: -16.179, -68.091
+
+#### Palca
+
+Code: BO020102, Coordinates: -16.658, -67.854
+
+### Nor Yungas
+
+Code: BO0214, Coordinates: -16.201, -67.722
+Municipalitys: 2
+
+#### Coripata
+
+Code: BO021402, Coordinates: -16.207, -67.574
+
+#### Coroico
+
+Code: BO021401, Coordinates: -16.175, -67.783
+
+### Omasuyos
+
+Code: BO0202, Coordinates: -16.005, -68.621
+Municipalitys: 6
+
+#### Achacachi
+
+Code: BO020201, Coordinates: -16.027, -68.631
+
+#### Chua Cocani
+
+Code: BO020206, Coordinates: -16.159, -68.754
+
+#### Huarina
+
+Code: BO020203, Coordinates: -16.169, -68.614
+
+#### Huatajata
+
+Code: BO020205, Coordinates: -16.195, -68.692
+
+#### Santiago de Huata
+
+Code: BO020204, Coordinates: -16.076, -68.82
+
+#### Villa Ancoraimes
+
+Code: BO020202, Coordinates: -15.855, -68.881
+
+### Pacajes
+
+Code: BO0203, Coordinates: -17.414, -68.732
+Municipalitys: 8
+
+#### Calacoto
+
+Code: BO020303, Coordinates: -17.597, -68.603
+
+#### Caquiaviri
+
+Code: BO020302, Coordinates: -17.056, -68.76
+
+#### Charaña (Charana)
+
+Code: BO020305, Coordinates: -17.664, -69.09
+
+#### Comanche
+
+Code: BO020304, Coordinates: -16.942, -68.473
+
+#### Corocoro
+
+Code: BO020301, Coordinates: -17.188, -68.43
+
+#### Nazacara de Pacajes
+
+Code: BO020307, Coordinates: -16.927, -68.761
+
+#### Santiago de Callapa
+
+Code: BO020308, Coordinates: -17.409, -68.354
+
+#### Waldo Ballivian
+
+Code: BO020306, Coordinates: -17.112, -68.215
+
+### Sud Yungas
+
+Code: BO0211, Coordinates: -15.833, -67.073
+Municipalitys: 5
+
+#### Chulumani
+
+Code: BO021101, Coordinates: -16.391, -67.533
+
+#### Irupana
+
+Code: BO021102, Coordinates: -16.515, -67.468
+
+#### La Asunta
+
+Code: BO021105, Coordinates: -16.067, -67.138
+
+#### Palos Blancos
+
+Code: BO021104, Coordinates: -15.43, -67.268
+
+#### Yanacachi
+
+Code: BO021103, Coordinates: -16.417, -67.772
+

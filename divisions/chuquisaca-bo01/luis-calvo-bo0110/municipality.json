@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO011002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huacaya",
+      "en": "Huacaya",
+      "slug": "huacaya-bo011002"
+    },
+    "code": {
+      "id": "BO011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0110",
+      "level": 2,
+      "name": {
+        "local": "Luis Calvo",
+        "en": "Luis Calvo",
+        "slug": "luis-calvo-bo0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0110",
+        "level": 2,
+        "name": {
+          "local": "Luis Calvo",
+          "en": "Luis Calvo",
+          "slug": "luis-calvo-bo0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.723",
+      "lon": "-63.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO011003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Macharetí",
+      "en": "Machareti",
+      "slug": "machareti-bo011003"
+    },
+    "code": {
+      "id": "BO011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0110",
+      "level": 2,
+      "name": {
+        "local": "Luis Calvo",
+        "en": "Luis Calvo",
+        "slug": "luis-calvo-bo0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0110",
+        "level": 2,
+        "name": {
+          "local": "Luis Calvo",
+          "en": "Luis Calvo",
+          "slug": "luis-calvo-bo0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.698",
+      "lon": "-62.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO011001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Vaca Guzmán",
+      "en": "Villa Vaca Guzman",
+      "slug": "villa-vaca-guzman-bo011001"
+    },
+    "code": {
+      "id": "BO011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0110",
+      "level": 2,
+      "name": {
+        "local": "Luis Calvo",
+        "en": "Luis Calvo",
+        "slug": "luis-calvo-bo0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0110",
+        "level": 2,
+        "name": {
+          "local": "Luis Calvo",
+          "en": "Luis Calvo",
+          "slug": "luis-calvo-bo0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.017",
+      "lon": "-63.785"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

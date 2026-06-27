@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO060202",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bermejo",
+      "en": "Bermejo",
+      "slug": "bermejo-bo060202"
+    },
+    "code": {
+      "id": "BO060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0602",
+      "level": 2,
+      "name": {
+        "local": "Arce",
+        "en": "Arce",
+        "slug": "arce-bo0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0602",
+        "level": 2,
+        "name": {
+          "local": "Arce",
+          "en": "Arce",
+          "slug": "arce-bo0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.723",
+      "lon": "-64.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO060201",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Padcaya",
+      "en": "Padcaya",
+      "slug": "padcaya-bo060201"
+    },
+    "code": {
+      "id": "BO060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0602",
+      "level": 2,
+      "name": {
+        "local": "Arce",
+        "en": "Arce",
+        "slug": "arce-bo0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO06",
+        "level": 1,
+        "name": {
+          "local": "Tarija",
+          "en": "Tarija",
+          "slug": "tarija-bo06"
+        }
+      },
+      {
+        "id": "BO0602",
+        "level": 2,
+        "name": {
+          "local": "Arce",
+          "en": "Arce",
+          "slug": "arce-bo0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.171",
+      "lon": "-64.469"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

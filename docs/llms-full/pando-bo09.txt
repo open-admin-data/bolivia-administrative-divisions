@@ -1,0 +1,94 @@
+# Pando — Bolivia Administrative Divisions
+
+> 5 provinces, 15 municipalitys
+> Code: BO09
+> Coordinates: -11.084, -67.359
+> Last updated: 2026-06-27. License: CC-BY-4.0.
+
+## Provinces
+
+### Abuná (Abuna)
+
+Code: BO0904, Coordinates: -10.502, -66.924
+Municipalitys: 2
+
+#### Ingavi
+
+Code: BO090402, Coordinates: -10.402, -66.758
+
+#### Santa Rosa
+
+Code: BO090401, Coordinates: -10.668, -67.285
+
+### Federico Román (Federico Roman)
+
+Code: BO0905, Coordinates: -10.261, -65.924
+Municipalitys: 3
+
+#### Nueva Esperanza
+
+Code: BO090501, Coordinates: -10.083, -65.536
+
+#### Santos Mercado
+
+Code: BO090503, Coordinates: -10.078, -66.158
+
+#### Villa Nueva
+
+Code: BO090502, Coordinates: -10.675, -66.09
+
+### Madre de Dios
+
+Code: BO0903, Coordinates: -11.7, -67.361
+Municipalitys: 3
+
+#### Puerto Gonzalo Moreno
+
+Code: BO090301, Coordinates: -11.176, -66.344
+
+#### San Lorenzo
+
+Code: BO090302, Coordinates: -11.791, -66.937
+
+#### Sena
+
+Code: BO090303, Coordinates: -11.927, -67.437
+
+### Manuripi
+
+Code: BO0902, Coordinates: -11.652, -68.432
+Municipalitys: 3
+
+#### Filadelfia
+
+Code: BO090203, Coordinates: -11.862, -68.498
+
+#### Puerto Rico
+
+Code: BO090201, Coordinates: -11.408, -67.607
+
+#### San Pedro
+
+Code: BO090202, Coordinates: -11.07, -66.724
+
+### Nicolás Suárez (Nicolas Suarez)
+
+Code: BO0901, Coordinates: -10.891, -67.923
+Municipalitys: 4
+
+#### Bella Flor
+
+Code: BO090104, Coordinates: -10.806, -67.904
+
+#### Bolpebra
+
+Code: BO090103, Coordinates: -11.204, -69.209
+
+#### Cobija
+
+Code: BO090101, Coordinates: -11.069, -68.884
+
+#### Porvenir
+
+Code: BO090102, Coordinates: -11.254, -68.857
+

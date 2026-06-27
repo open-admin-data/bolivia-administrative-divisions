@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO021101",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chulumani",
+      "en": "Chulumani",
+      "slug": "chulumani-bo021101"
+    },
+    "code": {
+      "id": "BO021101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0211",
+      "level": 2,
+      "name": {
+        "local": "Sud Yungas",
+        "en": "Sud Yungas",
+        "slug": "sud-yungas-bo0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0211",
+        "level": 2,
+        "name": {
+          "local": "Sud Yungas",
+          "en": "Sud Yungas",
+          "slug": "sud-yungas-bo0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.391",
+      "lon": "-67.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021102",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Irupana",
+      "en": "Irupana",
+      "slug": "irupana-bo021102"
+    },
+    "code": {
+      "id": "BO021102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0211",
+      "level": 2,
+      "name": {
+        "local": "Sud Yungas",
+        "en": "Sud Yungas",
+        "slug": "sud-yungas-bo0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0211",
+        "level": 2,
+        "name": {
+          "local": "Sud Yungas",
+          "en": "Sud Yungas",
+          "slug": "sud-yungas-bo0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.515",
+      "lon": "-67.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021105",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Asunta",
+      "en": "La Asunta",
+      "slug": "la-asunta-bo021105"
+    },
+    "code": {
+      "id": "BO021105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0211",
+      "level": 2,
+      "name": {
+        "local": "Sud Yungas",
+        "en": "Sud Yungas",
+        "slug": "sud-yungas-bo0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0211",
+        "level": 2,
+        "name": {
+          "local": "Sud Yungas",
+          "en": "Sud Yungas",
+          "slug": "sud-yungas-bo0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.067",
+      "lon": "-67.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021104",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palos Blancos",
+      "en": "Palos Blancos",
+      "slug": "palos-blancos-bo021104"
+    },
+    "code": {
+      "id": "BO021104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0211",
+      "level": 2,
+      "name": {
+        "local": "Sud Yungas",
+        "en": "Sud Yungas",
+        "slug": "sud-yungas-bo0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0211",
+        "level": 2,
+        "name": {
+          "local": "Sud Yungas",
+          "en": "Sud Yungas",
+          "slug": "sud-yungas-bo0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.43",
+      "lon": "-67.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO021103",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yanacachi",
+      "en": "Yanacachi",
+      "slug": "yanacachi-bo021103"
+    },
+    "code": {
+      "id": "BO021103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0211",
+      "level": 2,
+      "name": {
+        "local": "Sud Yungas",
+        "en": "Sud Yungas",
+        "slug": "sud-yungas-bo0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0211",
+        "level": 2,
+        "name": {
+          "local": "Sud Yungas",
+          "en": "Sud Yungas",
+          "slug": "sud-yungas-bo0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.417",
+      "lon": "-67.772"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

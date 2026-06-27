@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO080402",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Exaltación",
+      "en": "Exaltacion",
+      "slug": "exaltacion-bo080402"
+    },
+    "code": {
+      "id": "BO080402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0804",
+      "level": 2,
+      "name": {
+        "local": "Yacuma",
+        "en": "Yacuma",
+        "slug": "yacuma-bo0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0804",
+        "level": 2,
+        "name": {
+          "local": "Yacuma",
+          "en": "Yacuma",
+          "slug": "yacuma-bo0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.793",
+      "lon": "-65.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO080401",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Ana",
+      "en": "Santa Ana",
+      "slug": "santa-ana-bo080401"
+    },
+    "code": {
+      "id": "BO080401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0804",
+      "level": 2,
+      "name": {
+        "local": "Yacuma",
+        "en": "Yacuma",
+        "slug": "yacuma-bo0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO08",
+        "level": 1,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni-bo08"
+        }
+      },
+      {
+        "id": "BO0804",
+        "level": 2,
+        "name": {
+          "local": "Yacuma",
+          "en": "Yacuma",
+          "slug": "yacuma-bo0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.568",
+      "lon": "-66.064"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

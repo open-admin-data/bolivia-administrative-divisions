@@ -1,0 +1,47 @@
+{
+  "id": "BO0805",
+  "level": 2,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Moxos",
+    "en": "Moxos",
+    "slug": "moxos-bo0805"
+  },
+  "code": {
+    "id": "BO0805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BO08",
+    "level": 1,
+    "name": {
+      "local": "Beni",
+      "en": "Beni",
+      "slug": "beni-bo08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BO08",
+      "level": 1,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni-bo08"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.323",
+    "lon": "-65.664"
+  },
+  "metadata": {},
+  "source": {}
+}

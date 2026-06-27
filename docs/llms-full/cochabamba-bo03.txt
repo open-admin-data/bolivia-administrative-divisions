@@ -1,0 +1,277 @@
+# Cochabamba — Bolivia Administrative Divisions
+
+> 16 provinces, 47 municipalitys
+> Code: BO03
+> Coordinates: -17.231, -65.619
+> Last updated: 2026-06-27. License: CC-BY-4.0.
+
+## Provinces
+
+### Arani
+
+Code: BO0305, Coordinates: -17.6, -65.667
+Municipalitys: 2
+
+#### Arani
+
+Code: BO030501, Coordinates: -17.599, -65.738
+
+#### Vacas
+
+Code: BO030502, Coordinates: -17.599, -65.602
+
+### Arque
+
+Code: BO0306, Coordinates: -17.815, -66.562
+Municipalitys: 2
+
+#### Arque
+
+Code: BO030601, Coordinates: -17.815, -66.421
+
+#### Tacopaya
+
+Code: BO030602, Coordinates: -17.819, -66.616
+
+### Ayopaya
+
+Code: BO0303, Coordinates: -16.614, -66.461
+Municipalitys: 3
+
+#### Ayopaya
+
+Code: BO030301, Coordinates: -17.139, -66.785
+
+#### Cocapata
+
+Code: BO030303, Coordinates: -16.452, -66.525
+
+#### Morochata
+
+Code: BO030302, Coordinates: -17.213, -66.579
+
+### Bolivar
+
+Code: BO0315, Coordinates: -18.012, -66.646
+Municipalitys: 1
+
+#### Bolivar
+
+Code: BO031501, Coordinates: -18.012, -66.646
+
+### Campero
+
+Code: BO0302, Coordinates: -18.278, -64.906
+Municipalitys: 3
+
+#### Aiquile
+
+Code: BO030201, Coordinates: -18.302, -65.079
+
+#### Omereque
+
+Code: BO030203, Coordinates: -18.082, -64.871
+
+#### Pasorapa
+
+Code: BO030202, Coordinates: -18.381, -64.649
+
+### Capinota
+
+Code: BO0307, Coordinates: -17.713, -66.245
+Municipalitys: 3
+
+#### Capinota
+
+Code: BO030701, Coordinates: -17.777, -66.214
+
+#### Santivañez (Santivanez)
+
+Code: BO030702, Coordinates: -17.579, -66.211
+
+#### Sicaya
+
+Code: BO030703, Coordinates: -17.785, -66.343
+
+### Carrasco
+
+Code: BO0312, Coordinates: -16.992, -64.956
+Municipalitys: 6
+
+#### Chimoré (Chimore)
+
+Code: BO031204, Coordinates: -16.58, -64.875
+
+#### Entre Ríos (Entre Rios)
+
+Code: BO031206, Coordinates: -17.284, -64.598
+
+#### Pocona
+
+Code: BO031203, Coordinates: -17.711, -65.393
+
+#### Pojo
+
+Code: BO031202, Coordinates: -17.593, -64.803
+
+#### Puerto Villarroel
+
+Code: BO031205, Coordinates: -17.002, -64.901
+
+#### Totora
+
+Code: BO031201, Coordinates: -17.594, -65.16
+
+### Cercado
+
+Code: BO0301, Coordinates: -17.402, -66.168
+Municipalitys: 1
+
+#### Cochabamba
+
+Code: BO030101, Coordinates: -17.402, -66.168
+
+### Chapare
+
+Code: BO0310, Coordinates: -16.654, -65.642
+Municipalitys: 3
+
+#### Colomi
+
+Code: BO031002, Coordinates: -17.213, -65.945
+
+#### Sacaba
+
+Code: BO031001, Coordinates: -17.32, -66.046
+
+#### Villa Tunari
+
+Code: BO031003, Coordinates: -16.557, -65.569
+
+### Esteban Arze
+
+Code: BO0304, Coordinates: -17.74, -65.95
+Municipalitys: 4
+
+#### Anzaldo
+
+Code: BO030402, Coordinates: -17.842, -65.921
+
+#### Arbieto
+
+Code: BO030403, Coordinates: -17.544, -66.102
+
+#### Sacabamba
+
+Code: BO030404, Coordinates: -17.779, -65.792
+
+#### Tarata
+
+Code: BO030401, Coordinates: -17.709, -66.086
+
+### Germán Jordán (German Jordan)
+
+Code: BO0308, Coordinates: -17.595, -65.922
+Municipalitys: 3
+
+#### Cliza
+
+Code: BO030801, Coordinates: -17.585, -65.927
+
+#### Toco
+
+Code: BO030802, Coordinates: -17.657, -65.93
+
+#### Tolata
+
+Code: BO030803, Coordinates: -17.521, -66
+
+### Mizque
+
+Code: BO0313, Coordinates: -18.029, -65.514
+Municipalitys: 3
+
+#### Alalay
+
+Code: BO031303, Coordinates: -17.777, -65.627
+
+#### Mizque
+
+Code: BO031301, Coordinates: -18.084, -65.397
+
+#### Vila Vila
+
+Code: BO031302, Coordinates: -17.978, -65.657
+
+### Punata
+
+Code: BO0314, Coordinates: -17.592, -65.849
+Municipalitys: 5
+
+#### Punata
+
+Code: BO031401, Coordinates: -17.543, -65.83
+
+#### San Benito
+
+Code: BO031403, Coordinates: -17.504, -65.877
+
+#### Tacachi
+
+Code: BO031404, Coordinates: -17.639, -65.781
+
+#### Villa Gualberto Villarroel
+
+Code: BO031405, Coordinates: -17.696, -65.774
+
+#### Villa Rivero
+
+Code: BO031402, Coordinates: -17.654, -65.861
+
+### Quillacollo
+
+Code: BO0309, Coordinates: -17.394, -66.369
+Municipalitys: 5
+
+#### Colcapirhua
+
+Code: BO030905, Coordinates: -17.387, -66.23
+
+#### Quillacollo
+
+Code: BO030901, Coordinates: -17.255, -66.332
+
+#### Sipesipe
+
+Code: BO030902, Coordinates: -17.514, -66.351
+
+#### Tiquipaya
+
+Code: BO030903, Coordinates: -17.223, -66.21
+
+#### Vinto
+
+Code: BO030904, Coordinates: -17.341, -66.372
+
+### Tapacarí (Tapacari)
+
+Code: BO0311, Coordinates: -17.576, -66.668
+Municipalitys: 1
+
+#### Tapacarí (Tapacari)
+
+Code: BO031101, Coordinates: -17.576, -66.668
+
+### Tiraque
+
+Code: BO0316, Coordinates: -17.186, -65.412
+Municipalitys: 2
+
+#### Shinahota
+
+Code: BO031602, Coordinates: -17.04, -65.324
+
+#### Tiraque
+
+Code: BO031601, Coordinates: -17.316, -65.492
+

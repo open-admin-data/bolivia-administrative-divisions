@@ -1,0 +1,434 @@
+[
+  {
+    "id": "BO020303",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calacoto",
+      "en": "Calacoto",
+      "slug": "calacoto-bo020303"
+    },
+    "code": {
+      "id": "BO020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0203",
+      "level": 2,
+      "name": {
+        "local": "Pacajes",
+        "en": "Pacajes",
+        "slug": "pacajes-bo0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0203",
+        "level": 2,
+        "name": {
+          "local": "Pacajes",
+          "en": "Pacajes",
+          "slug": "pacajes-bo0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.597",
+      "lon": "-68.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caquiaviri",
+      "en": "Caquiaviri",
+      "slug": "caquiaviri-bo020302"
+    },
+    "code": {
+      "id": "BO020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0203",
+      "level": 2,
+      "name": {
+        "local": "Pacajes",
+        "en": "Pacajes",
+        "slug": "pacajes-bo0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0203",
+        "level": 2,
+        "name": {
+          "local": "Pacajes",
+          "en": "Pacajes",
+          "slug": "pacajes-bo0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.056",
+      "lon": "-68.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020305",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Charaña",
+      "en": "Charana",
+      "slug": "charana-bo020305"
+    },
+    "code": {
+      "id": "BO020305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0203",
+      "level": 2,
+      "name": {
+        "local": "Pacajes",
+        "en": "Pacajes",
+        "slug": "pacajes-bo0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0203",
+        "level": 2,
+        "name": {
+          "local": "Pacajes",
+          "en": "Pacajes",
+          "slug": "pacajes-bo0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.664",
+      "lon": "-69.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020304",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comanche",
+      "en": "Comanche",
+      "slug": "comanche-bo020304"
+    },
+    "code": {
+      "id": "BO020304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0203",
+      "level": 2,
+      "name": {
+        "local": "Pacajes",
+        "en": "Pacajes",
+        "slug": "pacajes-bo0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0203",
+        "level": 2,
+        "name": {
+          "local": "Pacajes",
+          "en": "Pacajes",
+          "slug": "pacajes-bo0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.942",
+      "lon": "-68.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Corocoro",
+      "en": "Corocoro",
+      "slug": "corocoro-bo020301"
+    },
+    "code": {
+      "id": "BO020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0203",
+      "level": 2,
+      "name": {
+        "local": "Pacajes",
+        "en": "Pacajes",
+        "slug": "pacajes-bo0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0203",
+        "level": 2,
+        "name": {
+          "local": "Pacajes",
+          "en": "Pacajes",
+          "slug": "pacajes-bo0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.188",
+      "lon": "-68.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020307",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nazacara de Pacajes",
+      "en": "Nazacara de Pacajes",
+      "slug": "nazacara-de-pacajes-bo020307"
+    },
+    "code": {
+      "id": "BO020307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0203",
+      "level": 2,
+      "name": {
+        "local": "Pacajes",
+        "en": "Pacajes",
+        "slug": "pacajes-bo0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0203",
+        "level": 2,
+        "name": {
+          "local": "Pacajes",
+          "en": "Pacajes",
+          "slug": "pacajes-bo0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.927",
+      "lon": "-68.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020308",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago de Callapa",
+      "en": "Santiago de Callapa",
+      "slug": "santiago-de-callapa-bo020308"
+    },
+    "code": {
+      "id": "BO020308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0203",
+      "level": 2,
+      "name": {
+        "local": "Pacajes",
+        "en": "Pacajes",
+        "slug": "pacajes-bo0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0203",
+        "level": 2,
+        "name": {
+          "local": "Pacajes",
+          "en": "Pacajes",
+          "slug": "pacajes-bo0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.409",
+      "lon": "-68.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO020306",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Waldo Ballivian",
+      "en": "Waldo Ballivian",
+      "slug": "waldo-ballivian-bo020306"
+    },
+    "code": {
+      "id": "BO020306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0203",
+      "level": 2,
+      "name": {
+        "local": "Pacajes",
+        "en": "Pacajes",
+        "slug": "pacajes-bo0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO02",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-bo02"
+        }
+      },
+      {
+        "id": "BO0203",
+        "level": 2,
+        "name": {
+          "local": "Pacajes",
+          "en": "Pacajes",
+          "slug": "pacajes-bo0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.112",
+      "lon": "-68.215"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

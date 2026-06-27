@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BO030905",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colcapirhua",
+      "en": "Colcapirhua",
+      "slug": "colcapirhua-bo030905"
+    },
+    "code": {
+      "id": "BO030905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0309",
+      "level": 2,
+      "name": {
+        "local": "Quillacollo",
+        "en": "Quillacollo",
+        "slug": "quillacollo-bo0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0309",
+        "level": 2,
+        "name": {
+          "local": "Quillacollo",
+          "en": "Quillacollo",
+          "slug": "quillacollo-bo0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.387",
+      "lon": "-66.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030901",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quillacollo",
+      "en": "Quillacollo",
+      "slug": "quillacollo-bo030901"
+    },
+    "code": {
+      "id": "BO030901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0309",
+      "level": 2,
+      "name": {
+        "local": "Quillacollo",
+        "en": "Quillacollo",
+        "slug": "quillacollo-bo0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0309",
+        "level": 2,
+        "name": {
+          "local": "Quillacollo",
+          "en": "Quillacollo",
+          "slug": "quillacollo-bo0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.255",
+      "lon": "-66.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030902",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sipesipe",
+      "en": "Sipesipe",
+      "slug": "sipesipe-bo030902"
+    },
+    "code": {
+      "id": "BO030902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0309",
+      "level": 2,
+      "name": {
+        "local": "Quillacollo",
+        "en": "Quillacollo",
+        "slug": "quillacollo-bo0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0309",
+        "level": 2,
+        "name": {
+          "local": "Quillacollo",
+          "en": "Quillacollo",
+          "slug": "quillacollo-bo0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.514",
+      "lon": "-66.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030903",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tiquipaya",
+      "en": "Tiquipaya",
+      "slug": "tiquipaya-bo030903"
+    },
+    "code": {
+      "id": "BO030903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0309",
+      "level": 2,
+      "name": {
+        "local": "Quillacollo",
+        "en": "Quillacollo",
+        "slug": "quillacollo-bo0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0309",
+        "level": 2,
+        "name": {
+          "local": "Quillacollo",
+          "en": "Quillacollo",
+          "slug": "quillacollo-bo0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.223",
+      "lon": "-66.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030904",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vinto",
+      "en": "Vinto",
+      "slug": "vinto-bo030904"
+    },
+    "code": {
+      "id": "BO030904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0309",
+      "level": 2,
+      "name": {
+        "local": "Quillacollo",
+        "en": "Quillacollo",
+        "slug": "quillacollo-bo0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0309",
+        "level": 2,
+        "name": {
+          "local": "Quillacollo",
+          "en": "Quillacollo",
+          "slug": "quillacollo-bo0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.341",
+      "lon": "-66.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

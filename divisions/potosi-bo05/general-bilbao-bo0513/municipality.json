@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BO051302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acasio",
+      "en": "Acasio",
+      "slug": "acasio-bo051302"
+    },
+    "code": {
+      "id": "BO051302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0513",
+      "level": 2,
+      "name": {
+        "local": "General Bilbao",
+        "en": "General Bilbao",
+        "slug": "general-bilbao-bo0513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0513",
+        "level": 2,
+        "name": {
+          "local": "General Bilbao",
+          "en": "General Bilbao",
+          "slug": "general-bilbao-bo0513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.049",
+      "lon": "-66.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO051301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arampampa",
+      "en": "Arampampa",
+      "slug": "arampampa-bo051301"
+    },
+    "code": {
+      "id": "BO051301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0513",
+      "level": 2,
+      "name": {
+        "local": "General Bilbao",
+        "en": "General Bilbao",
+        "slug": "general-bilbao-bo0513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO05",
+        "level": 1,
+        "name": {
+          "local": "Potosí",
+          "en": "Potosi",
+          "slug": "potosi-bo05"
+        }
+      },
+      {
+        "id": "BO0513",
+        "level": 2,
+        "name": {
+          "local": "General Bilbao",
+          "en": "General Bilbao",
+          "slug": "general-bilbao-bo0513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.944",
+      "lon": "-66.125"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

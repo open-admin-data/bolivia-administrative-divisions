@@ -1,0 +1,237 @@
+[
+  {
+    "id": "BO0904",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Abuná",
+      "en": "Abuna",
+      "slug": "abuna-bo0904"
+    },
+    "code": {
+      "id": "BO0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO09",
+      "level": 1,
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.502",
+      "lon": "-66.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0905",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Federico Román",
+      "en": "Federico Roman",
+      "slug": "federico-roman-bo0905"
+    },
+    "code": {
+      "id": "BO0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO09",
+      "level": 1,
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.261",
+      "lon": "-65.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0903",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Madre de Dios",
+      "en": "Madre de Dios",
+      "slug": "madre-de-dios-bo0903"
+    },
+    "code": {
+      "id": "BO0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO09",
+      "level": 1,
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.7",
+      "lon": "-67.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0902",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Manuripi",
+      "en": "Manuripi",
+      "slug": "manuripi-bo0902"
+    },
+    "code": {
+      "id": "BO0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO09",
+      "level": 1,
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.652",
+      "lon": "-68.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO0901",
+    "level": 2,
+    "level_name": {
+      "local": "Provincia",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nicolás Suárez",
+      "en": "Nicolas Suarez",
+      "slug": "nicolas-suarez-bo0901"
+    },
+    "code": {
+      "id": "BO0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO09",
+      "level": 1,
+      "name": {
+        "local": "Pando",
+        "en": "Pando",
+        "slug": "pando-bo09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO09",
+        "level": 1,
+        "name": {
+          "local": "Pando",
+          "en": "Pando",
+          "slug": "pando-bo09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.891",
+      "lon": "-67.923"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

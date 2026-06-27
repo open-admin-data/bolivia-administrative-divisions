@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BO030301",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ayopaya",
+      "en": "Ayopaya",
+      "slug": "ayopaya-bo030301"
+    },
+    "code": {
+      "id": "BO030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0303",
+      "level": 2,
+      "name": {
+        "local": "Ayopaya",
+        "en": "Ayopaya",
+        "slug": "ayopaya-bo0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0303",
+        "level": 2,
+        "name": {
+          "local": "Ayopaya",
+          "en": "Ayopaya",
+          "slug": "ayopaya-bo0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.139",
+      "lon": "-66.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030303",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cocapata",
+      "en": "Cocapata",
+      "slug": "cocapata-bo030303"
+    },
+    "code": {
+      "id": "BO030303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0303",
+      "level": 2,
+      "name": {
+        "local": "Ayopaya",
+        "en": "Ayopaya",
+        "slug": "ayopaya-bo0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0303",
+        "level": 2,
+        "name": {
+          "local": "Ayopaya",
+          "en": "Ayopaya",
+          "slug": "ayopaya-bo0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.452",
+      "lon": "-66.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BO030302",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morochata",
+      "en": "Morochata",
+      "slug": "morochata-bo030302"
+    },
+    "code": {
+      "id": "BO030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0303",
+      "level": 2,
+      "name": {
+        "local": "Ayopaya",
+        "en": "Ayopaya",
+        "slug": "ayopaya-bo0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO03",
+        "level": 1,
+        "name": {
+          "local": "Cochabamba",
+          "en": "Cochabamba",
+          "slug": "cochabamba-bo03"
+        }
+      },
+      {
+        "id": "BO0303",
+        "level": 2,
+        "name": {
+          "local": "Ayopaya",
+          "en": "Ayopaya",
+          "slug": "ayopaya-bo0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.213",
+      "lon": "-66.579"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

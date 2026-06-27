@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BO010801",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Serrano",
+      "en": "Villa Serrano",
+      "slug": "villa-serrano-bo010801"
+    },
+    "code": {
+      "id": "BO010801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BO0108",
+      "level": 2,
+      "name": {
+        "local": "Belisario Boeto",
+        "en": "Belisario Boeto",
+        "slug": "belisario-boeto-bo0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BO01",
+        "level": 1,
+        "name": {
+          "local": "Chuquisaca",
+          "en": "Chuquisaca",
+          "slug": "chuquisaca-bo01"
+        }
+      },
+      {
+        "id": "BO0108",
+        "level": 2,
+        "name": {
+          "local": "Belisario Boeto",
+          "en": "Belisario Boeto",
+          "slug": "belisario-boeto-bo0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.919",
+      "lon": "-64.329"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
