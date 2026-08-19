@@ -3,7 +3,7 @@
 > 5 provinces, 15 municipalitys
 > Code: BO09
 > Coordinates: -11.084, -67.359
-> Last updated: 2026-06-27. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Provinces
 

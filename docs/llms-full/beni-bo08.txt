@@ -3,7 +3,7 @@
 > 8 provinces, 19 municipalitys
 > Code: BO08
 > Coordinates: -13.436, -64.644
-> Last updated: 2026-06-27. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Provinces
 

@@ -3,7 +3,7 @@
 > 6 provinces, 11 municipalitys
 > Code: BO06
 > Coordinates: -21.884, -63.972
-> Last updated: 2026-06-27. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Provinces
 
