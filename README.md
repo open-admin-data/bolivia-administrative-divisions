@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/bo](https://openadmindata.org/bo/) |
 | API | [openadmindata.org/api/bo](https://openadmindata.org/api/bo/) |
+| Flag | [PNG](https://onlygames.me/flags-png/bo/) · [SVG](https://onlygames.me/flags-svg/bo/) · [PDF](https://onlygames.me/flags-pdf/bo/) |
 | National Anthem | [🎵 Listen & Download Bolivia National Anthem MP3](https://onlygames.me/national-anthems/bo/) |
 
 ## Browse by Department

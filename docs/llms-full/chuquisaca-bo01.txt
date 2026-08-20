@@ -3,7 +3,7 @@
 > 10 provinces, 29 municipalitys
 > Code: BO01
 > Coordinates: -19.932, -64.271
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Provinces
 
