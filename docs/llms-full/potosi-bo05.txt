@@ -3,7 +3,7 @@
 > 16 provinces, 40 municipalitys
 > Code: BO05
 > Coordinates: -20.357, -66.965
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Provinces
 
